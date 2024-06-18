@@ -1,568 +1,584 @@
-artist,track,id,danceability,energy,loudness,acousticness,instrumentalness,liveness,valence,tempo,duration
-Taylor Swift,Fortnight (feat. Post Malone),6dODwocEuGzHAavXqTbwHv,0.504,0.386,-10.976,0.502,1.53e-05,0.0961,0.281,192.004,228965
-Taylor Swift,The Tortured Poets Department,4PdLaGZubp4lghChqp8erB,0.604,0.428,-8.441,0.0483,0.0,0.126,0.292,110.259,293048
-Taylor Swift,My Boy Only Breaks His Favorite Toys,7uGYWMwRy24dm7RUDDhUlD,0.596,0.563,-7.362,0.137,0.0,0.302,0.481,97.073,203801
-Taylor Swift,Down Bad,1kbEbBdEgQdQeLXCJh28pJ,0.541,0.366,-10.412,0.56,1e-06,0.0946,0.168,159.707,261228
-Taylor Swift,"So Long, London",7wAkQFShJ27V8362MqevQr,0.423,0.533,-11.388,0.73,0.00264,0.0816,0.248,160.218,262975
-Taylor Swift,But Daddy I Love Him,4QMgEffJQuKtjCNvqfRZ0m,0.521,0.72,-7.684,0.384,0.0,0.135,0.438,79.943,340428
-Taylor Swift,Fresh Out The Slammer,7IWcDWOfiooH5hRs9XOVYz,0.33,0.483,-9.394,0.624,0.0,0.111,0.34,87.115,210789
-Taylor Swift,Florida!!! (feat. Florence + The Machine),5ExOm0dh4NyRyAdSAO9hyM,0.533,0.573,-7.123,0.178,0.0,0.309,0.398,150.088,215463
-Taylor Swift,Guilty as Sin?,799KrpEbhZp0MHeiA8YK9P,0.626,0.428,-8.374,0.607,0.0,0.0921,0.487,94.95,254366
-Taylor Swift,Who’s Afraid of Little Old Me?,2d8UxVNhJinc8uat9PoM9y,0.606,0.338,-10.555,0.315,0.0,0.106,0.238,119.88,334085
-Taylor Swift,I Can Fix Him (No Really I Can),5chnRTB9qMK3W1M41SnU9s,0.661,0.257,-13.961,0.768,1.72e-06,0.176,0.318,106.896,156298
-Taylor Swift,loml,3YkNIrAvbKNrrwwEd7NVLl,0.423,0.272,-12.56,0.858,0.0,0.108,0.195,78.539,277157
-Taylor Swift,I Can Do It With a Broken Heart,2fPvQfGQEZOKtJ9qXeL4x8,0.701,0.751,-8.39,0.123,0.0,0.15,0.22,129.994,218005
-Taylor Swift,The Smallest Man Who Ever Lived,1xtw1krCR6Dw2KwkXw5z63,0.426,0.41,-9.083,0.52,0.0,0.338,0.263,142.377,245542
-Taylor Swift,The Alchemy,1tuNqJOtRQVHvONR8Lg3MZ,0.64,0.421,-8.802,0.422,0.0,0.103,0.353,100.056,196900
-Taylor Swift,Clara Bow,4d9PtIEVij9jW5OaLinH66,0.686,0.318,-11.046,0.636,0.00144,0.106,0.214,104.088,216662
-Taylor Swift,The Black Dog,62E2nR0od0M5HYxuYLaDz7,0.527,0.27,-10.855,0.707,0.0,0.102,0.23,154.042,238857
-Taylor Swift,imgonnagetyouback,1kcwpPDQnqEqmezzXdJTCP,0.784,0.391,-9.471,0.608,0.0,0.252,0.15,110.007,222072
-Taylor Swift,The Albatross,4EF6IyONolQy0bIQXm2EmX,0.352,0.479,-8.942,0.655,0.0,0.0935,0.292,172.013,183879
-Taylor Swift,Chloe or Sam or Sophia or Marcus,1rmEsOezwf2lmIZTMAO5Ag,0.516,0.451,-8.552,0.78,0.0,0.105,0.218,70.266,213281
-Taylor Swift,How Did It End?,5Bedn0svl0ZD7RGmJkmKKw,0.492,0.379,-8.859,0.785,0.00093,0.108,0.273,83.993,238707
-Taylor Swift,So High School,7Mts0OfPorF4iwOomvfqn1,0.366,0.866,-4.514,0.0274,3.07e-06,0.106,0.293,176.07,228800
-Taylor Swift,I Hate It Here,3hlGuz3loYoLfI3bpwieWq,0.485,0.562,-7.197,0.717,0.0,0.357,0.297,105.953,243876
-Taylor Swift,thanK you aIMee,7ogK4lJDVDMU6A6vYR5rvD,0.609,0.541,-8.013,0.609,0.0,0.122,0.252,95.997,263817
-Taylor Swift,I Look in People's Windows,1Zai5UJ2di3qEuR2HeT2s8,0.763,0.274,-11.429,0.69,0.0,0.164,0.385,90.796,131907
-Taylor Swift,The Prophecy,18WFFUIsewmA8g31KAeo3e,0.421,0.525,-10.359,0.825,2.67e-06,0.308,0.535,167.927,249807
-Taylor Swift,Cassandra,0g4fMVo4JjwnIpTfFfLdxS,0.587,0.587,-9.879,0.806,0.0,0.137,0.514,139.963,240206
-Taylor Swift,Peter,3zMDGj4D8ogaYgAIZPeU7S,0.342,0.376,-8.212,0.805,0.0,0.0593,0.29,176.859,283958
-Taylor Swift,The Bolter,2913xXOVAIDAqxzV2g4VcU,0.455,0.586,-7.978,0.638,0.0,0.131,0.481,183.694,238242
-Taylor Swift,Robin,2CnjDMdpRjlWv04Xk3s6MW,0.476,0.386,-10.601,0.791,0.000423,0.1,0.158,138.265,240893
-Taylor Swift,The Manuscript,1DTRUYVd8rYpla9hhVVwjo,0.509,0.256,-11.665,0.901,2.43e-06,0.103,0.436,94.184,224744
-Taylor Swift,Fortnight (feat. Post Malone),2OzhQlSqBEmt7hmkYxfT6m,0.504,0.386,-10.976,0.502,1.53e-05,0.0961,0.281,192.004,228965
-Taylor Swift,The Tortured Poets Department,3NMrVbIVWT3fPXBj0rNDKG,0.604,0.428,-8.441,0.0483,0.0,0.126,0.292,110.259,293048
-Taylor Swift,My Boy Only Breaks His Favorite Toys,2XXwLdtuAcE0HSCu61ijAb,0.596,0.563,-7.362,0.137,0.0,0.302,0.481,97.073,203801
-Taylor Swift,Down Bad,2F3N9tdombb64aW6VtZOdo,0.541,0.366,-10.412,0.56,1e-06,0.0946,0.168,159.707,261228
-Taylor Swift,"So Long, London",3Vevii7qKqrmW8CcyzBHDl,0.423,0.533,-11.388,0.73,0.00264,0.0816,0.248,160.218,262975
-Taylor Swift,But Daddy I Love Him,5og4Qzt92jJzVDkOtSEilb,0.521,0.72,-7.684,0.384,0.0,0.135,0.438,79.943,340428
-Taylor Swift,Fresh Out The Slammer,3fO566xJgwxIa3qGCGBvIC,0.33,0.483,-9.394,0.624,0.0,0.111,0.34,87.115,210789
-Taylor Swift,Florida!!! (feat. Florence + The Machine),3ZVFcD8Wlw9T9klGqmJf9F,0.533,0.573,-7.123,0.178,0.0,0.309,0.398,150.088,215463
-Taylor Swift,Guilty as Sin?,0W0iAC1VGlB82PI6elxFYf,0.626,0.428,-8.374,0.607,0.0,0.0921,0.487,94.95,254366
-Taylor Swift,Who’s Afraid of Little Old Me?,36t6frENUtCYKuZus6aYDO,0.606,0.338,-10.555,0.315,0.0,0.106,0.238,119.88,334085
-Taylor Swift,I Can Fix Him (No Really I Can),2h3MDMf8sd9s4XIzpTBIjX,0.661,0.257,-13.961,0.768,1.72e-06,0.176,0.318,106.896,156298
-Taylor Swift,loml,6RSG1dKPV5gEvILwJb4QtS,0.423,0.272,-12.56,0.858,0.0,0.108,0.195,78.539,277157
-Taylor Swift,I Can Do It With a Broken Heart,4q5YezDOIPcoLr8R81x9qy,0.701,0.751,-8.39,0.123,0.0,0.15,0.22,129.994,218005
-Taylor Swift,The Smallest Man Who Ever Lived,2v1ivOOsgn64g5OywuH55L,0.426,0.41,-9.083,0.52,0.0,0.338,0.263,142.377,245542
-Taylor Swift,The Alchemy,1dhMTsEZz6ZEquGvmzVoHn,0.64,0.421,-8.802,0.422,0.0,0.103,0.353,100.056,196900
-Taylor Swift,Clara Bow,1UlhrRvYzbHEyugEDspXUB,0.686,0.318,-11.046,0.636,0.00144,0.106,0.214,104.088,216662
-Taylor Swift,Welcome To New York (Taylor's Version),4WUepByoeqcedHoYhSNHRt,0.76,0.602,-4.871,0.00661,0.000133,0.325,0.685,116.989,212600
-Taylor Swift,Blank Space (Taylor's Version),0108kcWLnn2HlH2kedi1gn,0.732,0.719,-5.469,0.0901,0.0,0.331,0.71,96.035,231833
-Taylor Swift,Style (Taylor's Version),3Vpk1hfMAQme8VJ0SNRSkd,0.514,0.821,-4.803,0.000456,0.0232,0.0946,0.298,94.884,231000
-Taylor Swift,Out Of The Woods (Taylor's Version),1OcSfkeCg9hRC2sFKB4IMJ,0.544,0.884,-5.973,0.000466,0.000134,0.381,0.184,91.981,235800
-Taylor Swift,All You Had To Do Was Stay (Taylor's Version),2k0ZEeAqzvYMcx9Qt5aClQ,0.589,0.713,-5.614,0.000778,0.0,0.188,0.54,97.069,193289
-Taylor Swift,Shake It Off (Taylor's Version),50yNTF0Od55qnHLxYsA5Pw,0.632,0.805,-5.707,0.0112,2.51e-05,0.156,0.903,160.052,219209
-Taylor Swift,I Wish You Would (Taylor's Version),3FxJDucHWdw6caWTKO5b23,0.671,0.853,-6.568,0.00388,9.48e-06,0.0812,0.523,118.032,207650
-Taylor Swift,Bad Blood (Taylor's Version),7oZONwFiFIErZcXAtTu7FY,0.624,0.711,-6.347,0.0369,3.13e-06,0.19,0.347,169.999,211104
-Taylor Swift,Wildest Dreams (Taylor's Version),27exgla7YBw9DUNNcTIpjy,0.587,0.663,-7.439,0.0348,9.95e-05,0.0971,0.539,139.993,220433
-Taylor Swift,How You Get The Girl (Taylor's Version),733OhaXQIHY7BKtY3vnSkn,0.761,0.67,-5.956,0.00198,1.08e-05,0.0873,0.519,120.014,247533
-Taylor Swift,This Love (Taylor’s Version),4WBEj8TeGtRPNJdOmT3WJW,0.47,0.494,-8.672,0.302,0.0,0.0672,0.0524,144.039,250100
-Taylor Swift,I Know Places (Taylor's Version),1ULabO0PEsdJekqVH6G10G,0.572,0.807,-5.348,0.0846,0.0,0.071,0.626,160.015,195700
-Taylor Swift,Clean (Taylor's Version),0lKUBmEyQfzsQHozyeXzES,0.782,0.379,-8.964,0.297,2.98e-05,0.103,0.267,103.99,271000
-Taylor Swift,Wonderland (Taylor's Version),6HRsJu8vcnzYDN4t0570FY,0.387,0.703,-5.956,0.0105,1.1e-05,0.128,0.32,123.18,245567
-Taylor Swift,You Are In Love (Taylor's Version),0TyGh27YQ5LknmiDhCzJiT,0.554,0.509,-9.403,0.572,2.08e-06,0.113,0.401,85.079,267389
-Taylor Swift,New Romantics (Taylor's Version),5M787RexsAiVYjQusM98CV,0.653,0.848,-5.936,0.00516,4.24e-06,0.0798,0.724,122.017,230178
-Taylor Swift,"""Slut!"" (Taylor's Version) (From The Vault)",0CD7DzeCsuPJygddqlUVYa,0.621,0.415,-13.187,0.33,0.000112,0.0634,0.313,77.978,180381
-Taylor Swift,Say Don't Go (Taylor's Version) (From The Vault),3CCRVu4F91Qp2mnGjmWBrf,0.632,0.539,-8.375,0.0684,5.82e-06,0.132,0.186,109.962,279833
-Taylor Swift,Now That We Don't Talk (Taylor's Version) (From The Vault),5QUIK7ZtziW8kGWo8RqopF,0.8,0.509,-9.386,0.16,3.05e-05,0.0834,0.0768,109.994,146437
-Taylor Swift,Suburban Legends (Taylor's Version) (From The Vault),6M9ppdfFjR1AbpUl3Y8DcV,0.695,0.607,-8.84,0.212,0.0,0.102,0.394,118.043,171819
-Taylor Swift,Is It Over Now? (Taylor's Version) (From The Vault),6IG3sQ8s9nfk6TUlVzRhbN,0.599,0.651,-7.343,0.0486,0.0,0.126,0.153,100.001,229478
-Taylor Swift,Bad Blood (feat. Kendrick Lamar) (Taylor's Version),6qAcApH8obo8eqatCKUHd9,0.604,0.644,-6.931,0.0143,0.0,0.237,0.197,170.088,199773
-Taylor Swift,Welcome To New York (Taylor's Version),1hR8BSuEqPCCZfv93zzzz9,0.76,0.602,-4.871,0.00661,0.000133,0.325,0.685,116.989,212600
-Taylor Swift,Blank Space (Taylor's Version),45wMBGri1PORPjM9PwFfrS,0.732,0.719,-5.469,0.0901,0.0,0.331,0.71,96.035,231833
-Taylor Swift,Style (Taylor's Version),1hjRhYpWyqDpPahmSlUTlc,0.514,0.821,-4.803,0.000456,0.0232,0.0946,0.298,94.884,231000
-Taylor Swift,Out Of The Woods (Taylor's Version),045ZeOHPIzhxxsm8bq5kyE,0.544,0.884,-5.973,0.000466,0.000134,0.381,0.184,91.981,235800
-Taylor Swift,All You Had To Do Was Stay (Taylor's Version),6GXgd1BPD9bUpqw5AntGV5,0.589,0.713,-5.614,0.000778,0.0,0.188,0.54,97.069,193289
-Taylor Swift,Shake It Off (Taylor's Version),3pv7Q5v2dpdefwdWIvE7yH,0.632,0.805,-5.707,0.0112,2.51e-05,0.156,0.903,160.052,219209
-Taylor Swift,I Wish You Would (Taylor's Version),43y1WpBdnEy5TR9aZoSQL9,0.671,0.853,-6.568,0.00388,9.48e-06,0.0812,0.523,118.032,207650
-Taylor Swift,Bad Blood (Taylor's Version),64FzgoLZ3oXu2SriZblHic,0.624,0.711,-6.347,0.0369,3.13e-06,0.19,0.347,169.999,211104
-Taylor Swift,Wildest Dreams (Taylor's Version),1K39ty6o1sHwwlZwO6a7wK,0.587,0.663,-7.439,0.0348,9.95e-05,0.0971,0.539,139.993,220433
-Taylor Swift,How You Get The Girl (Taylor's Version),75W3SngKzTuoQ94uLf3y82,0.761,0.67,-5.956,0.00198,1.08e-05,0.0873,0.519,120.014,247533
-Taylor Swift,This Love (Taylor’s Version),5QVVjX0ZItqlVpEuVCM9Yg,0.47,0.494,-8.672,0.302,0.0,0.0672,0.0524,144.039,250100
-Taylor Swift,I Know Places (Taylor's Version),2f0GI2ZLUtbGqFx8t2Gk6A,0.572,0.807,-5.348,0.0846,0.0,0.071,0.626,160.015,195700
-Taylor Swift,Clean (Taylor's Version),2ByBBvpR9b7IynvRmnG7kG,0.782,0.379,-8.964,0.297,2.98e-05,0.103,0.267,103.99,271000
-Taylor Swift,Wonderland (Taylor's Version),2ve0kuaWUCt4Zx8x4bf1MR,0.387,0.703,-5.956,0.0105,1.1e-05,0.128,0.32,123.18,245567
-Taylor Swift,You Are In Love (Taylor's Version),4UwqOWDpdeIDVQDuKT6iza,0.554,0.509,-9.403,0.572,2.08e-06,0.113,0.401,85.079,267389
-Taylor Swift,New Romantics (Taylor's Version),2vPMoMDXxu9uX1igWZmXSG,0.653,0.848,-5.936,0.00516,4.24e-06,0.0798,0.724,122.017,230178
-Taylor Swift,"""Slut!"" (Taylor's Version) (From The Vault)",71BqAINEnezjQfxE4VuJfq,0.621,0.415,-13.187,0.33,0.000112,0.0634,0.313,77.978,180381
-Taylor Swift,Say Don't Go (Taylor's Version) (From The Vault),4NioO5R9sHEZh4cGzMHyNt,0.632,0.539,-8.375,0.0684,5.82e-06,0.132,0.186,109.962,279833
-Taylor Swift,Now That We Don't Talk (Taylor's Version) (From The Vault),5KD6AEm19QnMbfWpfoOHMl,0.8,0.509,-9.386,0.16,3.05e-05,0.0834,0.0768,109.994,146437
-Taylor Swift,Suburban Legends (Taylor's Version) (From The Vault),6T0sEnqjmHISIKwFETeeiP,0.695,0.607,-8.84,0.212,0.0,0.102,0.394,118.043,171819
-Taylor Swift,Is It Over Now? (Taylor's Version) (From The Vault),1Iq8oo9XkmmvCQiGOfORiz,0.599,0.651,-7.343,0.0486,0.0,0.126,0.153,100.001,229478
-Taylor Swift,Mine (Taylor's Version),7G0gBu6nLdhFDPRLc0HdDG,0.647,0.793,-2.903,0.00314,1.93e-06,0.174,0.5,121.101,231707
-Taylor Swift,Sparks Fly (Taylor’s Version),3MytWN8L7shNYzGl4tAKRp,0.605,0.769,-2.413,0.0241,0.0,0.0936,0.366,114.921,261231
-Taylor Swift,Back To December (Taylor's Version),79uDOz0zuuWS7HWxzMmTa2,0.486,0.635,-3.994,0.00705,0.0,0.119,0.235,141.868,294190
-Taylor Swift,Speak Now (Taylor's Version),5xXqyjLicvEpch72qEryFT,0.734,0.686,-2.926,0.225,0.0,0.136,0.598,119.002,242473
-Taylor Swift,Dear John (Taylor's Version),1zU8j1x3yi9xalMF96pzKp,0.379,0.468,-5.07,0.0327,0.0,0.158,0.115,119.447,405907
-Taylor Swift,Mean (Taylor's Version),30Y4CV7A6YqtQtTTo7Ue4j,0.526,0.7,-3.95,0.321,0.0,0.213,0.596,163.949,238693
-Taylor Swift,The Story Of Us (Taylor's Version),6dTA6y0C2ReQklntzZl8l3,0.516,0.784,-2.636,0.00136,0.0,0.0499,0.552,139.787,267653
-Taylor Swift,Never Grow Up (Taylor's Version),2EFZ9emtKWEglWUQGEQ3P9,0.684,0.339,-7.259,0.867,0.0,0.194,0.572,125.054,292920
-Taylor Swift,Enchanted (Taylor's Version),3sW3oSbzsfecv9XoUdGs7h,0.52,0.553,-3.546,0.016,0.0,0.165,0.227,81.949,353253
-Taylor Swift,Better Than Revenge (Taylor's Version),0NwGC0v03ysCYINtg6ns58,0.505,0.893,-3.013,0.000795,0.0,0.178,0.659,145.913,220307
-Taylor Swift,Innocent (Taylor's Version),12nBPF4Rh4XLFJV0YLN7uj,0.524,0.611,-5.298,0.0972,0.0,0.127,0.126,133.583,301222
-Taylor Swift,Haunted (Taylor's Version),4tMzIAFTFdqGBQLdfbPces,0.44,0.916,-1.927,0.00552,0.0,0.252,0.371,162.025,245413
-Taylor Swift,Last Kiss (Taylor's Version),59KOoHFcw5XfICnO57holu,0.557,0.362,-8.641,0.443,3.57e-06,0.1,0.187,79.573,369120
-Taylor Swift,Long Live (Taylor's Version),4hqJ4bSlYJOXb6Z4SRmzxs,0.38,0.628,-4.054,0.0162,0.0,0.227,0.0984,203.826,317960
-Taylor Swift,Ours (Taylor’s Version),3yNJkriPzWjkkDAWHIAVUq,0.539,0.475,-8.411,0.42,0.0,0.109,0.293,159.824,235803
-Taylor Swift,Superman (Taylor’s Version),4evLyY5Ue1Wesc61t2KXAU,0.537,0.733,-3.506,0.00207,0.0,0.11,0.347,131.898,274945
-Taylor Swift,Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),4e3ZNTAV6PCrdYMUrUlMpQ,0.547,0.854,-4.753,0.018,0.0,0.156,0.26,131.068,266467
-Taylor Swift,When Emma Falls in Love (Taylor’s Version) (From The Vault),0zo975x58DlXbZllWvfYhg,0.524,0.759,-4.714,0.168,0.0,0.104,0.234,77.879,252386
-Taylor Swift,I Can See You (Taylor’s Version) (From The Vault),5kHMfzgLZP95O9NBy0ku4v,0.695,0.768,-4.883,0.0577,0.0,0.0426,0.813,123.054,273186
-Taylor Swift,Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),4ABYxlb92WBIjHu7TIKmml,0.578,0.565,-8.064,0.342,0.0,0.0662,0.351,147.781,306062
-Taylor Swift,Foolish One (Taylor’s Version) (From The Vault),4s8BIKx4Zh6ryAEz8RTlaU,0.672,0.613,-4.709,0.599,0.0,0.112,0.557,97.041,311765
-Taylor Swift,Timeless (Taylor’s Version) (From The Vault),1HCdems7PQZRj42QDWLA0A,0.629,0.578,-5.806,0.332,0.0,0.0868,0.651,142.887,321397
-Taylor Swift,Lavender Haze,24emu3sabKISjRkrys28jq,0.735,0.449,-10.56,0.23,0.00126,0.132,0.0955,97.05,202396
-Taylor Swift,Maroon,6qxvy9Pe4RJIq5JBVbbwbS,0.655,0.384,-8.29,0.0634,1.45e-06,0.0973,0.0384,108.058,218271
-Taylor Swift,Anti-Hero,5qIHFdkW6phMsTZlN2g8Lc,0.633,0.648,-6.645,0.121,2.62e-06,0.161,0.49,96.888,200690
-Taylor Swift,Snow On The Beach (feat. Lana Del Rey),7GA86Uo2jYbj8vIXe2nyWd,0.663,0.321,-13.527,0.701,0.000598,0.107,0.153,110.021,256124
-Taylor Swift,"You're On Your Own, Kid",6PQOU00xWNrGwCZzboriXy,0.696,0.39,-10.331,0.447,1.55e-05,0.125,0.395,120.032,194207
-Taylor Swift,Midnight Rain,4eKMqf9ZMSclDX7V9Ptg7x,0.604,0.375,-11.637,0.71,5.87e-05,0.116,0.203,137.651,174783
-Taylor Swift,Question...?,7oomkQSYf1ia2VnVEWfFIU,0.654,0.51,-8.767,0.206,0.0,0.249,0.105,108.874,210557
-Taylor Swift,Vigilante Shit,0GKDhq6ZbmSbRHd3eyGlB7,0.872,0.267,-10.764,0.166,2.18e-05,0.123,0.168,79.964,164801
-Taylor Swift,Bejeweled,0VpF6RLdCfPIeYRwMu4tZK,0.687,0.551,-9.202,0.0593,0.000143,0.09,0.443,163.994,194166
-Taylor Swift,Labyrinth,4bBDkw2KBMX0tcgAaXC83Q,0.48,0.295,-15.512,0.797,0.333,0.12,0.132,110.018,247962
-Taylor Swift,Karma,45R112Jz5hQeKgITXgSXzs,0.64,0.619,-7.108,0.062,0.0,0.475,0.121,90.008,204852
-Taylor Swift,Sweet Nothing,2L09RYwH5Pjzca6PmbUAw3,0.336,0.161,-14.973,0.968,0.00011,0.115,0.407,176.48,188497
-Taylor Swift,Mastermind,1QQii3pa5m8MEda0nbkjfw,0.66,0.343,-14.132,0.565,0.00134,0.0922,0.137,125.96,191039
-Taylor Swift,The Great War,2VuqMjgoKaOHNM8HpxtXKx,0.57,0.747,-8.93,0.199,2.32e-05,0.0854,0.574,96.016,240356
-Taylor Swift,Bigger Than The Whole Sky,71CBDRKmF2VeRKYMG1DFBh,0.42,0.22,-12.584,0.841,0.00131,0.114,0.0705,165.564,218503
-Taylor Swift,Paris,5tWxKWq1DSP1s9WQ5PWuqu,0.703,0.518,-10.501,0.103,2.89e-05,0.148,0.347,110.94,196259
-Taylor Swift,High Infidelity,1SztNGCwEHJEVFx90E5g7D,0.571,0.547,-10.141,0.704,0.0,0.0877,0.768,175.933,231475
-Taylor Swift,Glitch,7C0w28EsX0Um2FrZs9gso2,0.677,0.47,-9.65,0.314,0.0,0.11,0.347,140.881,148781
-Taylor Swift,"Would've, Could've, Should've",4txojlesMFQZGWxwz2EeqB,0.485,0.846,-6.557,0.393,0.00115,0.124,0.548,157.918,260362
-Taylor Swift,Dear Reader,10GRRCR5fctuOF4GFmATJI,0.674,0.39,-11.944,0.464,0.00122,0.116,0.151,107.891,225194
-Taylor Swift,Hits Different,3xYJScVfxByb61dYHTwiby,0.666,0.786,-6.556,0.134,3.34e-06,0.265,0.261,106.02,234467
-Taylor Swift,Snow On The Beach (feat. More Lana Del Rey),4zmKGsrXjLmljb5fTaBTot,0.664,0.399,-10.997,0.797,3.13e-06,0.105,0.265,109.937,229943
-Taylor Swift,Karma (feat. Ice Spice),4i6cwNY6oIUU2XZxPIw82Y,0.615,0.626,-6.548,0.0574,0.0,0.596,0.0705,89.984,201493
-Taylor Swift,Lavender Haze,4g2c7NoTWAOSYDy44l9nub,0.735,0.449,-10.56,0.23,0.00126,0.132,0.0955,97.05,202396
-Taylor Swift,Maroon,199E1RRrVmVTQqBXih5qRC,0.655,0.384,-8.29,0.0634,1.45e-06,0.0973,0.0384,108.058,218271
-Taylor Swift,Anti-Hero,02Zkkf2zMkwRGQjZ7T4p8f,0.633,0.648,-6.645,0.121,2.62e-06,0.161,0.49,96.888,200690
-Taylor Swift,Snow On The Beach (feat. Lana Del Rey),6ADDIJxxqzM9LMpm78yzQG,0.663,0.321,-13.527,0.701,0.000598,0.107,0.153,110.021,256124
-Taylor Swift,"You're On Your Own, Kid",7gVWKBcfIW93YxNBi3ApIE,0.696,0.39,-10.331,0.447,1.55e-05,0.125,0.395,120.032,194207
-Taylor Swift,Midnight Rain,6Nl7KyvjkFncGsjB49SxLl,0.604,0.375,-11.637,0.71,5.87e-05,0.116,0.203,137.651,174783
-Taylor Swift,Question...?,6C7OF1Jal7YkyjzyUG8vkK,0.654,0.51,-8.767,0.206,0.0,0.249,0.105,108.874,210557
-Taylor Swift,Vigilante Shit,5yeuXkukVGuix3vmLu2BPJ,0.872,0.267,-10.764,0.166,2.18e-05,0.123,0.168,79.964,164801
-Taylor Swift,Bejeweled,0jvo9CjnbR0lYUDTSNTMiu,0.687,0.551,-9.202,0.0593,0.000143,0.09,0.443,163.994,194166
-Taylor Swift,Labyrinth,43q586vP8gGkYypKoSddhl,0.48,0.295,-15.512,0.797,0.333,0.12,0.132,110.018,247962
-Taylor Swift,Karma,5oqDgw5VGBln5dSIOPWyBq,0.64,0.619,-7.108,0.062,0.0,0.475,0.121,90.008,204852
-Taylor Swift,Sweet Nothing,3zmwONxswBAzGwExPugSLN,0.336,0.161,-14.973,0.968,0.00011,0.115,0.407,176.48,188497
-Taylor Swift,Mastermind,56hioFjQ0DXrdn04hZcFgG,0.66,0.343,-14.132,0.565,0.00134,0.0922,0.137,125.96,191039
-Taylor Swift,The Great War,3UMrglJeju5yWyYIW6o99b,0.57,0.747,-8.93,0.199,2.32e-05,0.0854,0.574,96.016,240356
-Taylor Swift,Bigger Than The Whole Sky,0BiqmkasE5FdrChwKfVp8X,0.42,0.22,-12.584,0.841,0.00131,0.114,0.0705,165.564,218503
-Taylor Swift,Paris,7712gjoih4QoDbXpljEk21,0.703,0.518,-10.501,0.103,2.89e-05,0.148,0.347,110.94,196259
-Taylor Swift,High Infidelity,5kiZGSxgqPdv6rbqL9THdd,0.571,0.547,-10.141,0.704,0.0,0.0877,0.768,175.933,231475
-Taylor Swift,Glitch,6wAFvJPpTZVirBKGZ4EnMW,0.677,0.47,-9.65,0.314,0.0,0.11,0.347,140.881,148781
-Taylor Swift,"Would've, Could've, Should've",0aV5uARAknQgYhBaK944FP,0.485,0.846,-6.557,0.393,0.00115,0.124,0.548,157.918,260362
-Taylor Swift,Dear Reader,3QF5RsWzK1lCvf2o2cY65P,0.674,0.39,-11.944,0.464,0.00122,0.116,0.151,107.891,225194
-Taylor Swift,Lavender Haze,5jQI2r1RdgtuT8S3iG8zFC,0.735,0.449,-10.56,0.23,0.00126,0.132,0.0955,97.05,202396
-Taylor Swift,Maroon,3eX0NZfLtGzoLUxPNvRfqm,0.655,0.384,-8.29,0.0634,1.45e-06,0.0973,0.0384,108.058,218271
-Taylor Swift,Anti-Hero,0V3wPSX9ygBnCm8psDIegu,0.633,0.648,-6.645,0.121,2.62e-06,0.161,0.49,96.888,200690
-Taylor Swift,Snow On The Beach (feat. Lana Del Rey),1wtOxkiel43cVs0Yux5Q4h,0.663,0.321,-13.527,0.701,0.000598,0.107,0.153,110.021,256124
-Taylor Swift,"You're On Your Own, Kid",4D7BCuvgdJlYvlX5WlN54t,0.696,0.39,-10.331,0.447,1.55e-05,0.125,0.395,120.032,194207
-Taylor Swift,Midnight Rain,3rWDp9tBPQR9z6U5YyRSK4,0.604,0.375,-11.637,0.71,5.87e-05,0.116,0.203,137.651,174783
-Taylor Swift,Question...?,0heeNYlwOGuUSe7TgUD27B,0.654,0.51,-8.767,0.206,0.0,0.249,0.105,108.874,210557
-Taylor Swift,Vigilante Shit,1xwAWUI6Dj0WGC3KiUPN0O,0.872,0.267,-10.764,0.166,2.18e-05,0.123,0.168,79.964,164801
-Taylor Swift,Bejeweled,3qoftcUZaUOncvIYjFSPdE,0.687,0.551,-9.202,0.0593,0.000143,0.09,0.443,163.994,194166
-Taylor Swift,Labyrinth,0A1JLUlkZkp2EFrosoNQi0,0.48,0.295,-15.512,0.797,0.333,0.12,0.132,110.018,247962
-Taylor Swift,Karma,7KokYm8cMIXCsGVmUvKtqf,0.64,0.619,-7.108,0.062,0.0,0.475,0.121,90.008,204852
-Taylor Swift,Sweet Nothing,0wavGRldH0AWyu2zvTz8zb,0.336,0.161,-14.973,0.968,0.00011,0.115,0.407,176.48,188497
-Taylor Swift,Mastermind,7FmYn9e7KHMXcxqGSj9LjH,0.66,0.343,-14.132,0.565,0.00134,0.0922,0.137,125.96,191039
-Taylor Swift,State Of Grace (Taylor's Version),6lzc0Al0zfZOIFsFvBS1ki,0.594,0.713,-5.314,0.000328,0.0,0.114,0.328,129.958,295413
-Taylor Swift,Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,0.516,0.777,-4.908,0.00108,1.62e-06,0.0761,0.408,125.047,223093
-Taylor Swift,Treacherous (Taylor's Version),3S7HNKPakdwNEBFIVTL6dZ,0.645,0.593,-6.506,0.0344,0.000127,0.13,0.299,109.984,242720
-Taylor Swift,I Knew You Were Trouble (Taylor's Version),6AtZLIzUINvExIUy4QhdjP,0.584,0.557,-6.371,0.0129,0.0,0.0576,0.767,154.008,219760
-Taylor Swift,All Too Well (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,0.44,0.528,-7.809,0.0171,0.00203,0.234,0.132,185.972,329160
-Taylor Swift,22 (Taylor's Version),3yII7UwgLF6K5zW3xad3MP,0.642,0.695,-5.62,0.000443,1.02e-05,0.0753,0.642,103.984,230960
-Taylor Swift,I Almost Do (Taylor's Version),2r9CbjYgFhtAmcFv1cSquB,0.511,0.559,-6.587,0.0167,0.0,0.113,0.248,145.88,244587
-Taylor Swift,We Are Never Ever Getting Back Together (Taylor's Version),5YqltLsjdqFtvqE7Nrysvs,0.567,0.686,-6.139,0.0317,1.86e-06,0.0732,0.716,172.014,193147
-Taylor Swift,Stay Stay Stay (Taylor's Version),7eQj6r5PIdYKEIZjucBMcq,0.693,0.681,-7.039,0.0848,0.0,0.0768,0.663,100.02,205787
-Taylor Swift,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),0y6kdSRCVQhSsHSpWvTUm7,0.502,0.534,-5.954,0.0399,0.0,0.0977,0.155,94.05,299080
-Taylor Swift,Holy Ground (Taylor's Version),7J4b3LVCIGO4CMBDFLPoP6,0.622,0.809,-5.623,0.0288,0.00218,0.109,0.511,156.894,202960
-Taylor Swift,Sad Beautiful Tragic (Taylor's Version),73qMN9bXy7MSPwwGfH3wQr,0.601,0.406,-11.827,0.622,9.19e-05,0.133,0.232,130.059,284773
-Taylor Swift,The Lucky One (Taylor's Version),4e5ayHsOLJNLTGfjau2mEw,0.686,0.571,-7.138,0.066,0.0,0.0608,0.538,117.889,240467
-Taylor Swift,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),7qEUFOVcxRI19tbT68JcYK,0.498,0.61,-5.098,0.271,0.0,0.223,0.474,79.918,245427
-Taylor Swift,Starlight (Taylor's Version),7A2cNLRT0YJc1yjxHlKihs,0.628,0.685,-5.864,0.00324,0.0,0.18,0.605,126.014,220413
-Taylor Swift,Begin Again (Taylor's Version),05GsNucq8Bngd9fnd4fRa0,0.519,0.527,-7.673,0.075,0.0,0.132,0.267,78.915,238867
-Taylor Swift,The Moment I Knew (Taylor's Version),0NRHj8hDwwmSPaA41o379r,0.636,0.402,-7.855,0.0494,0.0,0.107,0.208,125.952,285280
-Taylor Swift,Come Back...Be Here (Taylor's Version),4pNApnaUWAL2J4KO2eqokq,0.46,0.632,-6.031,0.0158,0.0,0.0822,0.399,79.846,223333
-Taylor Swift,Girl At Home (Taylor's Version),0DMVrlMUn01M0IcpDbwgu7,0.691,0.736,-6.974,0.00955,1.88e-05,0.101,0.612,125.089,220520
-Taylor Swift,State Of Grace (Acoustic Version) (Taylor's Version),5jAIouBES8LWMiriuNq170,0.445,0.131,-13.778,0.663,1.57e-06,0.108,0.101,208.918,321640
-Taylor Swift,Ronan (Taylor's Version),7nWui6jiMM2m9qFmET1Mtj,0.623,0.279,-10.802,0.661,0.0,0.193,0.38,116.04,264253
-Taylor Swift,Better Man (Taylor's Version) (From The Vault),4OmFmE0fzcMG6g0Y8p4eSD,0.473,0.579,-5.824,0.214,0.0,0.0877,0.255,73.942,297013
-Taylor Swift,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),01K4zKU104LyJ8gMb7227B,0.606,0.377,-9.455,0.817,0.0,0.154,0.446,101.96,258813
-Taylor Swift,Babe (Taylor's Version) (From The Vault),0v4z1tuZvn6LGknom9Qx7d,0.584,0.743,-7.075,0.0538,2.83e-06,0.121,0.746,167.844,224240
-Taylor Swift,Message In A Bottle (Taylor's Version) (From The Vault),3z6XUommYDWPHeFhmhhT6j,0.622,0.791,-6.106,0.00188,3.72e-06,0.083,0.494,115.915,225960
-Taylor Swift,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),4CkgMiMqZ5JzW9iYXSTMTL,0.391,0.715,-4.516,0.167,0.0,0.183,0.473,149.654,285107
-Taylor Swift,Forever Winter (Taylor's Version) (From The Vault),3oGVx9RBmiYGv5ZCecWLkx,0.611,0.552,-5.828,0.256,0.0,0.134,0.41,116.012,263533
-Taylor Swift,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),4IQkfUsrwXol38VV3U7t7T,0.61,0.488,-6.918,0.817,0.0,0.312,0.443,125.039,240227
-Taylor Swift,The Very First Night (Taylor's Version) (From The Vault),6pYNq0ZwpPVazKzsqpf0G8,0.678,0.733,-5.025,0.00115,0.0,0.104,0.581,121.009,200280
-Taylor Swift,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,0.631,0.518,-8.771,0.274,0.0,0.088,0.205,93.023,613027
-Taylor Swift,Fearless (Taylor’s Version),77sMIMlNaSURUAXq5coCxE,0.569,0.741,-4.963,0.0122,0.0,0.333,0.43,100.118,241592
-Taylor Swift,Fifteen (Taylor’s Version),2nqio0SfWg6gh2eCtfuMa5,0.559,0.646,-4.61,0.116,0.0,0.32,0.289,95.466,294419
-Taylor Swift,Love Story (Taylor’s Version),6YvqWjhGD8mB5QXcbcUKtx,0.627,0.792,-4.311,0.13,3.97e-06,0.0845,0.415,119.054,235767
-Taylor Swift,Hey Stephen (Taylor’s Version),550erGcdD9n6PnwxrvYqZT,0.788,0.571,-6.135,0.106,0.0,0.0934,0.797,115.99,254255
-Taylor Swift,White Horse (Taylor’s Version),5YL553x8sHderRBDlm3NM3,0.423,0.517,-7.377,0.369,0.0,0.177,0.366,185.262,234516
-Taylor Swift,You Belong With Me (Taylor’s Version),1qrpoAMXodY6895hGKoUpA,0.632,0.773,-4.856,0.0623,0.0,0.0885,0.474,130.033,231124
-Taylor Swift,Breathe (feat. Colbie Caillat) (Taylor’s Version),7HC7R2D8WjXVcUHJyEGjRs,0.506,0.626,-6.066,0.156,0.0,0.228,0.321,148.035,263377
-Taylor Swift,Tell Me Why (Taylor’s Version),0k0vFacOHNuArLWMiH60p7,0.578,0.909,-3.669,0.0222,0.0,0.333,0.541,100.023,200576
-Taylor Swift,You’re Not Sorry (Taylor’s Version),6iiAfo4wTA2CVC3Uwx9uh8,0.506,0.444,-4.99,0.0538,0.0,0.123,0.241,133.873,261843
-Taylor Swift,The Way I Loved You (Taylor’s Version),22bPsP2jCgbLUvh82U0Z3M,0.402,0.732,-4.665,0.0033,0.0,0.108,0.472,161.032,243137
-Taylor Swift,Forever & Always (Taylor’s Version),1msEuwSBneBKpVCZQcFTsU,0.598,0.821,-4.433,0.0231,0.0,0.143,0.673,128.03,225328
-Taylor Swift,The Best Day (Taylor’s Version),6ON9UuIq49xXY9GPmHIYRp,0.642,0.576,-8.524,0.488,0.0,0.159,0.469,125.0,245290
-Taylor Swift,Change (Taylor’s Version),3ExweHKZF9B752DPQByRVT,0.499,0.815,-4.063,0.000191,0.0,0.181,0.344,95.999,279360
-Taylor Swift,Jump Then Fall (Taylor’s Version),2m3ObD945KvpE5y9A1eUWm,0.572,0.69,-6.201,0.0474,0.0,0.0897,0.624,160.111,237580
-Taylor Swift,Untouchable (Taylor’s Version),0tQ9vBYpldCuikPsbgOVKA,0.393,0.531,-6.112,0.0181,0.0,0.169,0.224,200.391,312107
-Taylor Swift,Forever & Always (Piano Version) (Taylor’s Version),01QdEx6kFr78ZejhQtWR5m,0.546,0.273,-9.208,0.819,0.0,0.137,0.271,118.753,267833
-Taylor Swift,Come In With The Rain (Taylor’s Version),1n2wszmJyVkw6FHqyLnQsY,0.476,0.564,-5.677,0.0406,0.0,0.102,0.167,143.929,237339
-Taylor Swift,Superstar (Taylor’s Version),51A8eKvvZz9uydvIZ7xRSV,0.454,0.555,-6.69,0.157,0.0,0.343,0.171,171.862,263865
-Taylor Swift,The Other Side Of The Door (Taylor’s Version),1cSFlSBdpT4F5vb1frQ231,0.432,0.873,-4.367,0.0279,0.0,0.167,0.629,163.936,238444
-Taylor Swift,Today Was A Fairytale (Taylor’s Version),2JoJrsEV15OzbijS47lids,0.482,0.779,-5.025,0.0135,0.0,0.296,0.328,158.162,241822
-Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),4CHpVfAhuxNJ3ibExe6kxO,0.599,0.494,-7.61,0.816,0.0,0.101,0.44,142.893,220839
-Taylor Swift,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),2CYVETnhM9aytqrazYYwrK,0.66,0.817,-6.269,0.162,0.0,0.0667,0.714,135.942,277592
-Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),34V9RiEPe8MNdU32qJsJa1,0.609,0.373,-8.819,0.849,0.0,0.0779,0.13,106.007,244237
-Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),7eResoqEJJAVTkQYSqvO3P,0.588,0.608,-7.062,0.225,0.0,0.092,0.508,90.201,189496
-Taylor Swift,Don’t You (Taylor’s Version) (From The Vault),4uuEGH5SVuzkkSFjo2DEiY,0.563,0.473,-11.548,0.514,1.2e-05,0.109,0.405,101.934,208609
-Taylor Swift,Bye Bye Baby (Taylor’s Version) (From The Vault),4qUijfYU8EoIWiY6oSyrgT,0.624,0.624,-7.86,0.334,0.0,0.0995,0.527,80.132,242158
-Taylor Swift,willow,2gVhfX2Gy1T9kDuS9azrF7,0.392,0.574,-9.195,0.833,0.00179,0.145,0.529,81.112,214707
-Taylor Swift,champagne problems,1gcyHQpBQ1lfXGdhZmWrHP,0.462,0.24,-12.077,0.92,0.0,0.113,0.32,171.319,244000
-Taylor Swift,gold rush,3Dby3p1m6IOZn2gIIqECgK,0.512,0.462,-10.491,0.83,0.166,0.121,0.353,112.05,185320
-Taylor Swift,‘tis the damn season,6sQckd3Z8NPxVVKUnavY1F,0.575,0.434,-8.193,0.735,6.59e-05,0.105,0.348,145.916,229840
-Taylor Swift,tolerate it,6lCvK2AR2uOKkVFCVlAzzm,0.316,0.361,-10.381,0.878,2.67e-05,0.0797,0.221,74.952,245440
-Taylor Swift,"no body, no crime (feat. HAIM)",6uwfVkaOM1mcMkFmSn35ix,0.546,0.613,-7.589,0.418,0.0,0.103,0.535,79.015,215627
-Taylor Swift,happiness,55Vf4bimc1Rtfg0PAQRAo2,0.559,0.334,-10.733,0.87,0.0,0.114,0.211,122.079,315147
-Taylor Swift,dorothea,66tOfHVH3aUrscg8vExRV4,0.605,0.488,-8.322,0.696,0.0,0.129,0.354,119.966,225880
-Taylor Swift,coney island (feat. The National),2awNGIJHodfLZSClB3PYhz,0.537,0.537,-11.266,0.819,0.000904,0.142,0.292,107.895,275320
-Taylor Swift,ivy,43Ykum9T72UOPhBN31grpN,0.515,0.545,-9.277,0.855,1.97e-05,0.0921,0.535,88.856,260440
-Taylor Swift,cowboy like me,52OkpDsU6MmPx1AwGOb6Ap,0.604,0.517,-9.014,0.768,0.000155,0.123,0.511,127.967,275040
-Taylor Swift,long story short,5VYWxXUpxuxEmCqMLDqICo,0.546,0.73,-7.704,0.66,0.179,0.0972,0.573,157.895,215920
-Taylor Swift,marjorie,5uICWmZTLkpEVbK22PBP6e,0.535,0.561,-11.609,0.876,0.000136,0.115,0.287,96.103,257773
-Taylor Swift,closure,6a8aUhYbaQBUI8PcJ5ZmQ6,0.689,0.704,-10.813,0.835,4.83e-06,0.134,0.92,151.884,180653
-Taylor Swift,evermore (feat. Bon Iver),6Wlq9rqkxrqj5Kls4Kw14H,0.39,0.27,-10.673,0.937,0.00227,0.111,0.32,125.177,304107
-Taylor Swift,right where you left me - bonus track,3zwMVvkBe2qIKDObWgXw4N,0.581,0.619,-6.524,0.769,0.000106,0.117,0.645,137.915,245027
-Taylor Swift,it’s time to go - bonus track,1kdWw77ZpYOkhxeuhzU1j6,0.592,0.41,-12.426,0.801,1.39e-05,0.09,0.416,151.923,254640
-Taylor Swift,willow,0lx2cLdOt3piJbcaXIV74f,0.392,0.574,-9.195,0.833,0.00179,0.145,0.529,81.112,214707
-Taylor Swift,champagne problems,0sY6ZUTh4yoctD8VIXz339,0.462,0.24,-12.077,0.92,0.0,0.113,0.32,171.319,244000
-Taylor Swift,gold rush,5BK0uqwY9DNfZ630STAEaq,0.512,0.462,-10.491,0.83,0.166,0.121,0.353,112.05,185320
-Taylor Swift,‘tis the damn season,7dW84mWkdWE5a6lFWxJCBG,0.575,0.434,-8.193,0.735,6.59e-05,0.105,0.348,145.916,229840
-Taylor Swift,tolerate it,0PurA4JVJ8YQgSVopY8fn6,0.316,0.361,-10.381,0.878,2.67e-05,0.0797,0.221,74.952,245440
-Taylor Swift,"no body, no crime (feat. HAIM)",3RaT22zZsxVYxxKR7TAaYF,0.546,0.613,-7.589,0.418,0.0,0.103,0.535,79.015,215627
-Taylor Swift,happiness,73YUReisjb3A9ActdLLjJQ,0.559,0.334,-10.733,0.87,0.0,0.114,0.211,122.079,315147
-Taylor Swift,dorothea,670fUmXf4KQekzbEgaXyPA,0.605,0.488,-8.322,0.696,0.0,0.129,0.354,119.966,225880
-Taylor Swift,coney island (feat. The National),3k7ne7VmH43ZPWxPdvPUgR,0.537,0.537,-11.266,0.819,0.000904,0.142,0.292,107.895,275320
-Taylor Swift,ivy,19CSr8rwW05VJL2F91KFNK,0.515,0.545,-9.277,0.855,1.97e-05,0.0921,0.535,88.856,260440
-Taylor Swift,cowboy like me,1XjHRolIXL2M1EEOUsGGR4,0.604,0.517,-9.014,0.768,0.000155,0.123,0.511,127.967,275040
-Taylor Swift,long story short,2o2sgVJIgFXk8GQjWTgI6U,0.546,0.73,-7.704,0.66,0.179,0.0972,0.573,157.895,215920
-Taylor Swift,marjorie,12ntTeqEeTg7GAVpe8Mhpl,0.535,0.561,-11.609,0.876,0.000136,0.115,0.287,96.103,257773
-Taylor Swift,closure,35rdVq36LMHQX0Suw9a6tK,0.689,0.704,-10.813,0.835,4.83e-06,0.134,0.92,151.884,180653
-Taylor Swift,evermore (feat. Bon Iver),3O5osWf1rSoKMwe6E9ZaXP,0.39,0.27,-10.673,0.937,0.00227,0.111,0.32,125.177,304107
-Taylor Swift,the 1,0P9wLFurlgumLXuqFEpw52,0.78,0.361,-6.942,0.75,7.14e-06,0.108,0.163,139.902,210240
-Taylor Swift,cardigan,7zcnlq38eqNWyUF6eNaB5Z,0.612,0.58,-8.572,0.525,0.000414,0.26,0.534,130.045,239560
-Taylor Swift,the last great american dynasty,4ojxSyrEraN7d46BMBPThZ,0.688,0.653,-8.558,0.481,0.00414,0.106,0.701,147.991,231000
-Taylor Swift,exile (feat. Bon Iver),6kz2hkq1xQvDqPcUyBkw8f,0.31,0.374,-8.464,0.761,2.46e-05,0.11,0.16,75.938,285640
-Taylor Swift,my tears ricochet,0Oju1YcbPCJuUQQWoZNdJK,0.456,0.265,-10.663,0.814,0.0,0.0679,0.112,129.947,255893
-Taylor Swift,mirrorball,5jQyGzcwqAxwT5QUIMivoX,0.549,0.417,-10.064,0.686,1.9e-06,0.0604,0.347,110.137,208973
-Taylor Swift,seven,2vJ7QvyCiR4DaHxwO58izA,0.602,0.494,-10.813,0.888,2.59e-05,0.0902,0.374,94.955,208907
-Taylor Swift,august,1UHoF9p75IVsvUt6WdTYhn,0.387,0.634,-9.222,0.553,6.93e-05,0.0931,0.42,89.567,261920
-Taylor Swift,this is me trying,5DnDBYrfGoxdnomqEAkFIv,0.511,0.478,-9.837,0.312,2.3e-05,0.147,0.408,135.882,195107
-Taylor Swift,illicit affairs,7CVTowKpGPA2MsIbkTl2oc,0.529,0.304,-10.567,0.862,0.0,0.108,0.44,119.58,190893
-Taylor Swift,invisible string,4WHIqhrbdva5vQSrCuet3l,0.651,0.459,-11.128,0.859,6.63e-05,0.105,0.454,83.455,252880
-Taylor Swift,mad woman,7klXN6RCN5Rj0VeYO5gBzU,0.593,0.7,-9.016,0.67,6.77e-06,0.116,0.451,141.898,237267
-Taylor Swift,epiphany,5MFjHn1qfR9AsWuyzJLk1z,0.317,0.254,-13.679,0.727,0.000326,0.0867,0.103,93.933,289747
-Taylor Swift,betty,2jhfs6moEAK13eLM6xim4l,0.595,0.376,-8.767,0.589,0.0,0.0989,0.476,95.946,294520
-Taylor Swift,peace,0O9i6jhscByEJs1ipy5hu4,0.644,0.284,-12.879,0.916,1.5e-05,0.0909,0.328,150.072,234000
-Taylor Swift,hoax,4XCYmu7QLySdIahgBALKJK,0.676,0.178,-15.01,0.964,7.9e-06,0.135,0.404,118.84,220040
-Taylor Swift,the lakes - bonus track,0zEprKYeuGOIZoHyu6O1E2,0.313,0.258,-11.532,0.842,1.3e-06,0.0948,0.268,179.947,211813
-Taylor Swift,the 1 - the long pond studio sessions,08J4bMHbILkwSIhbtrcvjN,0.708,0.25,-10.731,0.898,0.026,0.102,0.156,139.803,219893
-Taylor Swift,cardigan - the long pond studio sessions,3EPgWM1zfTSzEc0z4AwWTM,0.395,0.234,-9.704,0.88,0.0,0.107,0.247,86.478,230680
-Taylor Swift,the last great american dynasty - the long pond studio sessions,28tIMaewZuGR8urkvFhQyA,0.64,0.618,-11.715,0.743,0.004,0.0574,0.614,147.948,232347
-Taylor Swift,exile (feat. Bon Iver) - the long pond studio sessions,7N015NTIWGjQDddHUdHPoO,0.359,0.305,-10.295,0.848,6.74e-05,0.111,0.108,151.956,279893
-Taylor Swift,my tears ricochet - the long pond studio sessions,5mdNyCS7ttVcAyVYOIFEjs,0.531,0.172,-12.34,0.946,1.01e-05,0.0615,0.168,129.007,295173
-Taylor Swift,mirrorball - the long pond studio sessions,2yceD2hx5HhOLgkm1CITCi,0.509,0.386,-8.434,0.78,3.45e-05,0.118,0.109,109.993,237373
-Taylor Swift,seven - the long pond studio sessions,4cOWq0cVsKjxaQpRMbDoH1,0.694,0.449,-11.49,0.914,0.000126,0.1,0.363,94.963,208987
-Taylor Swift,august - the long pond studio sessions,4MGexoZc12lqE0hYkq9YYx,0.554,0.663,-8.961,0.5,4.77e-05,0.791,0.545,89.977,260000
-Taylor Swift,this is me trying - the long pond studio sessions,1gaLZjPrDnHQWJds2Jg4KT,0.435,0.332,-11.611,0.928,0.000898,0.0867,0.157,68.097,209293
-Taylor Swift,illicit affairs - the long pond studio sessions,560uQyz3p5G9WdnMX39xc6,0.489,0.235,-10.274,0.883,0.0,0.113,0.435,117.699,183720
-Taylor Swift,invisible string - the long pond studio sessions,5KByGq0JijSSDcy0qzuINs,0.59,0.282,-10.542,0.942,4.85e-06,0.11,0.351,83.438,257360
-Taylor Swift,mad woman - the long pond studio sessions,04xrhDrQ2WOW8GLwu7kbc0,0.663,0.465,-10.463,0.887,0.000168,0.109,0.346,141.834,238333
-Taylor Swift,epiphany - the long pond studio sessions,4yyKppX85ZkmlGOC2toBZA,0.524,0.2,-13.004,0.916,0.000392,0.068,0.113,93.87,274880
-Taylor Swift,betty - the long pond studio sessions,1mh5dObNoOvCfHmXnhvDEK,0.538,0.316,-9.5,0.841,0.0,0.119,0.518,95.68,290040
-Taylor Swift,peace - the long pond studio sessions,4YHHz3VIXgNDGdoL9xC1tx,0.619,0.344,-11.472,0.93,7.61e-05,0.0734,0.513,149.897,214373
-Taylor Swift,hoax - the long pond studio sessions,0QTBsdoJhamY3Aid3fOsOd,0.682,0.155,-13.083,0.962,0.0,0.18,0.483,118.832,221800
-Taylor Swift,the lakes - the long pond studio sessions,6mqyTq948oap5AkyTsd6XF,0.606,0.221,-11.767,0.794,0.0,0.0888,0.112,89.844,199733
-Taylor Swift,the 1,4pfrrhvplbJZAIsfosGWQP,0.78,0.361,-6.942,0.75,7.14e-06,0.108,0.163,139.902,210240
-Taylor Swift,cardigan,0KRYCBwIpWYFNrXOmXbyUh,0.612,0.58,-8.572,0.525,0.000414,0.26,0.534,130.045,239560
-Taylor Swift,the last great american dynasty,2olxzvoFI9IpxqFeUv7WOX,0.688,0.653,-8.558,0.481,0.00414,0.106,0.701,147.991,231000
-Taylor Swift,exile (feat. Bon Iver),5S4aYQAJOwJMAamANWlICO,0.31,0.374,-8.464,0.761,2.46e-05,0.11,0.16,75.938,285640
-Taylor Swift,my tears ricochet,5P2bHCDM2tsgIaYWsZMhu5,0.456,0.265,-10.663,0.814,0.0,0.0679,0.112,129.947,255893
-Taylor Swift,mirrorball,2I8YAEA1VmCuP1wkJHMpTw,0.549,0.417,-10.064,0.686,1.9e-06,0.0604,0.347,110.137,208973
-Taylor Swift,seven,76mOLcXOjOEhyY4mMF1l3r,0.602,0.494,-10.813,0.888,2.59e-05,0.0902,0.374,94.955,208907
-Taylor Swift,august,6nK2pIKFcRc5frrZKHgsiT,0.387,0.634,-9.222,0.553,6.93e-05,0.0931,0.42,89.567,261920
-Taylor Swift,this is me trying,7cm50Lw03k6VvRauJtkyTj,0.511,0.478,-9.837,0.312,2.3e-05,0.147,0.408,135.882,195107
-Taylor Swift,illicit affairs,6DrLROM5MG9bxWHeEG5elq,0.529,0.304,-10.567,0.862,0.0,0.108,0.44,119.58,190893
-Taylor Swift,invisible string,2ehRU518I0hYqMGQnk4lDY,0.651,0.459,-11.128,0.859,6.63e-05,0.105,0.454,83.455,252880
-Taylor Swift,mad woman,0RP1kqoSPkVXsKiQNhMKzV,0.593,0.7,-9.016,0.67,6.77e-06,0.116,0.451,141.898,237267
-Taylor Swift,epiphany,1EXa37LpSvi3OQ9UYQ28rD,0.317,0.254,-13.679,0.727,0.000326,0.0867,0.103,93.933,289747
-Taylor Swift,betty,3IhtE4fkytdrtEfV34UzkD,0.595,0.376,-8.767,0.589,0.0,0.0989,0.476,95.946,294520
-Taylor Swift,peace,6JlI8Ay77m4nJvZTHvfT1J,0.644,0.284,-12.879,0.916,1.5e-05,0.0909,0.328,150.072,234000
-Taylor Swift,hoax,0YeDG5HnKnG7jpArkzsSPa,0.676,0.178,-15.01,0.964,7.9e-06,0.135,0.404,118.84,220040
-Taylor Swift,the lakes - bonus track,0eFQWVz0qIxDOvhLpZ40P7,0.313,0.258,-11.532,0.842,1.3e-06,0.0948,0.268,179.947,211813
-Taylor Swift,the 1,0Jlcvv8IykzHaSmj49uNW8,0.777,0.357,-6.942,0.757,7.28e-06,0.108,0.172,139.884,210252
-Taylor Swift,cardigan,4R2kfaDFhslZEMJqAFNpdd,0.613,0.581,-8.588,0.537,0.000345,0.25,0.551,130.033,239560
-Taylor Swift,the last great american dynasty,2Eeur20xVqfUoM3Q7EFPFt,0.686,0.662,-8.505,0.467,0.0023,0.109,0.706,147.922,230999
-Taylor Swift,exile (feat. Bon Iver),4pvb0WLRcMtbPGmtejJJ6y,0.298,0.38,-8.426,0.778,5.62e-05,0.11,0.152,75.602,285634
-Taylor Swift,my tears ricochet,1MgV7FIyNxIG7WzMRJV5HC,0.469,0.263,-10.63,0.806,0.0,0.0749,0.112,129.86,255894
-Taylor Swift,mirrorball,0ZNU020wNYvgW84iljPkPP,0.553,0.413,-10.037,0.687,2.33e-06,0.0594,0.379,110.107,208978
-Taylor Swift,seven,6KJqZcs9XDgVck7Lg9QOTC,0.596,0.488,-10.769,0.9,2.7e-05,0.091,0.415,94.922,208907
-Taylor Swift,august,3hUxzQpSfdDqwM3ZTFQY0K,0.532,0.623,-9.208,0.538,7.28e-05,0.0925,0.403,89.937,261923
-Taylor Swift,this is me trying,7kt9e9LFSpN1zQtYEl19o1,0.515,0.476,-9.843,0.314,4.74e-05,0.171,0.412,135.886,195097
-Taylor Swift,illicit affairs,2NmsngXHeC1GQ9wWrzhOMf,0.559,0.31,-10.445,0.881,0.0,0.106,0.46,119.845,190898
-Taylor Swift,invisible string,6VsvKPJ4xjVNKpI8VVZ3SV,0.653,0.452,-11.143,0.838,7.73e-05,0.108,0.45,83.433,252881
-Taylor Swift,mad woman,2QDyYdZyhlP2fp79KZX8Bi,0.592,0.699,-8.995,0.655,1.68e-05,0.114,0.506,141.916,237258
-Taylor Swift,epiphany,08fa9LFcFBTcilB3iq2e2A,0.175,0.267,-13.69,0.731,0.000402,0.0858,0.106,94.203,289749
-Taylor Swift,betty,5kI4eCXXzyuIUXjQra0Cxi,0.593,0.377,-8.761,0.6,0.0,0.0976,0.502,95.939,294521
-Taylor Swift,peace,7MbT4I8qGntX4fMdqMQgke,0.647,0.272,-12.906,0.918,1.73e-05,0.0918,0.339,150.044,234000
-Taylor Swift,hoax,6MWoRt97mnSTXZhu3ggi9C,0.662,0.181,-15.065,0.966,3.86e-06,0.133,0.429,118.819,220043
-Taylor Swift,I Forgot That You Existed,43rA71bccXFGD4C8GOpIlN,0.664,0.316,-10.345,0.298,2.03e-06,0.0812,0.541,92.875,170640
-Taylor Swift,Cruel Summer,1BxfuPKGuaTgP7aM0Bbdwr,0.552,0.702,-5.707,0.117,2.06e-05,0.105,0.564,169.994,178427
-Taylor Swift,Lover,1dGr1c8CrMLDpV6mPbImSI,0.359,0.543,-7.582,0.492,1.58e-05,0.118,0.453,68.534,221307
-Taylor Swift,The Man,3RauEVgRgj1IuWdJ9fDs70,0.777,0.658,-5.191,0.0767,0.0,0.0901,0.633,110.048,190360
-Taylor Swift,The Archer,3pHkh7d0lzM2AldUtz2x37,0.292,0.574,-9.375,0.12,0.00569,0.0663,0.166,124.344,211240
-Taylor Swift,I Think He Knows,2YWtcWi3a83pdEg3Gif4Pd,0.897,0.366,-8.029,0.00889,0.000353,0.0715,0.416,100.003,173387
-Taylor Swift,Miss Americana & The Heartbreak Prince,214nt20w5wOxJnY462klLw,0.662,0.747,-6.926,0.028,0.00615,0.138,0.487,150.088,234147
-Taylor Swift,Paper Rings,4y5bvROuBDPr5fuwXbIBZR,0.811,0.719,-6.553,0.0129,1.36e-05,0.0742,0.865,103.979,222400
-Taylor Swift,Cornelia Street,12M5uqx0ZuwkpLp5rJim1a,0.824,0.624,-9.728,0.781,0.000189,0.1,0.248,102.012,287267
-Taylor Swift,Death By A Thousand Cuts,2dgFqt3w9xIQRjhPtwNk3D,0.712,0.732,-6.754,0.454,0.0,0.319,0.313,94.071,198533
-Taylor Swift,London Boy,1LLXZFeAHK9R4xUramtUKw,0.695,0.71,-6.639,0.0246,0.000104,0.133,0.557,157.925,190240
-Taylor Swift,Soon You’ll Get Better (feat. The Chicks),4AYtqFyFbX0Xkc2wtcygTr,0.433,0.182,-12.566,0.907,0.0,0.123,0.421,207.476,201587
-Taylor Swift,False God,5hQSXkFgbxjZo9uCwd11so,0.739,0.32,-10.862,0.736,0.000147,0.111,0.351,79.97,200307
-Taylor Swift,You Need To Calm Down,6RRNNciQGZEXnqk8SQ9yv5,0.771,0.671,-5.617,0.00929,0.0,0.0637,0.714,85.026,171360
-Taylor Swift,Afterglow,1SymEzIT3H8UZfibCs3TYi,0.756,0.449,-8.746,0.13,0.0,0.114,0.399,111.011,223293
-Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),2Rk4JlNc2TPmZe2af99d45,0.61,0.83,-4.105,0.033,0.0,0.118,0.728,182.162,193000
-Taylor Swift,It’s Nice To Have A Friend,1SmiQ65iSAbPto6gPFlBYm,0.737,0.175,-9.912,0.971,0.000337,0.171,0.545,70.008,150440
-Taylor Swift,Daylight,1fzAuUVbzlhZ1lJAx9PtY6,0.557,0.496,-9.602,0.808,0.000173,0.0772,0.265,149.983,293453
-Taylor Swift,...Ready For It?,2yLa0QULdQr0qAIvVwN6B5,0.613,0.764,-6.509,0.0527,0.0,0.197,0.417,160.015,208187
-Taylor Swift,End Game,2x0WlnmfG39ZuDmstl9xfX,0.649,0.589,-6.237,0.00845,0.0,0.108,0.151,159.073,244827
-Taylor Swift,I Did Something Bad,4svZDCRz4cJoneBpjpx8DJ,0.696,0.602,-6.156,0.0679,2.11e-05,0.0696,0.305,82.989,238253
-Taylor Swift,Don’t Blame Me,1R0a2iXumgCiFb7HEZ7gUE,0.615,0.534,-6.719,0.106,1.76e-05,0.0607,0.193,135.917,236413
-Taylor Swift,Delicate,6NFyWDv5CjfwuzoCkw47Xf,0.75,0.404,-10.178,0.216,0.000357,0.0911,0.0499,95.045,232253
-Taylor Swift,Look What You Made Me Do,1P17dC1amhFzptugyAO7Il,0.766,0.709,-6.471,0.204,1.41e-05,0.126,0.506,128.07,211853
-Taylor Swift,So It Goes...,5PxFv9yJEg9dxvbZggykro,0.574,0.61,-7.283,0.122,1.1e-06,0.13,0.374,74.957,227907
-Taylor Swift,Gorgeous,1ZY1PqizIl78geGM4xWlEA,0.8,0.535,-6.684,0.0713,9.48e-06,0.213,0.451,92.027,209680
-Taylor Swift,Getaway Car,0VE4kBnHJUgtMf0dy6DRmW,0.562,0.689,-6.745,0.00465,2.23e-06,0.0888,0.351,172.054,233627
-Taylor Swift,King Of My Heart,7HuBDWi18s4aJM8UFnNheH,0.675,0.703,-7.902,0.00882,2.21e-06,0.0391,0.314,110.01,214320
-Taylor Swift,Dancing With Our Hands Tied,7I7JbDv63ZJJsSi24DyJrz,0.624,0.691,-6.686,0.0604,1.1e-05,0.138,0.284,160.024,211507
-Taylor Swift,Dress,6oVxXO5oQ4pTpO8RSnkzvv,0.719,0.469,-8.792,0.0329,0.0,0.169,0.0851,120.085,230373
-Taylor Swift,This Is Why We Can't Have Nice Things,07NxDD1iKCHbAldceD7QLP,0.567,0.789,-5.986,0.0156,0.0,0.382,0.438,163.96,207133
-Taylor Swift,Call It What You Want,1GwMQaZz6Au3QLDbjbMdme,0.598,0.504,-9.874,0.186,0.000221,0.34,0.252,163.954,203507
-Taylor Swift,New Year’s Day,7F5oktn5YOsR9eR5YsFtqb,0.661,0.151,-12.864,0.921,0.0,0.13,0.23,94.922,235467
-Taylor Swift,All Too Well,00vJzaoxM3Eja1doBUhX0P,0.463,0.605,-7.803,0.0448,0.000334,0.128,0.317,186.113,329160
-Taylor Swift,Wildest Dreams,22C0JIVhFaczZ4t9heqREN,0.55,0.688,-7.416,0.0703,0.00138,0.106,0.461,139.998,220440
-Taylor Swift,The Best Day,7APTsjmZbj7TFXQJAiRti4,0.668,0.448,-8.567,0.638,4.1e-06,0.158,0.386,126.066,246307
-Taylor Swift,Red,4V9NuhKQcUFt4cgbynHV79,0.605,0.899,-4.273,0.0779,0.000124,0.0911,0.647,124.982,223093
-Taylor Swift,Holy Ground,4hCZk6WJBFQeG3P7WsyntI,0.627,0.816,-6.698,0.0159,0.0022,0.0965,0.648,157.043,202960
-Taylor Swift,Teardrops On My Guitar - Radio Single Remix,7eGeUVeCEvEQrivmjl9Qn3,0.626,0.427,-6.993,0.315,0.0,0.138,0.265,99.962,204707
-Taylor Swift,Our Song,7qGr3rjRhndRIpFUA5f2HJ,0.545,0.663,-5.05,0.114,0.0,0.321,0.565,178.016,203440
-Taylor Swift,22,2P5gfMtCcKP0CkmgqFMyPg,0.66,0.732,-6.565,0.00254,0.00146,0.0473,0.677,104.009,232120
-Taylor Swift,I Knew You Were Trouble.,2o2IVjuqRkR9hJxtPjtAP0,0.536,0.464,-6.761,0.00476,2.74e-06,0.0358,0.666,77.318,219720
-Taylor Swift,I Don’t Wanna Live Forever (Fifty Shades Darker),55n9yjI6qqXh5F2mYvUc2y,0.73,0.444,-8.418,0.059,1.8e-05,0.14,0.106,117.979,247160
-Taylor Swift,Mean,5rcHBt2aNcGFWW0jaAUe1L,0.576,0.755,-3.982,0.449,0.0,0.223,0.791,163.884,238693
-Taylor Swift,How You Get The Girl,3aSYZ4upQ6OSNos26YeVWL,0.764,0.657,-6.112,0.00363,0.00899,0.0918,0.546,119.995,247533
-Taylor Swift,So It Goes...,41T04yafZVrjNq2FqvLtId,0.578,0.61,-7.283,0.122,1.1e-06,0.13,0.371,74.996,227907
-Taylor Swift,Fifteen,0H2UD0LfSCiRr59YMGlCuS,0.549,0.63,-4.436,0.07,0.0,0.138,0.217,95.124,295320
-Taylor Swift,Mine,6FmJKLpyCt42nP2IOVEVc2,0.622,0.781,-2.945,0.00311,3.1e-06,0.187,0.662,121.029,231867
-Taylor Swift,Sparks Fly,5h2sBwpUSAndjObfU3ti2r,0.61,0.782,-2.98,0.041,0.0,0.16,0.399,114.974,262920
-Taylor Swift,State Of Grace,0YRGTdfmJPALpglAaraYUr,0.591,0.828,-5.895,0.000182,0.00115,0.0879,0.383,129.958,295720
-Taylor Swift,Haunted,6CB7DczrX9ZJB9Wkjegmaq,0.43,0.948,-2.622,0.0655,0.0,0.0612,0.371,162.026,245413
-Taylor Swift,Never Grow Up,1UPDfqsVIZLEiZeMuUsni2,0.714,0.309,-8.828,0.824,0.0,0.136,0.546,124.892,292920
-Taylor Swift,Treacherous,0r3U7SOcoj4DIEyN44Lt5z,0.704,0.621,-8.086,0.101,4.3e-06,0.14,0.395,109.996,242760
-Taylor Swift,Babe,40PXEOFLJc7UIpLMrhSfW1,0.577,0.785,-3.266,0.0221,0.0,0.125,0.647,171.78,215107
-Taylor Swift,Welcome To New York,3YLA3NgzFRRa7LiHMtFPby,0.789,0.634,-4.762,0.0348,1.69e-06,0.302,0.658,117.0,212600
-Taylor Swift,Fearless,43sE2O3skbGBpT2tO6fzv9,0.603,0.717,-4.401,0.0381,0.0,0.307,0.429,100.163,242973
-Taylor Swift,Enchanted,5lg33MHs1BoUtJVClw8ZpI,0.536,0.629,-3.907,0.0707,0.00117,0.158,0.222,81.963,353253
-Taylor Swift,Change,5PSOWHll3h3Vy226xSJk0M,0.543,0.764,-4.206,0.00418,0.0,0.111,0.233,95.999,281053
-Taylor Swift,Ours,0V3SNHDka1JSCP71HAzpxw,0.609,0.56,-7.392,0.469,0.0,0.087,0.228,159.838,239347
-Taylor Swift,Out Of The Woods,0GmfiNHSgkKamYgQEMYOH3,0.553,0.841,-6.937,0.000743,1.07e-05,0.341,0.339,91.999,235800
-Taylor Swift,Come Back...Be Here,5hiqtrACtMJkNpaNHj0n9Z,0.486,0.548,-6.291,0.00471,2.06e-06,0.0997,0.22,79.873,223920
-Taylor Swift,A Place in this World,2RSYYe7LhKFxIi50T5XtUo,0.573,0.767,-2.929,0.0576,0.0,0.327,0.438,114.985,202080
-Taylor Swift,This Love,64KRxmbqypPBlya4nxFmDn,0.48,0.435,-8.795,0.679,0.0,0.0928,0.108,143.942,250093
-Taylor Swift,The Lucky One,24ksPWXKg1k7OOG57pufED,0.706,0.505,-7.639,0.0352,0.0,0.13,0.561,117.935,240267
-Taylor Swift,Invisible,0kqC185OTcnuhbz4T7g5RB,0.608,0.384,-5.732,0.56,0.0,0.165,0.217,95.963,205853
-Taylor Swift,Breathe,3oxgFdIlxFEDEJqn7k5TVN,0.442,0.48,-7.405,0.416,0.0,0.129,0.167,73.849,264947
-Taylor Swift,Better Man,3EXetjrGgwIjDRNn6YA8sa,0.503,0.844,-3.648,0.121,0.0,0.0974,0.508,143.941,263613
-Taylor Swift,Jump Then Fall,5zytSTR2g0I9psX2Z12ex6,0.617,0.699,-5.712,0.113,0.0,0.074,0.827,79.979,238093
-Taylor Swift,Begin Again,2G679wnKfyhUOeNx910OXg,0.516,0.526,-8.349,0.197,3.49e-06,0.14,0.312,78.985,239427
-Taylor Swift,Tied Together with a Smile,4qNEi8zGIYLiMtoW8OaJdx,0.478,0.547,-4.948,0.523,0.0,0.0728,0.238,146.134,251213
-Taylor Swift,The Story Of Us,2fF3QzbGCrtrDXIdWcg1mv,0.547,0.807,-3.63,0.00556,0.000318,0.0588,0.645,139.911,267653
-Taylor Swift,Forever & Always,0QCS4NpURHvWdF1icdkfBw,0.607,0.829,-5.02,0.0805,0.0,0.207,0.521,128.055,226293
-Taylor Swift,Hey Stephen,0TYJbIHBtmWy9ugtU9BcbE,0.843,0.541,-7.361,0.191,1.93e-06,0.108,0.839,116.002,256040
-Taylor Swift,Speak Now,1XLc4irbX7oQSneh6gWv3O,0.712,0.603,-3.753,0.0991,0.0,0.102,0.714,118.979,243347
-Taylor Swift,Wonderland,0eTCaVOYLpJlSkbEi2jay4,0.422,0.692,-5.447,0.0493,2.57e-05,0.177,0.197,184.019,245560
-Taylor Swift,White Horse,4RMfSYDFkcz0bKoK8fHDgR,0.578,0.348,-8.066,0.311,0.0,0.1,0.218,92.671,235400
-Taylor Swift,I'm Only Me When I'm With You,6Py8IKZqDyU8aQVrjilbJw,0.556,0.933,-3.685,0.00454,0.000462,0.101,0.521,143.929,215600
-Taylor Swift,Starlight,7txpzmA69zyk50K3ZyZSzC,0.649,0.779,-5.798,0.0186,0.000474,0.234,0.617,126.014,220600
-Taylor Swift,I Know Places,3qGLcmO0XnnrcpAQGZwTvA,0.603,0.755,-4.991,0.243,0.0,0.178,0.496,159.971,195707
-Taylor Swift,Welcome To New York,3nRmDz7qGCvsMS30rGGY0x,0.789,0.634,-4.762,0.0348,1.64e-06,0.302,0.658,116.992,212600
-Taylor Swift,Blank Space,1u8c2t2Cy7UBoG4ArRcF5g,0.76,0.703,-5.412,0.103,0.0,0.0913,0.57,95.997,231827
-Taylor Swift,Style,0ug5NqcwcFR2xrfTkc7k8e,0.588,0.791,-5.595,0.00245,0.00258,0.118,0.487,94.933,231000
-Taylor Swift,Out Of The Woods,0qUnBLZ8bJqUNEeQgayL9t,0.553,0.841,-6.937,0.000743,1.19e-05,0.341,0.338,92.008,235800
-Taylor Swift,All You Had To Do Was Stay,6aLOekfwbytwWvQftxTEF0,0.605,0.725,-5.729,0.00201,2.02e-05,0.101,0.539,96.97,193293
-Taylor Swift,Shake It Off,0cqRj7pUJDkTCEsJkx8snD,0.647,0.8,-5.384,0.0647,0.0,0.334,0.942,160.078,219200
-Taylor Swift,I Wish You Would,5gRYrtvyVyaCRvLt56OfuV,0.653,0.893,-5.966,0.0158,4.95e-05,0.102,0.513,118.035,207440
-Taylor Swift,Bad Blood,2NlmmAjGYrrjAp0MED5rGx,0.646,0.794,-6.104,0.0885,6.16e-06,0.201,0.287,170.216,211933
-Taylor Swift,Wildest Dreams,4A4A6dwl5DqdqrZaEtKGPR,0.55,0.688,-7.416,0.0692,0.00144,0.106,0.465,139.997,220440
-Taylor Swift,How You Get The Girl,0fM9dEhUFV4MHDuJgrcfOv,0.765,0.656,-6.112,0.00364,0.00868,0.0918,0.545,119.997,247533
-Taylor Swift,This Love,4L560fic5PaTuCFm6CviKa,0.481,0.435,-8.795,0.678,0.0,0.0928,0.107,143.95,250093
-Taylor Swift,I Know Places,6EwNJz8CuVsrsLvXprJ20Q,0.602,0.755,-4.991,0.245,0.0,0.178,0.495,159.965,195707
-Taylor Swift,Clean,1NmVZsG18CzCAtw7rnV3yA,0.815,0.377,-7.754,0.232,0.0,0.1,0.211,103.97,271000
-Taylor Swift,Wonderland,6RvRzl1YJTDnUvdOtV21IK,0.422,0.692,-5.447,0.0493,2.57e-05,0.177,0.197,184.014,245560
-Taylor Swift,You Are In Love,2KrOAg6FftbjgSKdd2a4rS,0.474,0.48,-8.894,0.707,0.000108,0.0903,0.319,170.109,267107
-Taylor Swift,New Romantics,0qAIiGFKLdV1xpNlEhjpq8,0.633,0.889,-5.87,0.00463,0.000458,0.0658,0.584,121.956,230467
-Taylor Swift,I Know Places - Voice Memo,4FoV729rw7IhoKlMZW5K5V,0.592,0.128,-17.932,0.829,0.0,0.527,0.15,78.828,216333
-Taylor Swift,I Wish You Would - Voice Memo,4eTXfpHxhxVofrBUjAhPMg,0.781,0.357,-16.394,0.717,0.0,0.185,0.645,118.317,107133
-Taylor Swift,Blank Space - Voice Memo,4e6QU4gpfZj9xxcK856RgG,0.675,0.234,-15.064,0.801,0.0,0.657,0.578,127.296,131187
-Taylor Swift,Welcome To New York,10nqz67NQWWa7XPq7ycihi,0.793,0.634,-4.807,0.038,1.76e-06,0.304,0.615,117.023,212600
-Taylor Swift,Blank Space,2ls70nUDfjzm1lSRDuKxmw,0.752,0.678,-5.421,0.085,1.64e-06,0.13,0.583,96.009,231827
-Taylor Swift,Style,71PmZqBXH0RUETqxpwlV0w,0.598,0.786,-5.572,0.00256,0.00143,0.117,0.456,95.021,231000
-Taylor Swift,Out Of The Woods,7EpVQjqtKygiwJIASxMWNg,0.552,0.841,-6.938,0.00103,1.23e-05,0.337,0.342,91.993,235800
-Taylor Swift,All You Had To Do Was Stay,4NNolUeL5m2ju7kf8pdg6H,0.602,0.735,-5.778,0.00196,4.77e-05,0.105,0.472,96.969,193293
-Taylor Swift,Shake It Off,1kKlhuQE0HXp1IwBRpaH2P,0.648,0.785,-5.414,0.0561,0.0,0.148,0.943,160.02,219200
-Taylor Swift,I Wish You Would,5RVJ6VKfwtosA5Q1qeHdjF,0.649,0.898,-5.963,0.016,9.9e-05,0.109,0.503,118.027,207440
-Taylor Swift,Bad Blood,0TvQLMecTE8utzoNmvXRbK,0.652,0.802,-6.114,0.0871,6.45e-06,0.148,0.295,170.157,211933
-Taylor Swift,Wildest Dreams,3fVnlF4pGqWI9flVENcT28,0.553,0.664,-7.417,0.0709,0.0056,0.106,0.467,140.06,220440
-Taylor Swift,How You Get The Girl,5Z9ocF6ng0m2haHnKtHwTp,0.764,0.659,-6.136,0.00463,0.00458,0.0915,0.525,119.982,247533
-Taylor Swift,This Love,7lTxQZVXlvIX7Z3szSy8Sh,0.485,0.459,-8.768,0.635,0.0,0.101,0.0858,71.981,250093
-Taylor Swift,I Know Places,6Ck9WerfsyvC4v4AylUoDp,0.595,0.763,-4.991,0.231,0.0,0.2,0.507,159.959,195707
-Taylor Swift,Clean,2k43eySbfpDVx0PrO99UI8,0.81,0.38,-7.755,0.242,0.0,0.113,0.211,103.981,271000
-Taylor Swift,State Of Grace,0b16LTzby1YRVd2nq2Z0fw,0.588,0.825,-5.882,0.000197,0.00138,0.0884,0.397,129.968,295720
-Taylor Swift,Red,7gJtmLyPTwKzhGzMBXtuXH,0.602,0.896,-4.267,0.0773,8.87e-05,0.0911,0.641,124.978,223093
-Taylor Swift,Treacherous,7nECwCDHS1JvQbrmuorZIH,0.704,0.621,-8.086,0.101,4.3e-06,0.14,0.395,109.995,242760
-Taylor Swift,I Knew You Were Trouble.,3lKZf71jeNi14udIFPJ29V,0.622,0.469,-6.798,0.00454,2.25e-06,0.0335,0.679,77.019,219720
-Taylor Swift,All Too Well,6GNRkaWUB0Lwc19SdkTgx8,0.602,0.609,-7.803,0.0382,0.0002,0.128,0.337,93.06,329160
-Taylor Swift,22,3WC5CVAahvn98hiseoIvbw,0.661,0.729,-6.561,0.00215,0.0013,0.0477,0.668,103.987,232120
-Taylor Swift,I Almost Do,1eyqSYBCTane4rl4vc6PWJ,0.567,0.481,-7.357,0.0173,4.13e-05,0.182,0.233,145.865,244560
-Taylor Swift,We Are Never Ever Getting Back Together,6kISMRfweKSvgHR0urMQFG,0.628,0.676,-5.911,0.00957,2.65e-05,0.121,0.75,85.984,193147
-Taylor Swift,Stay Stay Stay,0F2S1QlnMaOfmNHIgmES3k,0.729,0.748,-6.67,0.307,1.29e-06,0.0962,0.928,99.981,205853
-Taylor Swift,The Last Time,2Tz4JnXZOcjcp8fWfMjBBk,0.505,0.443,-7.039,0.035,3.15e-06,0.0906,0.123,94.069,299013
-Taylor Swift,Holy Ground,3KmYVOuK2eG7LGP7qQ8DLR,0.627,0.816,-6.698,0.0162,0.00208,0.0965,0.648,157.043,202960
-Taylor Swift,Sad Beautiful Tragic,70e9zuv2pJc7ON1OUAJ1zl,0.624,0.34,-12.411,0.632,0.0337,0.0805,0.261,129.987,284867
-Taylor Swift,The Lucky One,5VQLMrWhailAhErKNUSnv1,0.706,0.499,-7.675,0.0371,0.0,0.132,0.545,117.937,240267
-Taylor Swift,Everything Has Changed,5PjfMmF06QtxTPZBZHdhoZ,0.624,0.458,-6.755,0.36,3.89e-06,0.311,0.436,80.016,245413
-Taylor Swift,Starlight,1gL4vMhDV3RgJQmDuY5HK1,0.649,0.777,-5.804,0.0213,0.000335,0.21,0.587,126.018,220600
-Taylor Swift,Begin Again,1yG491M3fRfowMdGN5pey4,0.53,0.526,-8.349,0.199,3.52e-06,0.14,0.323,79.025,239427
-Taylor Swift,The Moment I Knew,4qTAwKJQ68gmnrnfPD3vlO,0.619,0.506,-7.327,0.187,1.47e-05,0.101,0.274,126.03,286613
-Taylor Swift,Come Back...Be Here,1n8rB9AhxiAvVP1E2c3yOd,0.483,0.548,-6.291,0.00471,2.01e-06,0.0997,0.217,79.926,223920
-Taylor Swift,Girl At Home,6VFpuI0DDmbC5UyWZQ4IRY,0.733,0.59,-5.86,0.272,0.0,0.134,0.633,125.048,220840
-Taylor Swift,Treacherous - Original Demo Recording,7skiELMb9SiQCcBpsExIJf,0.828,0.64,-8.248,0.175,6.14e-05,0.0991,0.519,109.993,240267
-Taylor Swift,Red - Original Demo Recording,2OghnlGqZZsFzHjG0CSE9l,0.678,0.902,-4.659,0.113,0.000235,0.0705,0.637,124.998,227080
-Taylor Swift,State Of Grace - Acoustic,5mfDBWY7ncZFm7ykmFTG4i,0.626,0.118,-15.91,0.664,0.000169,0.127,0.0682,105.597,323080
-Taylor Swift,Sparks Fly - Live/2011,1aBJNc2thaKyh5THWzIqHX,0.455,0.783,-5.184,0.00917,0.0,0.918,0.298,114.981,336827
-Taylor Swift,Mine - Live/2011,7yndkPYP6YQQLBpPsizDfh,0.496,0.852,-4.775,0.00233,0.0,0.554,0.442,120.969,259280
-Taylor Swift,The Story Of Us - Live,72GIZuUXo14oyrS0si3Rgc,0.419,0.908,-5.156,0.00048,0.0,0.815,0.472,139.813,290520
-Taylor Swift,Mean - Live/2011,7mFiEij8AXPUZB7aKLbUlQ,0.429,0.915,-4.373,0.154,0.0,0.693,0.432,163.752,246373
-Taylor Swift,Ours - Live/2011,68QyrSzpnoU04AAhE5z8lj,0.421,0.355,-10.21,0.715,0.0,0.867,0.267,77.769,245973
-Taylor Swift,Back To December/Apologize/You're Not Sorry - Live/2011/Medley,1IsquhJFJ0qcFZI7FeAEuN,0.374,0.516,-8.745,0.155,0.0,0.795,0.171,142.057,362827
-Taylor Swift,Better Than Revenge - Live/2011,6505MLhnqTDDg4tjoUz2Wp,0.445,0.887,-5.629,0.00306,2.67e-05,0.931,0.386,145.954,344573
-Taylor Swift,Speak Now - Live/2011,3QFB14MOUf3imlyISNmrbT,0.615,0.694,-5.251,0.0636,1.28e-06,0.83,0.373,118.876,248147
-Taylor Swift,Last Kiss - Live/2011,6hH37tyeRdyan1mAppmVor,0.427,0.395,-12.551,0.205,8.73e-06,0.701,0.188,79.517,369067
-Taylor Swift,Drops Of Jupiter - Live/2011,0BSmbCIY36iw04azzJ3S0S,0.374,0.504,-8.407,0.806,0.0,0.76,0.27,109.025,315173
-Taylor Swift,Bette Davis Eyes - Live/2011,6KF9xd2hBLuexrmBX4vUWD,0.327,0.488,-9.287,0.713,0.0,0.837,0.363,104.46,189147
-Taylor Swift,I Want You Back - Live/2011,4KB3zBArZ1rHRExilzycaV,0.536,0.512,-6.794,0.794,0.000122,0.497,0.249,97.397,83253
-Taylor Swift,Dear John - Live/2011,4DbI1rr4IQ2bc8nejy9ttd,0.521,0.386,-8.784,0.0157,0.0,0.884,0.138,119.518,404680
-Taylor Swift,Enchanted - Live/2011,3lm4L3pPL32PFy74dR17OR,0.34,0.663,-5.597,0.0747,2.34e-06,0.563,0.214,163.678,389213
-Taylor Swift,Haunted - Live/2011,6znB7YZhMJT2B83zfbiyLq,0.338,0.818,-7.495,0.0245,0.0,0.889,0.177,162.157,292427
-Taylor Swift,Long Live - Live/2011,5QkzyLUb4ggojNDp8G2OxX,0.544,0.728,-5.838,0.0053,0.0,0.865,0.204,101.939,376467
-Taylor Swift,Mine - POP Mix,0GxW5K0qzrq7L1jwSY5OmY,0.696,0.768,-3.863,0.00461,1.21e-06,0.101,0.692,121.05,230547
-Taylor Swift,Sparks Fly,46NGAvL695VnbcSeTmQWmM,0.608,0.785,-2.976,0.0387,0.0,0.158,0.376,114.985,260947
-Taylor Swift,Back To December,5l6GqSxplqnZbLg0LTPQeG,0.517,0.606,-5.797,0.0202,0.0,0.324,0.296,141.929,293040
-Taylor Swift,Speak Now,7dXKdjpOaH2iwfFKmUj7aq,0.708,0.601,-3.75,0.101,0.0,0.0979,0.742,118.962,240773
-Taylor Swift,Dear John,3K2es3gElMRJ3qvmPW442g,0.583,0.468,-5.378,0.183,1.65e-06,0.111,0.126,119.375,403933
-Taylor Swift,Mean,0KztjtD3ytzgYjUKIVfBnW,0.57,0.747,-3.978,0.445,0.0,0.219,0.808,164.004,237747
-Taylor Swift,The Story Of Us,3lXekiVK1ZPZbKconsys73,0.575,0.855,-4.827,0.000315,0.00161,0.0419,0.84,139.92,265680
-Taylor Swift,Never Grow Up,3JilapcaOXzjR9gtvCY8FO,0.715,0.308,-8.829,0.829,0.0,0.16,0.547,124.899,290480
-Taylor Swift,Enchanted,04S1pkp1VaIqjg8zZqknR5,0.535,0.618,-3.913,0.0716,0.000388,0.169,0.228,81.975,352200
-Taylor Swift,Better Than Revenge,0PWgAyoxsjwGRuFSO0fyya,0.519,0.917,-3.185,0.0167,2.06e-05,0.359,0.652,145.882,217173
-Taylor Swift,Innocent,0mTgFzkDgSAF3nJY25XCXG,0.553,0.604,-5.295,0.202,0.0,0.125,0.186,133.989,302267
-Taylor Swift,Haunted,2YjKcFQ1vYFhQPgsmCOjss,0.434,0.944,-2.641,0.0769,0.0,0.151,0.361,162.02,242093
-Taylor Swift,Last Kiss,4EUQXLipplO2v9mVaqQtjc,0.359,0.329,-9.531,0.581,3.75e-05,0.0979,0.208,84.358,367147
-Taylor Swift,Long Live,4ewAfHYpDTzpW1GKO44CVP,0.412,0.682,-4.319,0.0426,7.47e-05,0.106,0.146,203.959,317960
-Taylor Swift,Mine - POP Mix,0OAHsZ8vrS2NKom3cvfJQD,0.696,0.768,-3.863,0.00461,1.21e-06,0.101,0.692,121.05,230547
-Taylor Swift,Sparks Fly,09cM9BjyNFizKUOXh6j9rT,0.608,0.785,-2.976,0.0387,0.0,0.158,0.376,114.985,260947
-Taylor Swift,Back To December,0tr6XR58KBdDYd8qvHVTs8,0.517,0.606,-5.797,0.0202,0.0,0.324,0.296,141.929,293040
-Taylor Swift,Speak Now,2PBghI9zJkQEWBzMSMo2Ki,0.708,0.601,-3.75,0.101,0.0,0.0979,0.742,118.962,240773
-Taylor Swift,Dear John,1GeLxMgpeCnMJntwyW6rLw,0.583,0.468,-5.378,0.183,1.65e-06,0.111,0.126,119.375,403888
-Taylor Swift,Mean,6yM6QsnTCTVOkKEvg3hGlo,0.57,0.747,-3.978,0.445,0.0,0.219,0.808,164.004,237747
-Taylor Swift,The Story Of Us,7vBlnGdfOLzVEqiOQQxeU8,0.575,0.855,-4.827,0.000315,0.00161,0.0419,0.84,139.92,265636
-Taylor Swift,Never Grow Up,57w0Uyk2jJAkO2hMJ36xJZ,0.715,0.308,-8.829,0.829,0.0,0.16,0.547,124.899,290480
-Taylor Swift,Enchanted,3sqrvkNC6IPTIXvvbx9Arw,0.535,0.618,-3.913,0.0716,0.000388,0.169,0.228,81.975,352200
-Taylor Swift,Better Than Revenge,55mh9j2aB7xZ1Oh463gK8k,0.519,0.917,-3.185,0.0167,2.06e-05,0.359,0.652,145.882,217173
-Taylor Swift,Innocent,4LraIz87diVQdDK0rhi0S4,0.553,0.604,-5.295,0.202,0.0,0.125,0.186,133.989,302267
-Taylor Swift,Haunted,72idZxdEHLbi2YI486c3sE,0.434,0.944,-2.641,0.0769,0.0,0.151,0.361,162.02,242093
-Taylor Swift,Last Kiss,1VCJ7vk3Y2DoJIAEOXe3V8,0.359,0.329,-9.531,0.581,3.75e-05,0.0979,0.208,84.358,367147
-Taylor Swift,Long Live,7BFc7ffruhZ4Hecnqf5xju,0.412,0.682,-4.319,0.0426,7.47e-05,0.106,0.146,203.959,317960
-Taylor Swift,Ours,0hK93KD6Y0j9giUGh4Valj,0.61,0.556,-7.369,0.505,0.0,0.0851,0.192,159.838,238173
-Taylor Swift,If This Was A Movie,5tSmAABuoOfR59lrtXdDqm,0.515,0.724,-3.498,0.154,4.05e-06,0.269,0.257,147.788,234547
-Taylor Swift,Superman,6aJ0ipi4EPmu1aTbFeXZnw,0.582,0.817,-3.718,0.0187,1.94e-06,0.101,0.547,131.983,276267
-Taylor Swift,Back To December - Acoustic,7k7BOXE4u6luKTwcLEAyrd,0.541,0.451,-6.522,0.731,0.0,0.197,0.333,141.713,292533
-Taylor Swift,Haunted - Acoustic Version,6SdBf0ZsJZoKaH5zcDaz9X,0.574,0.462,-5.124,0.841,0.0,0.28,0.314,80.858,217627
-Taylor Swift,Mine,67Io3gxHwfbUreBf114c0u,0.621,0.78,-2.934,0.00327,4.55e-06,0.184,0.672,121.038,230773
-Taylor Swift,Back To December,5aNkiOMxQXkpoEY5bTYoCh,0.525,0.676,-4.684,0.113,0.0,0.294,0.281,141.95,293040
-Taylor Swift,The Story Of Us,2jt90bYlYDg1lXYWES34LJ,0.546,0.809,-3.621,0.00487,0.000372,0.0437,0.649,139.91,266480
-Taylor Swift,Jump Then Fall,6WWvcA62QlnRguluWAk6bv,0.618,0.687,-5.737,0.111,0.0,0.0693,0.82,79.991,237067
-Taylor Swift,Untouchable,6ovFJkdau79DuXEvQjPaNH,0.419,0.454,-6.809,0.0583,3.78e-06,0.0974,0.288,200.017,311040
-Taylor Swift,Forever & Always - Piano Version,13MAWVUSkbGMUi6I7RowRK,0.592,0.16,-10.785,0.852,0.0,0.116,0.294,118.929,267507
-Taylor Swift,Come In With The Rain,0cEG04R5cldkTLzK6phlcn,0.527,0.461,-6.172,0.0961,2.47e-06,0.24,0.23,143.94,238093
-Taylor Swift,SuperStar,0XfTh16YcKPzdxMPTeKTAq,0.61,0.531,-6.123,0.367,0.0,0.351,0.228,85.979,261453
-Taylor Swift,The Other Side Of The Door,1yDJcXc549N6AabNBzFAku,0.476,0.816,-4.279,0.169,0.0,0.238,0.469,163.847,237600
-Taylor Swift,Fearless,2okho7vU7Nsq1UZD0kgIMi,0.598,0.714,-4.397,0.0364,1.04e-06,0.31,0.467,99.979,242000
-Taylor Swift,Fifteen,5Ora3Ish2A1JN5veGYTxhw,0.559,0.636,-4.4,0.0728,0.0,0.144,0.214,95.485,294347
-Taylor Swift,Love Story,5hnJCRSo4pxRsaEwT9YusG,0.618,0.736,-3.937,0.157,0.0,0.073,0.307,118.982,235280
-Taylor Swift,Hey Stephen,3CI1f4yLwdHzcUnH7o0Xyh,0.843,0.553,-7.348,0.168,2.66e-06,0.107,0.825,115.997,254320
-Taylor Swift,White Horse,5yKB8qcTSflDercM2PXwot,0.585,0.346,-8.014,0.302,0.0,0.102,0.195,92.564,234440
-Taylor Swift,You Belong With Me,4kgTdThcDHfuDS2kKxB7Lc,0.687,0.771,-4.424,0.164,2.46e-05,0.112,0.445,129.964,231147
-Taylor Swift,Breathe,23qIWGhpwvDgC23TyZOUck,0.498,0.486,-7.384,0.373,0.0,0.113,0.17,147.952,263987
-Taylor Swift,Tell Me Why,4x7Gxk2GfwZJcqpoVT1PbR,0.601,0.852,-3.096,0.0606,3.41e-06,0.37,0.513,100.015,200560
-Taylor Swift,You're Not Sorry,3JhvYnOfKLJuWC7jEU0GmJ,0.459,0.459,-4.126,0.13,2.3e-06,0.113,0.281,134.018,261800
-Taylor Swift,The Way I Loved You,4pEZUytwBzha5Un6m3SCFf,0.436,0.712,-3.689,0.0322,0.0,0.111,0.379,160.886,244240
-Taylor Swift,Forever & Always,3NKCWBT2uKp8rxSkcvIrdX,0.605,0.829,-4.993,0.0907,0.0,0.106,0.514,128.012,225333
-Taylor Swift,The Best Day,7CjuAoOiSrwWv7wJonAUmw,0.664,0.447,-8.535,0.611,1e-06,0.139,0.364,126.079,245347
-Taylor Swift,Change,3gFaNwyiafgUoQhR0pHYA9,0.548,0.756,-4.175,0.00471,0.0,0.117,0.224,96.038,281053
-Taylor Swift,Fearless,4lIbdZwGa2hgkxigHJumaV,0.403,0.699,-4.412,0.0393,0.0,0.303,0.448,200.056,243400
-Taylor Swift,Fifteen,2l9Pipz6AiVOabtKJVl3O9,0.558,0.634,-4.437,0.0665,0.0,0.145,0.208,95.349,295213
-Taylor Swift,Love Story,0wi9VaczZO8tbBwltGiwO5,0.618,0.637,-5.412,0.0198,7.99e-05,0.169,0.269,119.056,234707
-Taylor Swift,Hey Stephen,4vwfVWo6hSf0vJuBpNwMWJ,0.841,0.543,-7.338,0.181,2.24e-06,0.0903,0.827,115.994,256053
-Taylor Swift,White Horse,04g3rUk3RzqaXi02FJT2Zl,0.582,0.334,-8.035,0.272,0.0,0.102,0.231,92.71,235427
-Taylor Swift,You Belong With Me,3hD7Dd9WVVkT6HAtil3R2D,0.69,0.774,-4.467,0.17,1.64e-05,0.102,0.414,129.98,232120
-Taylor Swift,Breathe,5XQJNlITnzHbLqpX60gUrj,0.487,0.476,-7.385,0.388,0.0,0.135,0.156,147.913,264973
-Taylor Swift,Tell Me Why,3ZeJG2dbry1YgRbGn5IukZ,0.607,0.854,-3.079,0.0667,2.75e-06,0.356,0.492,99.989,201507
-Taylor Swift,You're Not Sorry,5WbxKDVDEHtDWL9Mr6ZLoc,0.469,0.46,-4.098,0.141,1.39e-06,0.113,0.302,133.956,263240
-Taylor Swift,The Way I Loved You,177nprYS2qLchToEJVzTec,0.434,0.719,-3.715,0.0393,0.0,0.113,0.419,160.92,245400
-Taylor Swift,Forever & Always,0AXwcrtfYGYgQgmzyk8PA1,0.603,0.811,-4.98,0.0883,0.0,0.101,0.529,128.007,226333
-Taylor Swift,The Best Day,361O1jOM9zsU5Wmo3hhsfH,0.668,0.448,-8.566,0.639,4.06e-06,0.14,0.383,126.074,246320
-Taylor Swift,Change,5nUPw1RvAkqDIdebpDy3JI,0.547,0.763,-4.206,0.00418,0.0,0.107,0.231,96.018,280293
-Taylor Swift,Our Song,3iaYan8tKzKGP0MNWbSgxM,0.522,0.691,-4.825,0.00609,0.0,0.249,0.651,177.865,201107
-Taylor Swift,Teardrops On My Guitar,7gfzBsM4xaMb8c2WdpzEat,0.514,0.554,-6.338,0.0174,0.00572,0.118,0.171,99.947,194653
-Taylor Swift,Should've Said No,5p0RhYSSIU86G63ugc7nAA,0.405,0.758,-4.385,0.00585,0.00029,0.246,0.444,168.077,245827
-Taylor Swift,Love Story - J Stax Radio Mix,4i0M7glXqIIRKPwbLtpExi,0.696,0.827,-6.464,0.00664,0.0031,0.297,0.324,127.997,221800
-Taylor Swift,Love Story - Live From Clear Channel Stripped 2008,4RBKAqJ3qyvvriDG0s9IJ3,0.741,0.444,-7.031,0.659,0.0,0.131,0.512,119.006,221028
-Taylor Swift,Fearless - Live From Clear Channel Stripped 2008,5g7RMU3cV7zXWH244BLe7G,0.623,0.266,-5.894,0.814,0.0,0.145,0.467,96.601,198247
-Taylor Swift,Beautiful Eyes - Live From Clear Channel Stripped 2008,4aBW31cmkA7BLColUsMEeZ,0.627,0.704,-3.739,0.596,0.0,0.0598,0.457,98.958,176316
-Taylor Swift,Untouchable - Live From Clear Channel Stripped 2008,4MbHDiHQjhmoVAV75G04Ql,0.731,0.184,-9.235,0.856,0.0,0.0927,0.331,102.404,222959
-Taylor Swift,Teardrops On My Guitar - Live From Clear Channel Stripped 2008,4DjevQhsPWULcondN4mRh5,0.344,0.801,-5.373,0.664,0.0,0.106,0.615,204.489,196347
-Taylor Swift,Picture To Burn - Live From Clear Channel Stripped 2008,7EvU9pRoJ9Xs7anx0P7tEc,0.647,0.872,-1.953,0.266,0.0,0.419,0.684,105.798,173899
-Taylor Swift,Should've Said No - Live From Clear Channel Stripped 2008,5a9hUL6ZuiagZhazwrtwHF,0.429,0.808,-3.004,0.399,0.0,0.0884,0.438,171.537,228474
-Taylor Swift,Change - Live From Clear Channel Stripped 2008,69o9kr9UexjzeZDE8yD8dQ,0.243,0.712,-4.307,0.156,0.0,0.111,0.273,202.319,258487
-Taylor Swift,Tim McGraw,2Fn01AIMyHbha2ceNQeOqw,0.58,0.491,-6.462,0.575,0.0,0.121,0.425,76.009,232107
-Taylor Swift,Picture To Burn,4BYejINgfZF0qKDMEH2cim,0.658,0.877,-2.098,0.173,0.0,0.0962,0.821,105.586,173067
-Taylor Swift,Teardrops On My Guitar - Radio Single Remix,2TF4UtYreqNbQ6Z9AccldU,0.621,0.417,-6.941,0.288,0.0,0.119,0.289,99.953,203040
-Taylor Swift,A Place in this World,1oR4MUBpyNrAViC8wPNpfm,0.576,0.777,-2.881,0.051,0.0,0.32,0.428,115.028,199200
-Taylor Swift,Cold As You,569sXXQ7t0jSdqHooi2yqs,0.418,0.482,-5.769,0.217,0.0,0.123,0.261,175.558,239013
-Taylor Swift,The Outside,5Tj2MqcFMf60CaGsKbM1aq,0.589,0.805,-4.055,0.00491,0.0,0.24,0.591,112.982,207107
-Taylor Swift,Tied Together with a Smile,2zzxwmoOBnXDT0KnJsoIWk,0.479,0.578,-4.963,0.525,0.0,0.0841,0.192,146.165,248107
-Taylor Swift,Stay Beautiful,41sjzdjScVwnxnxADElts6,0.594,0.629,-4.919,0.0868,0.0,0.137,0.504,131.597,236053
-Taylor Swift,Should've Said No,6CdaXOq1MWe2JHDalTG01d,0.476,0.777,-3.771,0.0103,0.0,0.196,0.472,167.964,242200
-Taylor Swift,Mary's Song (Oh My My My),2O8sogKJCfVZ4rotBv1vVF,0.403,0.627,-5.28,0.0177,0.0,0.182,0.374,74.9,213080
-Taylor Swift,Our Song,1j6gmK6u4WNI33lMZ8dC1s,0.668,0.672,-4.931,0.111,0.0,0.329,0.539,89.011,201107
-Taylor Swift,I'm Only Me When I'm With You,7CzxXgQXurKZCyHz9ufbo1,0.563,0.934,-3.629,0.00452,0.000807,0.103,0.518,143.964,213053
-Taylor Swift,Invisible,1k3PzDNjg38cWqOvL4M9vq,0.612,0.394,-5.723,0.637,0.0,0.147,0.233,96.001,203227
-Taylor Swift,A Perfectly Good Heart,0YgHuReCSPwTXYny7isLja,0.483,0.751,-5.726,0.00349,0.0,0.128,0.268,156.092,220147
-Taylor Swift,Teardrops on My Guitar - Pop Version,1hxLyjC9D9Jpw6EAPKqWv4,0.459,0.753,-3.827,0.0402,0.0,0.0863,0.483,199.997,179067
+artist,album,track,id,danceability,energy,loudness,acousticness,instrumentalness,liveness,valence,tempo,duration
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Fortnight (feat. Post Malone),6dODwocEuGzHAavXqTbwHv,0.504,0.386,-10.976,0.502,1.53e-05,0.0961,0.281,192.004,228965
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,The Tortured Poets Department,4PdLaGZubp4lghChqp8erB,0.604,0.428,-8.441,0.0483,0.0,0.126,0.292,110.259,293048
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,My Boy Only Breaks His Favorite Toys,7uGYWMwRy24dm7RUDDhUlD,0.596,0.563,-7.362,0.137,0.0,0.302,0.481,97.073,203801
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Down Bad,1kbEbBdEgQdQeLXCJh28pJ,0.541,0.366,-10.412,0.56,1e-06,0.0946,0.168,159.707,261228
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,"So Long, London",7wAkQFShJ27V8362MqevQr,0.423,0.533,-11.388,0.73,0.00264,0.0816,0.248,160.218,262975
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,But Daddy I Love Him,4QMgEffJQuKtjCNvqfRZ0m,0.521,0.72,-7.684,0.384,0.0,0.135,0.438,79.943,340428
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Fresh Out The Slammer,7IWcDWOfiooH5hRs9XOVYz,0.33,0.483,-9.394,0.624,0.0,0.111,0.34,87.115,210789
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Florida!!! (feat. Florence + The Machine),5ExOm0dh4NyRyAdSAO9hyM,0.533,0.573,-7.123,0.178,0.0,0.309,0.398,150.088,215463
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Guilty as Sin?,799KrpEbhZp0MHeiA8YK9P,0.626,0.428,-8.374,0.607,0.0,0.0921,0.487,94.95,254366
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Who’s Afraid of Little Old Me?,2d8UxVNhJinc8uat9PoM9y,0.606,0.338,-10.555,0.315,0.0,0.106,0.238,119.88,334085
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,I Can Fix Him (No Really I Can),5chnRTB9qMK3W1M41SnU9s,0.661,0.257,-13.961,0.768,1.72e-06,0.176,0.318,106.896,156298
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,loml,3YkNIrAvbKNrrwwEd7NVLl,0.423,0.272,-12.56,0.858,0.0,0.108,0.195,78.539,277157
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,I Can Do It With a Broken Heart,2fPvQfGQEZOKtJ9qXeL4x8,0.701,0.751,-8.39,0.123,0.0,0.15,0.22,129.994,218005
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,The Smallest Man Who Ever Lived,1xtw1krCR6Dw2KwkXw5z63,0.426,0.41,-9.083,0.52,0.0,0.338,0.263,142.377,245542
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,The Alchemy,1tuNqJOtRQVHvONR8Lg3MZ,0.64,0.421,-8.802,0.422,0.0,0.103,0.353,100.056,196900
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Clara Bow,4d9PtIEVij9jW5OaLinH66,0.686,0.318,-11.046,0.636,0.00144,0.106,0.214,104.088,216662
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,The Black Dog,62E2nR0od0M5HYxuYLaDz7,0.527,0.27,-10.855,0.707,0.0,0.102,0.23,154.042,238857
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,imgonnagetyouback,1kcwpPDQnqEqmezzXdJTCP,0.784,0.391,-9.471,0.608,0.0,0.252,0.15,110.007,222072
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,The Albatross,4EF6IyONolQy0bIQXm2EmX,0.352,0.479,-8.942,0.655,0.0,0.0935,0.292,172.013,183879
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Chloe or Sam or Sophia or Marcus,1rmEsOezwf2lmIZTMAO5Ag,0.516,0.451,-8.552,0.78,0.0,0.105,0.218,70.266,213281
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,How Did It End?,5Bedn0svl0ZD7RGmJkmKKw,0.492,0.379,-8.859,0.785,0.00093,0.108,0.273,83.993,238707
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,So High School,7Mts0OfPorF4iwOomvfqn1,0.366,0.866,-4.514,0.0274,3.07e-06,0.106,0.293,176.07,228800
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,I Hate It Here,3hlGuz3loYoLfI3bpwieWq,0.485,0.562,-7.197,0.717,0.0,0.357,0.297,105.953,243876
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,thanK you aIMee,7ogK4lJDVDMU6A6vYR5rvD,0.609,0.541,-8.013,0.609,0.0,0.122,0.252,95.997,263817
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,I Look in People's Windows,1Zai5UJ2di3qEuR2HeT2s8,0.763,0.274,-11.429,0.69,0.0,0.164,0.385,90.796,131907
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,The Prophecy,18WFFUIsewmA8g31KAeo3e,0.421,0.525,-10.359,0.825,2.67e-06,0.308,0.535,167.927,249807
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Cassandra,0g4fMVo4JjwnIpTfFfLdxS,0.587,0.587,-9.879,0.806,0.0,0.137,0.514,139.963,240206
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Peter,3zMDGj4D8ogaYgAIZPeU7S,0.342,0.376,-8.212,0.805,0.0,0.0593,0.29,176.859,283958
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,The Bolter,2913xXOVAIDAqxzV2g4VcU,0.455,0.586,-7.978,0.638,0.0,0.131,0.481,183.694,238242
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,Robin,2CnjDMdpRjlWv04Xk3s6MW,0.476,0.386,-10.601,0.791,0.000423,0.1,0.158,138.265,240893
+Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,The Manuscript,1DTRUYVd8rYpla9hhVVwjo,0.509,0.256,-11.665,0.901,2.43e-06,0.103,0.436,94.184,224744
+Taylor Swift,THE TORTURED POETS DEPARTMENT,Fortnight (feat. Post Malone),2OzhQlSqBEmt7hmkYxfT6m,0.504,0.386,-10.976,0.502,1.53e-05,0.0961,0.281,192.004,228965
+Taylor Swift,THE TORTURED POETS DEPARTMENT,The Tortured Poets Department,3NMrVbIVWT3fPXBj0rNDKG,0.604,0.428,-8.441,0.0483,0.0,0.126,0.292,110.259,293048
+Taylor Swift,THE TORTURED POETS DEPARTMENT,My Boy Only Breaks His Favorite Toys,2XXwLdtuAcE0HSCu61ijAb,0.596,0.563,-7.362,0.137,0.0,0.302,0.481,97.073,203801
+Taylor Swift,THE TORTURED POETS DEPARTMENT,Down Bad,2F3N9tdombb64aW6VtZOdo,0.541,0.366,-10.412,0.56,1e-06,0.0946,0.168,159.707,261228
+Taylor Swift,THE TORTURED POETS DEPARTMENT,"So Long, London",3Vevii7qKqrmW8CcyzBHDl,0.423,0.533,-11.388,0.73,0.00264,0.0816,0.248,160.218,262975
+Taylor Swift,THE TORTURED POETS DEPARTMENT,But Daddy I Love Him,5og4Qzt92jJzVDkOtSEilb,0.521,0.72,-7.684,0.384,0.0,0.135,0.438,79.943,340428
+Taylor Swift,THE TORTURED POETS DEPARTMENT,Fresh Out The Slammer,3fO566xJgwxIa3qGCGBvIC,0.33,0.483,-9.394,0.624,0.0,0.111,0.34,87.115,210789
+Taylor Swift,THE TORTURED POETS DEPARTMENT,Florida!!! (feat. Florence + The Machine),3ZVFcD8Wlw9T9klGqmJf9F,0.533,0.573,-7.123,0.178,0.0,0.309,0.398,150.088,215463
+Taylor Swift,THE TORTURED POETS DEPARTMENT,Guilty as Sin?,0W0iAC1VGlB82PI6elxFYf,0.626,0.428,-8.374,0.607,0.0,0.0921,0.487,94.95,254366
+Taylor Swift,THE TORTURED POETS DEPARTMENT,Who’s Afraid of Little Old Me?,36t6frENUtCYKuZus6aYDO,0.606,0.338,-10.555,0.315,0.0,0.106,0.238,119.88,334085
+Taylor Swift,THE TORTURED POETS DEPARTMENT,I Can Fix Him (No Really I Can),2h3MDMf8sd9s4XIzpTBIjX,0.661,0.257,-13.961,0.768,1.72e-06,0.176,0.318,106.896,156298
+Taylor Swift,THE TORTURED POETS DEPARTMENT,loml,6RSG1dKPV5gEvILwJb4QtS,0.423,0.272,-12.56,0.858,0.0,0.108,0.195,78.539,277157
+Taylor Swift,THE TORTURED POETS DEPARTMENT,I Can Do It With a Broken Heart,4q5YezDOIPcoLr8R81x9qy,0.701,0.751,-8.39,0.123,0.0,0.15,0.22,129.994,218005
+Taylor Swift,THE TORTURED POETS DEPARTMENT,The Smallest Man Who Ever Lived,2v1ivOOsgn64g5OywuH55L,0.426,0.41,-9.083,0.52,0.0,0.338,0.263,142.377,245542
+Taylor Swift,THE TORTURED POETS DEPARTMENT,The Alchemy,1dhMTsEZz6ZEquGvmzVoHn,0.64,0.421,-8.802,0.422,0.0,0.103,0.353,100.056,196900
+Taylor Swift,THE TORTURED POETS DEPARTMENT,Clara Bow,1UlhrRvYzbHEyugEDspXUB,0.686,0.318,-11.046,0.636,0.00144,0.106,0.214,104.088,216662
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Welcome To New York (Taylor's Version),4WUepByoeqcedHoYhSNHRt,0.76,0.602,-4.871,0.00661,0.000133,0.325,0.685,116.989,212600
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Blank Space (Taylor's Version),0108kcWLnn2HlH2kedi1gn,0.732,0.719,-5.469,0.0901,0.0,0.331,0.71,96.035,231833
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Style (Taylor's Version),3Vpk1hfMAQme8VJ0SNRSkd,0.514,0.821,-4.803,0.000456,0.0232,0.0946,0.298,94.884,231000
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Out Of The Woods (Taylor's Version),1OcSfkeCg9hRC2sFKB4IMJ,0.544,0.884,-5.973,0.000466,0.000134,0.381,0.184,91.981,235800
+Taylor Swift,1989 (Taylor's Version) [Deluxe],All You Had To Do Was Stay (Taylor's Version),2k0ZEeAqzvYMcx9Qt5aClQ,0.589,0.713,-5.614,0.000778,0.0,0.188,0.54,97.069,193289
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Shake It Off (Taylor's Version),50yNTF0Od55qnHLxYsA5Pw,0.632,0.805,-5.707,0.0112,2.51e-05,0.156,0.903,160.052,219209
+Taylor Swift,1989 (Taylor's Version) [Deluxe],I Wish You Would (Taylor's Version),3FxJDucHWdw6caWTKO5b23,0.671,0.853,-6.568,0.00388,9.48e-06,0.0812,0.523,118.032,207650
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Bad Blood (Taylor's Version),7oZONwFiFIErZcXAtTu7FY,0.624,0.711,-6.347,0.0369,3.13e-06,0.19,0.347,169.999,211104
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Wildest Dreams (Taylor's Version),27exgla7YBw9DUNNcTIpjy,0.587,0.663,-7.439,0.0348,9.95e-05,0.0971,0.539,139.993,220433
+Taylor Swift,1989 (Taylor's Version) [Deluxe],How You Get The Girl (Taylor's Version),733OhaXQIHY7BKtY3vnSkn,0.761,0.67,-5.956,0.00198,1.08e-05,0.0873,0.519,120.014,247533
+Taylor Swift,1989 (Taylor's Version) [Deluxe],This Love (Taylor’s Version),4WBEj8TeGtRPNJdOmT3WJW,0.47,0.494,-8.672,0.302,0.0,0.0672,0.0524,144.039,250100
+Taylor Swift,1989 (Taylor's Version) [Deluxe],I Know Places (Taylor's Version),1ULabO0PEsdJekqVH6G10G,0.572,0.807,-5.348,0.0846,0.0,0.071,0.626,160.015,195700
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Clean (Taylor's Version),0lKUBmEyQfzsQHozyeXzES,0.782,0.379,-8.964,0.297,2.98e-05,0.103,0.267,103.99,271000
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Wonderland (Taylor's Version),6HRsJu8vcnzYDN4t0570FY,0.387,0.703,-5.956,0.0105,1.1e-05,0.128,0.32,123.18,245567
+Taylor Swift,1989 (Taylor's Version) [Deluxe],You Are In Love (Taylor's Version),0TyGh27YQ5LknmiDhCzJiT,0.554,0.509,-9.403,0.572,2.08e-06,0.113,0.401,85.079,267389
+Taylor Swift,1989 (Taylor's Version) [Deluxe],New Romantics (Taylor's Version),5M787RexsAiVYjQusM98CV,0.653,0.848,-5.936,0.00516,4.24e-06,0.0798,0.724,122.017,230178
+Taylor Swift,1989 (Taylor's Version) [Deluxe],"""Slut!"" (Taylor's Version) (From The Vault)",0CD7DzeCsuPJygddqlUVYa,0.621,0.415,-13.187,0.33,0.000112,0.0634,0.313,77.978,180381
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Say Don't Go (Taylor's Version) (From The Vault),3CCRVu4F91Qp2mnGjmWBrf,0.632,0.539,-8.375,0.0684,5.82e-06,0.132,0.186,109.962,279833
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Now That We Don't Talk (Taylor's Version) (From The Vault),5QUIK7ZtziW8kGWo8RqopF,0.8,0.509,-9.386,0.16,3.05e-05,0.0834,0.0768,109.994,146437
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Suburban Legends (Taylor's Version) (From The Vault),6M9ppdfFjR1AbpUl3Y8DcV,0.695,0.607,-8.84,0.212,0.0,0.102,0.394,118.043,171819
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Is It Over Now? (Taylor's Version) (From The Vault),6IG3sQ8s9nfk6TUlVzRhbN,0.599,0.651,-7.343,0.0486,0.0,0.126,0.153,100.001,229478
+Taylor Swift,1989 (Taylor's Version) [Deluxe],Bad Blood (feat. Kendrick Lamar) (Taylor's Version),6qAcApH8obo8eqatCKUHd9,0.604,0.644,-6.931,0.0143,0.0,0.237,0.197,170.088,199773
+Taylor Swift,1989 (Taylor's Version),Welcome To New York (Taylor's Version),1hR8BSuEqPCCZfv93zzzz9,0.76,0.602,-4.871,0.00661,0.000133,0.325,0.685,116.989,212600
+Taylor Swift,1989 (Taylor's Version),Blank Space (Taylor's Version),45wMBGri1PORPjM9PwFfrS,0.732,0.719,-5.469,0.0901,0.0,0.331,0.71,96.035,231833
+Taylor Swift,1989 (Taylor's Version),Style (Taylor's Version),1hjRhYpWyqDpPahmSlUTlc,0.514,0.821,-4.803,0.000456,0.0232,0.0946,0.298,94.884,231000
+Taylor Swift,1989 (Taylor's Version),Out Of The Woods (Taylor's Version),045ZeOHPIzhxxsm8bq5kyE,0.544,0.884,-5.973,0.000466,0.000134,0.381,0.184,91.981,235800
+Taylor Swift,1989 (Taylor's Version),All You Had To Do Was Stay (Taylor's Version),6GXgd1BPD9bUpqw5AntGV5,0.589,0.713,-5.614,0.000778,0.0,0.188,0.54,97.069,193289
+Taylor Swift,1989 (Taylor's Version),Shake It Off (Taylor's Version),3pv7Q5v2dpdefwdWIvE7yH,0.632,0.805,-5.707,0.0112,2.51e-05,0.156,0.903,160.052,219209
+Taylor Swift,1989 (Taylor's Version),I Wish You Would (Taylor's Version),43y1WpBdnEy5TR9aZoSQL9,0.671,0.853,-6.568,0.00388,9.48e-06,0.0812,0.523,118.032,207650
+Taylor Swift,1989 (Taylor's Version),Bad Blood (Taylor's Version),64FzgoLZ3oXu2SriZblHic,0.624,0.711,-6.347,0.0369,3.13e-06,0.19,0.347,169.999,211104
+Taylor Swift,1989 (Taylor's Version),Wildest Dreams (Taylor's Version),1K39ty6o1sHwwlZwO6a7wK,0.587,0.663,-7.439,0.0348,9.95e-05,0.0971,0.539,139.993,220433
+Taylor Swift,1989 (Taylor's Version),How You Get The Girl (Taylor's Version),75W3SngKzTuoQ94uLf3y82,0.761,0.67,-5.956,0.00198,1.08e-05,0.0873,0.519,120.014,247533
+Taylor Swift,1989 (Taylor's Version),This Love (Taylor’s Version),5QVVjX0ZItqlVpEuVCM9Yg,0.47,0.494,-8.672,0.302,0.0,0.0672,0.0524,144.039,250100
+Taylor Swift,1989 (Taylor's Version),I Know Places (Taylor's Version),2f0GI2ZLUtbGqFx8t2Gk6A,0.572,0.807,-5.348,0.0846,0.0,0.071,0.626,160.015,195700
+Taylor Swift,1989 (Taylor's Version),Clean (Taylor's Version),2ByBBvpR9b7IynvRmnG7kG,0.782,0.379,-8.964,0.297,2.98e-05,0.103,0.267,103.99,271000
+Taylor Swift,1989 (Taylor's Version),Wonderland (Taylor's Version),2ve0kuaWUCt4Zx8x4bf1MR,0.387,0.703,-5.956,0.0105,1.1e-05,0.128,0.32,123.18,245567
+Taylor Swift,1989 (Taylor's Version),You Are In Love (Taylor's Version),4UwqOWDpdeIDVQDuKT6iza,0.554,0.509,-9.403,0.572,2.08e-06,0.113,0.401,85.079,267389
+Taylor Swift,1989 (Taylor's Version),New Romantics (Taylor's Version),2vPMoMDXxu9uX1igWZmXSG,0.653,0.848,-5.936,0.00516,4.24e-06,0.0798,0.724,122.017,230178
+Taylor Swift,1989 (Taylor's Version),"""Slut!"" (Taylor's Version) (From The Vault)",71BqAINEnezjQfxE4VuJfq,0.621,0.415,-13.187,0.33,0.000112,0.0634,0.313,77.978,180381
+Taylor Swift,1989 (Taylor's Version),Say Don't Go (Taylor's Version) (From The Vault),4NioO5R9sHEZh4cGzMHyNt,0.632,0.539,-8.375,0.0684,5.82e-06,0.132,0.186,109.962,279833
+Taylor Swift,1989 (Taylor's Version),Now That We Don't Talk (Taylor's Version) (From The Vault),5KD6AEm19QnMbfWpfoOHMl,0.8,0.509,-9.386,0.16,3.05e-05,0.0834,0.0768,109.994,146437
+Taylor Swift,1989 (Taylor's Version),Suburban Legends (Taylor's Version) (From The Vault),6T0sEnqjmHISIKwFETeeiP,0.695,0.607,-8.84,0.212,0.0,0.102,0.394,118.043,171819
+Taylor Swift,1989 (Taylor's Version),Is It Over Now? (Taylor's Version) (From The Vault),1Iq8oo9XkmmvCQiGOfORiz,0.599,0.651,-7.343,0.0486,0.0,0.126,0.153,100.001,229478
+Taylor Swift,Speak Now (Taylor's Version),Mine (Taylor's Version),7G0gBu6nLdhFDPRLc0HdDG,0.647,0.793,-2.903,0.00314,1.93e-06,0.174,0.5,121.101,231707
+Taylor Swift,Speak Now (Taylor's Version),Sparks Fly (Taylor’s Version),3MytWN8L7shNYzGl4tAKRp,0.605,0.769,-2.413,0.0241,0.0,0.0936,0.366,114.921,261231
+Taylor Swift,Speak Now (Taylor's Version),Back To December (Taylor's Version),79uDOz0zuuWS7HWxzMmTa2,0.486,0.635,-3.994,0.00705,0.0,0.119,0.235,141.868,294190
+Taylor Swift,Speak Now (Taylor's Version),Speak Now (Taylor's Version),5xXqyjLicvEpch72qEryFT,0.734,0.686,-2.926,0.225,0.0,0.136,0.598,119.002,242473
+Taylor Swift,Speak Now (Taylor's Version),Dear John (Taylor's Version),1zU8j1x3yi9xalMF96pzKp,0.379,0.468,-5.07,0.0327,0.0,0.158,0.115,119.447,405907
+Taylor Swift,Speak Now (Taylor's Version),Mean (Taylor's Version),30Y4CV7A6YqtQtTTo7Ue4j,0.526,0.7,-3.95,0.321,0.0,0.213,0.596,163.949,238693
+Taylor Swift,Speak Now (Taylor's Version),The Story Of Us (Taylor's Version),6dTA6y0C2ReQklntzZl8l3,0.516,0.784,-2.636,0.00136,0.0,0.0499,0.552,139.787,267653
+Taylor Swift,Speak Now (Taylor's Version),Never Grow Up (Taylor's Version),2EFZ9emtKWEglWUQGEQ3P9,0.684,0.339,-7.259,0.867,0.0,0.194,0.572,125.054,292920
+Taylor Swift,Speak Now (Taylor's Version),Enchanted (Taylor's Version),3sW3oSbzsfecv9XoUdGs7h,0.52,0.553,-3.546,0.016,0.0,0.165,0.227,81.949,353253
+Taylor Swift,Speak Now (Taylor's Version),Better Than Revenge (Taylor's Version),0NwGC0v03ysCYINtg6ns58,0.505,0.893,-3.013,0.000795,0.0,0.178,0.659,145.913,220307
+Taylor Swift,Speak Now (Taylor's Version),Innocent (Taylor's Version),12nBPF4Rh4XLFJV0YLN7uj,0.524,0.611,-5.298,0.0972,0.0,0.127,0.126,133.583,301222
+Taylor Swift,Speak Now (Taylor's Version),Haunted (Taylor's Version),4tMzIAFTFdqGBQLdfbPces,0.44,0.916,-1.927,0.00552,0.0,0.252,0.371,162.025,245413
+Taylor Swift,Speak Now (Taylor's Version),Last Kiss (Taylor's Version),59KOoHFcw5XfICnO57holu,0.557,0.362,-8.641,0.443,3.57e-06,0.1,0.187,79.573,369120
+Taylor Swift,Speak Now (Taylor's Version),Long Live (Taylor's Version),4hqJ4bSlYJOXb6Z4SRmzxs,0.38,0.628,-4.054,0.0162,0.0,0.227,0.0984,203.826,317960
+Taylor Swift,Speak Now (Taylor's Version),Ours (Taylor’s Version),3yNJkriPzWjkkDAWHIAVUq,0.539,0.475,-8.411,0.42,0.0,0.109,0.293,159.824,235803
+Taylor Swift,Speak Now (Taylor's Version),Superman (Taylor’s Version),4evLyY5Ue1Wesc61t2KXAU,0.537,0.733,-3.506,0.00207,0.0,0.11,0.347,131.898,274945
+Taylor Swift,Speak Now (Taylor's Version),Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),4e3ZNTAV6PCrdYMUrUlMpQ,0.547,0.854,-4.753,0.018,0.0,0.156,0.26,131.068,266467
+Taylor Swift,Speak Now (Taylor's Version),When Emma Falls in Love (Taylor’s Version) (From The Vault),0zo975x58DlXbZllWvfYhg,0.524,0.759,-4.714,0.168,0.0,0.104,0.234,77.879,252386
+Taylor Swift,Speak Now (Taylor's Version),I Can See You (Taylor’s Version) (From The Vault),5kHMfzgLZP95O9NBy0ku4v,0.695,0.768,-4.883,0.0577,0.0,0.0426,0.813,123.054,273186
+Taylor Swift,Speak Now (Taylor's Version),Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),4ABYxlb92WBIjHu7TIKmml,0.578,0.565,-8.064,0.342,0.0,0.0662,0.351,147.781,306062
+Taylor Swift,Speak Now (Taylor's Version),Foolish One (Taylor’s Version) (From The Vault),4s8BIKx4Zh6ryAEz8RTlaU,0.672,0.613,-4.709,0.599,0.0,0.112,0.557,97.041,311765
+Taylor Swift,Speak Now (Taylor's Version),Timeless (Taylor’s Version) (From The Vault),1HCdems7PQZRj42QDWLA0A,0.629,0.578,-5.806,0.332,0.0,0.0868,0.651,142.887,321397
+Taylor Swift,Midnights (The Til Dawn Edition),Lavender Haze,24emu3sabKISjRkrys28jq,0.735,0.449,-10.56,0.23,0.00126,0.132,0.0955,97.05,202396
+Taylor Swift,Midnights (The Til Dawn Edition),Maroon,6qxvy9Pe4RJIq5JBVbbwbS,0.655,0.384,-8.29,0.0634,1.45e-06,0.0973,0.0384,108.058,218271
+Taylor Swift,Midnights (The Til Dawn Edition),Anti-Hero,5qIHFdkW6phMsTZlN2g8Lc,0.633,0.648,-6.645,0.121,2.62e-06,0.161,0.49,96.888,200690
+Taylor Swift,Midnights (The Til Dawn Edition),Snow On The Beach (feat. Lana Del Rey),7GA86Uo2jYbj8vIXe2nyWd,0.663,0.321,-13.527,0.701,0.000598,0.107,0.153,110.021,256124
+Taylor Swift,Midnights (The Til Dawn Edition),"You're On Your Own, Kid",6PQOU00xWNrGwCZzboriXy,0.696,0.39,-10.331,0.447,1.55e-05,0.125,0.395,120.032,194207
+Taylor Swift,Midnights (The Til Dawn Edition),Midnight Rain,4eKMqf9ZMSclDX7V9Ptg7x,0.604,0.375,-11.637,0.71,5.87e-05,0.116,0.203,137.651,174783
+Taylor Swift,Midnights (The Til Dawn Edition),Question...?,7oomkQSYf1ia2VnVEWfFIU,0.654,0.51,-8.767,0.206,0.0,0.249,0.105,108.874,210557
+Taylor Swift,Midnights (The Til Dawn Edition),Vigilante Shit,0GKDhq6ZbmSbRHd3eyGlB7,0.872,0.267,-10.764,0.166,2.18e-05,0.123,0.168,79.964,164801
+Taylor Swift,Midnights (The Til Dawn Edition),Bejeweled,0VpF6RLdCfPIeYRwMu4tZK,0.687,0.551,-9.202,0.0593,0.000143,0.09,0.443,163.994,194166
+Taylor Swift,Midnights (The Til Dawn Edition),Labyrinth,4bBDkw2KBMX0tcgAaXC83Q,0.48,0.295,-15.512,0.797,0.333,0.12,0.132,110.018,247962
+Taylor Swift,Midnights (The Til Dawn Edition),Karma,45R112Jz5hQeKgITXgSXzs,0.64,0.619,-7.108,0.062,0.0,0.475,0.121,90.008,204852
+Taylor Swift,Midnights (The Til Dawn Edition),Sweet Nothing,2L09RYwH5Pjzca6PmbUAw3,0.336,0.161,-14.973,0.968,0.00011,0.115,0.407,176.48,188497
+Taylor Swift,Midnights (The Til Dawn Edition),Mastermind,1QQii3pa5m8MEda0nbkjfw,0.66,0.343,-14.132,0.565,0.00134,0.0922,0.137,125.96,191039
+Taylor Swift,Midnights (The Til Dawn Edition),The Great War,2VuqMjgoKaOHNM8HpxtXKx,0.57,0.747,-8.93,0.199,2.32e-05,0.0854,0.574,96.016,240356
+Taylor Swift,Midnights (The Til Dawn Edition),Bigger Than The Whole Sky,71CBDRKmF2VeRKYMG1DFBh,0.42,0.22,-12.584,0.841,0.00131,0.114,0.0705,165.564,218503
+Taylor Swift,Midnights (The Til Dawn Edition),Paris,5tWxKWq1DSP1s9WQ5PWuqu,0.703,0.518,-10.501,0.103,2.89e-05,0.148,0.347,110.94,196259
+Taylor Swift,Midnights (The Til Dawn Edition),High Infidelity,1SztNGCwEHJEVFx90E5g7D,0.571,0.547,-10.141,0.704,0.0,0.0877,0.768,175.933,231475
+Taylor Swift,Midnights (The Til Dawn Edition),Glitch,7C0w28EsX0Um2FrZs9gso2,0.677,0.47,-9.65,0.314,0.0,0.11,0.347,140.881,148781
+Taylor Swift,Midnights (The Til Dawn Edition),"Would've, Could've, Should've",4txojlesMFQZGWxwz2EeqB,0.485,0.846,-6.557,0.393,0.00115,0.124,0.548,157.918,260362
+Taylor Swift,Midnights (The Til Dawn Edition),Dear Reader,10GRRCR5fctuOF4GFmATJI,0.674,0.39,-11.944,0.464,0.00122,0.116,0.151,107.891,225194
+Taylor Swift,Midnights (The Til Dawn Edition),Hits Different,3xYJScVfxByb61dYHTwiby,0.666,0.786,-6.556,0.134,3.34e-06,0.265,0.261,106.02,234467
+Taylor Swift,Midnights (The Til Dawn Edition),Snow On The Beach (feat. More Lana Del Rey),4zmKGsrXjLmljb5fTaBTot,0.664,0.399,-10.997,0.797,3.13e-06,0.105,0.265,109.937,229943
+Taylor Swift,Midnights (The Til Dawn Edition),Karma (feat. Ice Spice),4i6cwNY6oIUU2XZxPIw82Y,0.615,0.626,-6.548,0.0574,0.0,0.596,0.0705,89.984,201493
+Taylor Swift,Midnights (3am Edition),Lavender Haze,4g2c7NoTWAOSYDy44l9nub,0.735,0.449,-10.56,0.23,0.00126,0.132,0.0955,97.05,202396
+Taylor Swift,Midnights (3am Edition),Maroon,199E1RRrVmVTQqBXih5qRC,0.655,0.384,-8.29,0.0634,1.45e-06,0.0973,0.0384,108.058,218271
+Taylor Swift,Midnights (3am Edition),Anti-Hero,02Zkkf2zMkwRGQjZ7T4p8f,0.633,0.648,-6.645,0.121,2.62e-06,0.161,0.49,96.888,200690
+Taylor Swift,Midnights (3am Edition),Snow On The Beach (feat. Lana Del Rey),6ADDIJxxqzM9LMpm78yzQG,0.663,0.321,-13.527,0.701,0.000598,0.107,0.153,110.021,256124
+Taylor Swift,Midnights (3am Edition),"You're On Your Own, Kid",7gVWKBcfIW93YxNBi3ApIE,0.696,0.39,-10.331,0.447,1.55e-05,0.125,0.395,120.032,194207
+Taylor Swift,Midnights (3am Edition),Midnight Rain,6Nl7KyvjkFncGsjB49SxLl,0.604,0.375,-11.637,0.71,5.87e-05,0.116,0.203,137.651,174783
+Taylor Swift,Midnights (3am Edition),Question...?,6C7OF1Jal7YkyjzyUG8vkK,0.654,0.51,-8.767,0.206,0.0,0.249,0.105,108.874,210557
+Taylor Swift,Midnights (3am Edition),Vigilante Shit,5yeuXkukVGuix3vmLu2BPJ,0.872,0.267,-10.764,0.166,2.18e-05,0.123,0.168,79.964,164801
+Taylor Swift,Midnights (3am Edition),Bejeweled,0jvo9CjnbR0lYUDTSNTMiu,0.687,0.551,-9.202,0.0593,0.000143,0.09,0.443,163.994,194166
+Taylor Swift,Midnights (3am Edition),Labyrinth,43q586vP8gGkYypKoSddhl,0.48,0.295,-15.512,0.797,0.333,0.12,0.132,110.018,247962
+Taylor Swift,Midnights (3am Edition),Karma,5oqDgw5VGBln5dSIOPWyBq,0.64,0.619,-7.108,0.062,0.0,0.475,0.121,90.008,204852
+Taylor Swift,Midnights (3am Edition),Sweet Nothing,3zmwONxswBAzGwExPugSLN,0.336,0.161,-14.973,0.968,0.00011,0.115,0.407,176.48,188497
+Taylor Swift,Midnights (3am Edition),Mastermind,56hioFjQ0DXrdn04hZcFgG,0.66,0.343,-14.132,0.565,0.00134,0.0922,0.137,125.96,191039
+Taylor Swift,Midnights (3am Edition),The Great War,3UMrglJeju5yWyYIW6o99b,0.57,0.747,-8.93,0.199,2.32e-05,0.0854,0.574,96.016,240356
+Taylor Swift,Midnights (3am Edition),Bigger Than The Whole Sky,0BiqmkasE5FdrChwKfVp8X,0.42,0.22,-12.584,0.841,0.00131,0.114,0.0705,165.564,218503
+Taylor Swift,Midnights (3am Edition),Paris,7712gjoih4QoDbXpljEk21,0.703,0.518,-10.501,0.103,2.89e-05,0.148,0.347,110.94,196259
+Taylor Swift,Midnights (3am Edition),High Infidelity,5kiZGSxgqPdv6rbqL9THdd,0.571,0.547,-10.141,0.704,0.0,0.0877,0.768,175.933,231475
+Taylor Swift,Midnights (3am Edition),Glitch,6wAFvJPpTZVirBKGZ4EnMW,0.677,0.47,-9.65,0.314,0.0,0.11,0.347,140.881,148781
+Taylor Swift,Midnights (3am Edition),"Would've, Could've, Should've",0aV5uARAknQgYhBaK944FP,0.485,0.846,-6.557,0.393,0.00115,0.124,0.548,157.918,260362
+Taylor Swift,Midnights (3am Edition),Dear Reader,3QF5RsWzK1lCvf2o2cY65P,0.674,0.39,-11.944,0.464,0.00122,0.116,0.151,107.891,225194
+Taylor Swift,Midnights,Lavender Haze,5jQI2r1RdgtuT8S3iG8zFC,0.735,0.449,-10.56,0.23,0.00126,0.132,0.0955,97.05,202396
+Taylor Swift,Midnights,Maroon,3eX0NZfLtGzoLUxPNvRfqm,0.655,0.384,-8.29,0.0634,1.45e-06,0.0973,0.0384,108.058,218271
+Taylor Swift,Midnights,Anti-Hero,0V3wPSX9ygBnCm8psDIegu,0.633,0.648,-6.645,0.121,2.62e-06,0.161,0.49,96.888,200690
+Taylor Swift,Midnights,Snow On The Beach (feat. Lana Del Rey),1wtOxkiel43cVs0Yux5Q4h,0.663,0.321,-13.527,0.701,0.000598,0.107,0.153,110.021,256124
+Taylor Swift,Midnights,"You're On Your Own, Kid",4D7BCuvgdJlYvlX5WlN54t,0.696,0.39,-10.331,0.447,1.55e-05,0.125,0.395,120.032,194207
+Taylor Swift,Midnights,Midnight Rain,3rWDp9tBPQR9z6U5YyRSK4,0.604,0.375,-11.637,0.71,5.87e-05,0.116,0.203,137.651,174783
+Taylor Swift,Midnights,Question...?,0heeNYlwOGuUSe7TgUD27B,0.654,0.51,-8.767,0.206,0.0,0.249,0.105,108.874,210557
+Taylor Swift,Midnights,Vigilante Shit,1xwAWUI6Dj0WGC3KiUPN0O,0.872,0.267,-10.764,0.166,2.18e-05,0.123,0.168,79.964,164801
+Taylor Swift,Midnights,Bejeweled,3qoftcUZaUOncvIYjFSPdE,0.687,0.551,-9.202,0.0593,0.000143,0.09,0.443,163.994,194166
+Taylor Swift,Midnights,Labyrinth,0A1JLUlkZkp2EFrosoNQi0,0.48,0.295,-15.512,0.797,0.333,0.12,0.132,110.018,247962
+Taylor Swift,Midnights,Karma,7KokYm8cMIXCsGVmUvKtqf,0.64,0.619,-7.108,0.062,0.0,0.475,0.121,90.008,204852
+Taylor Swift,Midnights,Sweet Nothing,0wavGRldH0AWyu2zvTz8zb,0.336,0.161,-14.973,0.968,0.00011,0.115,0.407,176.48,188497
+Taylor Swift,Midnights,Mastermind,7FmYn9e7KHMXcxqGSj9LjH,0.66,0.343,-14.132,0.565,0.00134,0.0922,0.137,125.96,191039
+Taylor Swift,Red (Taylor's Version),State Of Grace (Taylor's Version),6lzc0Al0zfZOIFsFvBS1ki,0.594,0.713,-5.314,0.000328,0.0,0.114,0.328,129.958,295413
+Taylor Swift,Red (Taylor's Version),Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,0.516,0.777,-4.908,0.00108,1.62e-06,0.0761,0.408,125.047,223093
+Taylor Swift,Red (Taylor's Version),Treacherous (Taylor's Version),3S7HNKPakdwNEBFIVTL6dZ,0.645,0.593,-6.506,0.0344,0.000127,0.13,0.299,109.984,242720
+Taylor Swift,Red (Taylor's Version),I Knew You Were Trouble (Taylor's Version),6AtZLIzUINvExIUy4QhdjP,0.584,0.557,-6.371,0.0129,0.0,0.0576,0.767,154.008,219760
+Taylor Swift,Red (Taylor's Version),All Too Well (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,0.44,0.528,-7.809,0.0171,0.00203,0.234,0.132,185.972,329160
+Taylor Swift,Red (Taylor's Version),22 (Taylor's Version),3yII7UwgLF6K5zW3xad3MP,0.642,0.695,-5.62,0.000443,1.02e-05,0.0753,0.642,103.984,230960
+Taylor Swift,Red (Taylor's Version),I Almost Do (Taylor's Version),2r9CbjYgFhtAmcFv1cSquB,0.511,0.559,-6.587,0.0167,0.0,0.113,0.248,145.88,244587
+Taylor Swift,Red (Taylor's Version),We Are Never Ever Getting Back Together (Taylor's Version),5YqltLsjdqFtvqE7Nrysvs,0.567,0.686,-6.139,0.0317,1.86e-06,0.0732,0.716,172.014,193147
+Taylor Swift,Red (Taylor's Version),Stay Stay Stay (Taylor's Version),7eQj6r5PIdYKEIZjucBMcq,0.693,0.681,-7.039,0.0848,0.0,0.0768,0.663,100.02,205787
+Taylor Swift,Red (Taylor's Version),The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),0y6kdSRCVQhSsHSpWvTUm7,0.502,0.534,-5.954,0.0399,0.0,0.0977,0.155,94.05,299080
+Taylor Swift,Red (Taylor's Version),Holy Ground (Taylor's Version),7J4b3LVCIGO4CMBDFLPoP6,0.622,0.809,-5.623,0.0288,0.00218,0.109,0.511,156.894,202960
+Taylor Swift,Red (Taylor's Version),Sad Beautiful Tragic (Taylor's Version),73qMN9bXy7MSPwwGfH3wQr,0.601,0.406,-11.827,0.622,9.19e-05,0.133,0.232,130.059,284773
+Taylor Swift,Red (Taylor's Version),The Lucky One (Taylor's Version),4e5ayHsOLJNLTGfjau2mEw,0.686,0.571,-7.138,0.066,0.0,0.0608,0.538,117.889,240467
+Taylor Swift,Red (Taylor's Version),Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),7qEUFOVcxRI19tbT68JcYK,0.498,0.61,-5.098,0.271,0.0,0.223,0.474,79.918,245427
+Taylor Swift,Red (Taylor's Version),Starlight (Taylor's Version),7A2cNLRT0YJc1yjxHlKihs,0.628,0.685,-5.864,0.00324,0.0,0.18,0.605,126.014,220413
+Taylor Swift,Red (Taylor's Version),Begin Again (Taylor's Version),05GsNucq8Bngd9fnd4fRa0,0.519,0.527,-7.673,0.075,0.0,0.132,0.267,78.915,238867
+Taylor Swift,Red (Taylor's Version),The Moment I Knew (Taylor's Version),0NRHj8hDwwmSPaA41o379r,0.636,0.402,-7.855,0.0494,0.0,0.107,0.208,125.952,285280
+Taylor Swift,Red (Taylor's Version),Come Back...Be Here (Taylor's Version),4pNApnaUWAL2J4KO2eqokq,0.46,0.632,-6.031,0.0158,0.0,0.0822,0.399,79.846,223333
+Taylor Swift,Red (Taylor's Version),Girl At Home (Taylor's Version),0DMVrlMUn01M0IcpDbwgu7,0.691,0.736,-6.974,0.00955,1.88e-05,0.101,0.612,125.089,220520
+Taylor Swift,Red (Taylor's Version),State Of Grace (Acoustic Version) (Taylor's Version),5jAIouBES8LWMiriuNq170,0.445,0.131,-13.778,0.663,1.57e-06,0.108,0.101,208.918,321640
+Taylor Swift,Red (Taylor's Version),Ronan (Taylor's Version),7nWui6jiMM2m9qFmET1Mtj,0.623,0.279,-10.802,0.661,0.0,0.193,0.38,116.04,264253
+Taylor Swift,Red (Taylor's Version),Better Man (Taylor's Version) (From The Vault),4OmFmE0fzcMG6g0Y8p4eSD,0.473,0.579,-5.824,0.214,0.0,0.0877,0.255,73.942,297013
+Taylor Swift,Red (Taylor's Version),Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),01K4zKU104LyJ8gMb7227B,0.606,0.377,-9.455,0.817,0.0,0.154,0.446,101.96,258813
+Taylor Swift,Red (Taylor's Version),Babe (Taylor's Version) (From The Vault),0v4z1tuZvn6LGknom9Qx7d,0.584,0.743,-7.075,0.0538,2.83e-06,0.121,0.746,167.844,224240
+Taylor Swift,Red (Taylor's Version),Message In A Bottle (Taylor's Version) (From The Vault),3z6XUommYDWPHeFhmhhT6j,0.622,0.791,-6.106,0.00188,3.72e-06,0.083,0.494,115.915,225960
+Taylor Swift,Red (Taylor's Version),I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),4CkgMiMqZ5JzW9iYXSTMTL,0.391,0.715,-4.516,0.167,0.0,0.183,0.473,149.654,285107
+Taylor Swift,Red (Taylor's Version),Forever Winter (Taylor's Version) (From The Vault),3oGVx9RBmiYGv5ZCecWLkx,0.611,0.552,-5.828,0.256,0.0,0.134,0.41,116.012,263533
+Taylor Swift,Red (Taylor's Version),Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),4IQkfUsrwXol38VV3U7t7T,0.61,0.488,-6.918,0.817,0.0,0.312,0.443,125.039,240227
+Taylor Swift,Red (Taylor's Version),The Very First Night (Taylor's Version) (From The Vault),6pYNq0ZwpPVazKzsqpf0G8,0.678,0.733,-5.025,0.00115,0.0,0.104,0.581,121.009,200280
+Taylor Swift,Red (Taylor's Version),All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,0.631,0.518,-8.771,0.274,0.0,0.088,0.205,93.023,613027
+Taylor Swift,Fearless (Taylor's Version),Fearless (Taylor’s Version),77sMIMlNaSURUAXq5coCxE,0.569,0.741,-4.963,0.0122,0.0,0.333,0.43,100.118,241592
+Taylor Swift,Fearless (Taylor's Version),Fifteen (Taylor’s Version),2nqio0SfWg6gh2eCtfuMa5,0.559,0.646,-4.61,0.116,0.0,0.32,0.289,95.466,294419
+Taylor Swift,Fearless (Taylor's Version),Love Story (Taylor’s Version),6YvqWjhGD8mB5QXcbcUKtx,0.627,0.792,-4.311,0.13,3.97e-06,0.0845,0.415,119.054,235767
+Taylor Swift,Fearless (Taylor's Version),Hey Stephen (Taylor’s Version),550erGcdD9n6PnwxrvYqZT,0.788,0.571,-6.135,0.106,0.0,0.0934,0.797,115.99,254255
+Taylor Swift,Fearless (Taylor's Version),White Horse (Taylor’s Version),5YL553x8sHderRBDlm3NM3,0.423,0.517,-7.377,0.369,0.0,0.177,0.366,185.262,234516
+Taylor Swift,Fearless (Taylor's Version),You Belong With Me (Taylor’s Version),1qrpoAMXodY6895hGKoUpA,0.632,0.773,-4.856,0.0623,0.0,0.0885,0.474,130.033,231124
+Taylor Swift,Fearless (Taylor's Version),Breathe (feat. Colbie Caillat) (Taylor’s Version),7HC7R2D8WjXVcUHJyEGjRs,0.506,0.626,-6.066,0.156,0.0,0.228,0.321,148.035,263377
+Taylor Swift,Fearless (Taylor's Version),Tell Me Why (Taylor’s Version),0k0vFacOHNuArLWMiH60p7,0.578,0.909,-3.669,0.0222,0.0,0.333,0.541,100.023,200576
+Taylor Swift,Fearless (Taylor's Version),You’re Not Sorry (Taylor’s Version),6iiAfo4wTA2CVC3Uwx9uh8,0.506,0.444,-4.99,0.0538,0.0,0.123,0.241,133.873,261843
+Taylor Swift,Fearless (Taylor's Version),The Way I Loved You (Taylor’s Version),22bPsP2jCgbLUvh82U0Z3M,0.402,0.732,-4.665,0.0033,0.0,0.108,0.472,161.032,243137
+Taylor Swift,Fearless (Taylor's Version),Forever & Always (Taylor’s Version),1msEuwSBneBKpVCZQcFTsU,0.598,0.821,-4.433,0.0231,0.0,0.143,0.673,128.03,225328
+Taylor Swift,Fearless (Taylor's Version),The Best Day (Taylor’s Version),6ON9UuIq49xXY9GPmHIYRp,0.642,0.576,-8.524,0.488,0.0,0.159,0.469,125.0,245290
+Taylor Swift,Fearless (Taylor's Version),Change (Taylor’s Version),3ExweHKZF9B752DPQByRVT,0.499,0.815,-4.063,0.000191,0.0,0.181,0.344,95.999,279360
+Taylor Swift,Fearless (Taylor's Version),Jump Then Fall (Taylor’s Version),2m3ObD945KvpE5y9A1eUWm,0.572,0.69,-6.201,0.0474,0.0,0.0897,0.624,160.111,237580
+Taylor Swift,Fearless (Taylor's Version),Untouchable (Taylor’s Version),0tQ9vBYpldCuikPsbgOVKA,0.393,0.531,-6.112,0.0181,0.0,0.169,0.224,200.391,312107
+Taylor Swift,Fearless (Taylor's Version),Forever & Always (Piano Version) (Taylor’s Version),01QdEx6kFr78ZejhQtWR5m,0.546,0.273,-9.208,0.819,0.0,0.137,0.271,118.753,267833
+Taylor Swift,Fearless (Taylor's Version),Come In With The Rain (Taylor’s Version),1n2wszmJyVkw6FHqyLnQsY,0.476,0.564,-5.677,0.0406,0.0,0.102,0.167,143.929,237339
+Taylor Swift,Fearless (Taylor's Version),Superstar (Taylor’s Version),51A8eKvvZz9uydvIZ7xRSV,0.454,0.555,-6.69,0.157,0.0,0.343,0.171,171.862,263865
+Taylor Swift,Fearless (Taylor's Version),The Other Side Of The Door (Taylor’s Version),1cSFlSBdpT4F5vb1frQ231,0.432,0.873,-4.367,0.0279,0.0,0.167,0.629,163.936,238444
+Taylor Swift,Fearless (Taylor's Version),Today Was A Fairytale (Taylor’s Version),2JoJrsEV15OzbijS47lids,0.482,0.779,-5.025,0.0135,0.0,0.296,0.328,158.162,241822
+Taylor Swift,Fearless (Taylor's Version),You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),4CHpVfAhuxNJ3ibExe6kxO,0.599,0.494,-7.61,0.816,0.0,0.101,0.44,142.893,220839
+Taylor Swift,Fearless (Taylor's Version),Mr. Perfectly Fine (Taylor’s Version) (From The Vault),2CYVETnhM9aytqrazYYwrK,0.66,0.817,-6.269,0.162,0.0,0.0667,0.714,135.942,277592
+Taylor Swift,Fearless (Taylor's Version),We Were Happy (Taylor’s Version) (From The Vault),34V9RiEPe8MNdU32qJsJa1,0.609,0.373,-8.819,0.849,0.0,0.0779,0.13,106.007,244237
+Taylor Swift,Fearless (Taylor's Version),That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),7eResoqEJJAVTkQYSqvO3P,0.588,0.608,-7.062,0.225,0.0,0.092,0.508,90.201,189496
+Taylor Swift,Fearless (Taylor's Version),Don’t You (Taylor’s Version) (From The Vault),4uuEGH5SVuzkkSFjo2DEiY,0.563,0.473,-11.548,0.514,1.2e-05,0.109,0.405,101.934,208609
+Taylor Swift,Fearless (Taylor's Version),Bye Bye Baby (Taylor’s Version) (From The Vault),4qUijfYU8EoIWiY6oSyrgT,0.624,0.624,-7.86,0.334,0.0,0.0995,0.527,80.132,242158
+Taylor Swift,evermore (deluxe version),willow,2gVhfX2Gy1T9kDuS9azrF7,0.392,0.574,-9.195,0.833,0.00179,0.145,0.529,81.112,214707
+Taylor Swift,evermore (deluxe version),champagne problems,1gcyHQpBQ1lfXGdhZmWrHP,0.462,0.24,-12.077,0.92,0.0,0.113,0.32,171.319,244000
+Taylor Swift,evermore (deluxe version),gold rush,3Dby3p1m6IOZn2gIIqECgK,0.512,0.462,-10.491,0.83,0.166,0.121,0.353,112.05,185320
+Taylor Swift,evermore (deluxe version),‘tis the damn season,6sQckd3Z8NPxVVKUnavY1F,0.575,0.434,-8.193,0.735,6.59e-05,0.105,0.348,145.916,229840
+Taylor Swift,evermore (deluxe version),tolerate it,6lCvK2AR2uOKkVFCVlAzzm,0.316,0.361,-10.381,0.878,2.67e-05,0.0797,0.221,74.952,245440
+Taylor Swift,evermore (deluxe version),"no body, no crime (feat. HAIM)",6uwfVkaOM1mcMkFmSn35ix,0.546,0.613,-7.589,0.418,0.0,0.103,0.535,79.015,215627
+Taylor Swift,evermore (deluxe version),happiness,55Vf4bimc1Rtfg0PAQRAo2,0.559,0.334,-10.733,0.87,0.0,0.114,0.211,122.079,315147
+Taylor Swift,evermore (deluxe version),dorothea,66tOfHVH3aUrscg8vExRV4,0.605,0.488,-8.322,0.696,0.0,0.129,0.354,119.966,225880
+Taylor Swift,evermore (deluxe version),coney island (feat. The National),2awNGIJHodfLZSClB3PYhz,0.537,0.537,-11.266,0.819,0.000904,0.142,0.292,107.895,275320
+Taylor Swift,evermore (deluxe version),ivy,43Ykum9T72UOPhBN31grpN,0.515,0.545,-9.277,0.855,1.97e-05,0.0921,0.535,88.856,260440
+Taylor Swift,evermore (deluxe version),cowboy like me,52OkpDsU6MmPx1AwGOb6Ap,0.604,0.517,-9.014,0.768,0.000155,0.123,0.511,127.967,275040
+Taylor Swift,evermore (deluxe version),long story short,5VYWxXUpxuxEmCqMLDqICo,0.546,0.73,-7.704,0.66,0.179,0.0972,0.573,157.895,215920
+Taylor Swift,evermore (deluxe version),marjorie,5uICWmZTLkpEVbK22PBP6e,0.535,0.561,-11.609,0.876,0.000136,0.115,0.287,96.103,257773
+Taylor Swift,evermore (deluxe version),closure,6a8aUhYbaQBUI8PcJ5ZmQ6,0.689,0.704,-10.813,0.835,4.83e-06,0.134,0.92,151.884,180653
+Taylor Swift,evermore (deluxe version),evermore (feat. Bon Iver),6Wlq9rqkxrqj5Kls4Kw14H,0.39,0.27,-10.673,0.937,0.00227,0.111,0.32,125.177,304107
+Taylor Swift,evermore (deluxe version),right where you left me - bonus track,3zwMVvkBe2qIKDObWgXw4N,0.581,0.619,-6.524,0.769,0.000106,0.117,0.645,137.915,245027
+Taylor Swift,evermore (deluxe version),it’s time to go - bonus track,1kdWw77ZpYOkhxeuhzU1j6,0.592,0.41,-12.426,0.801,1.39e-05,0.09,0.416,151.923,254640
+Taylor Swift,evermore,willow,0lx2cLdOt3piJbcaXIV74f,0.392,0.574,-9.195,0.833,0.00179,0.145,0.529,81.112,214707
+Taylor Swift,evermore,champagne problems,0sY6ZUTh4yoctD8VIXz339,0.462,0.24,-12.077,0.92,0.0,0.113,0.32,171.319,244000
+Taylor Swift,evermore,gold rush,5BK0uqwY9DNfZ630STAEaq,0.512,0.462,-10.491,0.83,0.166,0.121,0.353,112.05,185320
+Taylor Swift,evermore,‘tis the damn season,7dW84mWkdWE5a6lFWxJCBG,0.575,0.434,-8.193,0.735,6.59e-05,0.105,0.348,145.916,229840
+Taylor Swift,evermore,tolerate it,0PurA4JVJ8YQgSVopY8fn6,0.316,0.361,-10.381,0.878,2.67e-05,0.0797,0.221,74.952,245440
+Taylor Swift,evermore,"no body, no crime (feat. HAIM)",3RaT22zZsxVYxxKR7TAaYF,0.546,0.613,-7.589,0.418,0.0,0.103,0.535,79.015,215627
+Taylor Swift,evermore,happiness,73YUReisjb3A9ActdLLjJQ,0.559,0.334,-10.733,0.87,0.0,0.114,0.211,122.079,315147
+Taylor Swift,evermore,dorothea,670fUmXf4KQekzbEgaXyPA,0.605,0.488,-8.322,0.696,0.0,0.129,0.354,119.966,225880
+Taylor Swift,evermore,coney island (feat. The National),3k7ne7VmH43ZPWxPdvPUgR,0.537,0.537,-11.266,0.819,0.000904,0.142,0.292,107.895,275320
+Taylor Swift,evermore,ivy,19CSr8rwW05VJL2F91KFNK,0.515,0.545,-9.277,0.855,1.97e-05,0.0921,0.535,88.856,260440
+Taylor Swift,evermore,cowboy like me,1XjHRolIXL2M1EEOUsGGR4,0.604,0.517,-9.014,0.768,0.000155,0.123,0.511,127.967,275040
+Taylor Swift,evermore,long story short,2o2sgVJIgFXk8GQjWTgI6U,0.546,0.73,-7.704,0.66,0.179,0.0972,0.573,157.895,215920
+Taylor Swift,evermore,marjorie,12ntTeqEeTg7GAVpe8Mhpl,0.535,0.561,-11.609,0.876,0.000136,0.115,0.287,96.103,257773
+Taylor Swift,evermore,closure,35rdVq36LMHQX0Suw9a6tK,0.689,0.704,-10.813,0.835,4.83e-06,0.134,0.92,151.884,180653
+Taylor Swift,evermore,evermore (feat. Bon Iver),3O5osWf1rSoKMwe6E9ZaXP,0.39,0.27,-10.673,0.937,0.00227,0.111,0.32,125.177,304107
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],the 1,0P9wLFurlgumLXuqFEpw52,0.78,0.361,-6.942,0.75,7.14e-06,0.108,0.163,139.902,210240
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],cardigan,7zcnlq38eqNWyUF6eNaB5Z,0.612,0.58,-8.572,0.525,0.000414,0.26,0.534,130.045,239560
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],the last great american dynasty,4ojxSyrEraN7d46BMBPThZ,0.688,0.653,-8.558,0.481,0.00414,0.106,0.701,147.991,231000
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],exile (feat. Bon Iver),6kz2hkq1xQvDqPcUyBkw8f,0.31,0.374,-8.464,0.761,2.46e-05,0.11,0.16,75.938,285640
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],my tears ricochet,0Oju1YcbPCJuUQQWoZNdJK,0.456,0.265,-10.663,0.814,0.0,0.0679,0.112,129.947,255893
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],mirrorball,5jQyGzcwqAxwT5QUIMivoX,0.549,0.417,-10.064,0.686,1.9e-06,0.0604,0.347,110.137,208973
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],seven,2vJ7QvyCiR4DaHxwO58izA,0.602,0.494,-10.813,0.888,2.59e-05,0.0902,0.374,94.955,208907
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],august,1UHoF9p75IVsvUt6WdTYhn,0.387,0.634,-9.222,0.553,6.93e-05,0.0931,0.42,89.567,261920
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],this is me trying,5DnDBYrfGoxdnomqEAkFIv,0.511,0.478,-9.837,0.312,2.3e-05,0.147,0.408,135.882,195107
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],illicit affairs,7CVTowKpGPA2MsIbkTl2oc,0.529,0.304,-10.567,0.862,0.0,0.108,0.44,119.58,190893
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],invisible string,4WHIqhrbdva5vQSrCuet3l,0.651,0.459,-11.128,0.859,6.63e-05,0.105,0.454,83.455,252880
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],mad woman,7klXN6RCN5Rj0VeYO5gBzU,0.593,0.7,-9.016,0.67,6.77e-06,0.116,0.451,141.898,237267
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],epiphany,5MFjHn1qfR9AsWuyzJLk1z,0.317,0.254,-13.679,0.727,0.000326,0.0867,0.103,93.933,289747
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],betty,2jhfs6moEAK13eLM6xim4l,0.595,0.376,-8.767,0.589,0.0,0.0989,0.476,95.946,294520
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],peace,0O9i6jhscByEJs1ipy5hu4,0.644,0.284,-12.879,0.916,1.5e-05,0.0909,0.328,150.072,234000
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],hoax,4XCYmu7QLySdIahgBALKJK,0.676,0.178,-15.01,0.964,7.9e-06,0.135,0.404,118.84,220040
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],the lakes - bonus track,0zEprKYeuGOIZoHyu6O1E2,0.313,0.258,-11.532,0.842,1.3e-06,0.0948,0.268,179.947,211813
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],the 1 - the long pond studio sessions,08J4bMHbILkwSIhbtrcvjN,0.708,0.25,-10.731,0.898,0.026,0.102,0.156,139.803,219893
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],cardigan - the long pond studio sessions,3EPgWM1zfTSzEc0z4AwWTM,0.395,0.234,-9.704,0.88,0.0,0.107,0.247,86.478,230680
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],the last great american dynasty - the long pond studio sessions,28tIMaewZuGR8urkvFhQyA,0.64,0.618,-11.715,0.743,0.004,0.0574,0.614,147.948,232347
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],exile (feat. Bon Iver) - the long pond studio sessions,7N015NTIWGjQDddHUdHPoO,0.359,0.305,-10.295,0.848,6.74e-05,0.111,0.108,151.956,279893
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],my tears ricochet - the long pond studio sessions,5mdNyCS7ttVcAyVYOIFEjs,0.531,0.172,-12.34,0.946,1.01e-05,0.0615,0.168,129.007,295173
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],mirrorball - the long pond studio sessions,2yceD2hx5HhOLgkm1CITCi,0.509,0.386,-8.434,0.78,3.45e-05,0.118,0.109,109.993,237373
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],seven - the long pond studio sessions,4cOWq0cVsKjxaQpRMbDoH1,0.694,0.449,-11.49,0.914,0.000126,0.1,0.363,94.963,208987
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],august - the long pond studio sessions,4MGexoZc12lqE0hYkq9YYx,0.554,0.663,-8.961,0.5,4.77e-05,0.791,0.545,89.977,260000
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],this is me trying - the long pond studio sessions,1gaLZjPrDnHQWJds2Jg4KT,0.435,0.332,-11.611,0.928,0.000898,0.0867,0.157,68.097,209293
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],illicit affairs - the long pond studio sessions,560uQyz3p5G9WdnMX39xc6,0.489,0.235,-10.274,0.883,0.0,0.113,0.435,117.699,183720
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],invisible string - the long pond studio sessions,5KByGq0JijSSDcy0qzuINs,0.59,0.282,-10.542,0.942,4.85e-06,0.11,0.351,83.438,257360
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],mad woman - the long pond studio sessions,04xrhDrQ2WOW8GLwu7kbc0,0.663,0.465,-10.463,0.887,0.000168,0.109,0.346,141.834,238333
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],epiphany - the long pond studio sessions,4yyKppX85ZkmlGOC2toBZA,0.524,0.2,-13.004,0.916,0.000392,0.068,0.113,93.87,274880
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],betty - the long pond studio sessions,1mh5dObNoOvCfHmXnhvDEK,0.538,0.316,-9.5,0.841,0.0,0.119,0.518,95.68,290040
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],peace - the long pond studio sessions,4YHHz3VIXgNDGdoL9xC1tx,0.619,0.344,-11.472,0.93,7.61e-05,0.0734,0.513,149.897,214373
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],hoax - the long pond studio sessions,0QTBsdoJhamY3Aid3fOsOd,0.682,0.155,-13.083,0.962,0.0,0.18,0.483,118.832,221800
+Taylor Swift,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],the lakes - the long pond studio sessions,6mqyTq948oap5AkyTsd6XF,0.606,0.221,-11.767,0.794,0.0,0.0888,0.112,89.844,199733
+Taylor Swift,folklore (deluxe version),the 1,4pfrrhvplbJZAIsfosGWQP,0.78,0.361,-6.942,0.75,7.14e-06,0.108,0.163,139.902,210240
+Taylor Swift,folklore (deluxe version),cardigan,0KRYCBwIpWYFNrXOmXbyUh,0.612,0.58,-8.572,0.525,0.000414,0.26,0.534,130.045,239560
+Taylor Swift,folklore (deluxe version),the last great american dynasty,2olxzvoFI9IpxqFeUv7WOX,0.688,0.653,-8.558,0.481,0.00414,0.106,0.701,147.991,231000
+Taylor Swift,folklore (deluxe version),exile (feat. Bon Iver),5S4aYQAJOwJMAamANWlICO,0.31,0.374,-8.464,0.761,2.46e-05,0.11,0.16,75.938,285640
+Taylor Swift,folklore (deluxe version),my tears ricochet,5P2bHCDM2tsgIaYWsZMhu5,0.456,0.265,-10.663,0.814,0.0,0.0679,0.112,129.947,255893
+Taylor Swift,folklore (deluxe version),mirrorball,2I8YAEA1VmCuP1wkJHMpTw,0.549,0.417,-10.064,0.686,1.9e-06,0.0604,0.347,110.137,208973
+Taylor Swift,folklore (deluxe version),seven,76mOLcXOjOEhyY4mMF1l3r,0.602,0.494,-10.813,0.888,2.59e-05,0.0902,0.374,94.955,208907
+Taylor Swift,folklore (deluxe version),august,6nK2pIKFcRc5frrZKHgsiT,0.387,0.634,-9.222,0.553,6.93e-05,0.0931,0.42,89.567,261920
+Taylor Swift,folklore (deluxe version),this is me trying,7cm50Lw03k6VvRauJtkyTj,0.511,0.478,-9.837,0.312,2.3e-05,0.147,0.408,135.882,195107
+Taylor Swift,folklore (deluxe version),illicit affairs,6DrLROM5MG9bxWHeEG5elq,0.529,0.304,-10.567,0.862,0.0,0.108,0.44,119.58,190893
+Taylor Swift,folklore (deluxe version),invisible string,2ehRU518I0hYqMGQnk4lDY,0.651,0.459,-11.128,0.859,6.63e-05,0.105,0.454,83.455,252880
+Taylor Swift,folklore (deluxe version),mad woman,0RP1kqoSPkVXsKiQNhMKzV,0.593,0.7,-9.016,0.67,6.77e-06,0.116,0.451,141.898,237267
+Taylor Swift,folklore (deluxe version),epiphany,1EXa37LpSvi3OQ9UYQ28rD,0.317,0.254,-13.679,0.727,0.000326,0.0867,0.103,93.933,289747
+Taylor Swift,folklore (deluxe version),betty,3IhtE4fkytdrtEfV34UzkD,0.595,0.376,-8.767,0.589,0.0,0.0989,0.476,95.946,294520
+Taylor Swift,folklore (deluxe version),peace,6JlI8Ay77m4nJvZTHvfT1J,0.644,0.284,-12.879,0.916,1.5e-05,0.0909,0.328,150.072,234000
+Taylor Swift,folklore (deluxe version),hoax,0YeDG5HnKnG7jpArkzsSPa,0.676,0.178,-15.01,0.964,7.9e-06,0.135,0.404,118.84,220040
+Taylor Swift,folklore (deluxe version),the lakes - bonus track,0eFQWVz0qIxDOvhLpZ40P7,0.313,0.258,-11.532,0.842,1.3e-06,0.0948,0.268,179.947,211813
+Taylor Swift,folklore,the 1,0Jlcvv8IykzHaSmj49uNW8,0.777,0.357,-6.942,0.757,7.28e-06,0.108,0.172,139.884,210252
+Taylor Swift,folklore,cardigan,4R2kfaDFhslZEMJqAFNpdd,0.613,0.581,-8.588,0.537,0.000345,0.25,0.551,130.033,239560
+Taylor Swift,folklore,the last great american dynasty,2Eeur20xVqfUoM3Q7EFPFt,0.686,0.662,-8.505,0.467,0.0023,0.109,0.706,147.922,230999
+Taylor Swift,folklore,exile (feat. Bon Iver),4pvb0WLRcMtbPGmtejJJ6y,0.298,0.38,-8.426,0.778,5.62e-05,0.11,0.152,75.602,285634
+Taylor Swift,folklore,my tears ricochet,1MgV7FIyNxIG7WzMRJV5HC,0.469,0.263,-10.63,0.806,0.0,0.0749,0.112,129.86,255894
+Taylor Swift,folklore,mirrorball,0ZNU020wNYvgW84iljPkPP,0.553,0.413,-10.037,0.687,2.33e-06,0.0594,0.379,110.107,208978
+Taylor Swift,folklore,seven,6KJqZcs9XDgVck7Lg9QOTC,0.596,0.488,-10.769,0.9,2.7e-05,0.091,0.415,94.922,208907
+Taylor Swift,folklore,august,3hUxzQpSfdDqwM3ZTFQY0K,0.532,0.623,-9.208,0.538,7.28e-05,0.0925,0.403,89.937,261923
+Taylor Swift,folklore,this is me trying,7kt9e9LFSpN1zQtYEl19o1,0.515,0.476,-9.843,0.314,4.74e-05,0.171,0.412,135.886,195097
+Taylor Swift,folklore,illicit affairs,2NmsngXHeC1GQ9wWrzhOMf,0.559,0.31,-10.445,0.881,0.0,0.106,0.46,119.845,190898
+Taylor Swift,folklore,invisible string,6VsvKPJ4xjVNKpI8VVZ3SV,0.653,0.452,-11.143,0.838,7.73e-05,0.108,0.45,83.433,252881
+Taylor Swift,folklore,mad woman,2QDyYdZyhlP2fp79KZX8Bi,0.592,0.699,-8.995,0.655,1.68e-05,0.114,0.506,141.916,237258
+Taylor Swift,folklore,epiphany,08fa9LFcFBTcilB3iq2e2A,0.175,0.267,-13.69,0.731,0.000402,0.0858,0.106,94.203,289749
+Taylor Swift,folklore,betty,5kI4eCXXzyuIUXjQra0Cxi,0.593,0.377,-8.761,0.6,0.0,0.0976,0.502,95.939,294521
+Taylor Swift,folklore,peace,7MbT4I8qGntX4fMdqMQgke,0.647,0.272,-12.906,0.918,1.73e-05,0.0918,0.339,150.044,234000
+Taylor Swift,folklore,hoax,6MWoRt97mnSTXZhu3ggi9C,0.662,0.181,-15.065,0.966,3.86e-06,0.133,0.429,118.819,220043
+Taylor Swift,Lover,I Forgot That You Existed,43rA71bccXFGD4C8GOpIlN,0.664,0.316,-10.345,0.298,2.03e-06,0.0812,0.541,92.875,170640
+Taylor Swift,Lover,Cruel Summer,1BxfuPKGuaTgP7aM0Bbdwr,0.552,0.702,-5.707,0.117,2.06e-05,0.105,0.564,169.994,178427
+Taylor Swift,Lover,Lover,1dGr1c8CrMLDpV6mPbImSI,0.359,0.543,-7.582,0.492,1.58e-05,0.118,0.453,68.534,221307
+Taylor Swift,Lover,The Man,3RauEVgRgj1IuWdJ9fDs70,0.777,0.658,-5.191,0.0767,0.0,0.0901,0.633,110.048,190360
+Taylor Swift,Lover,The Archer,3pHkh7d0lzM2AldUtz2x37,0.292,0.574,-9.375,0.12,0.00569,0.0663,0.166,124.344,211240
+Taylor Swift,Lover,I Think He Knows,2YWtcWi3a83pdEg3Gif4Pd,0.897,0.366,-8.029,0.00889,0.000353,0.0715,0.416,100.003,173387
+Taylor Swift,Lover,Miss Americana & The Heartbreak Prince,214nt20w5wOxJnY462klLw,0.662,0.747,-6.926,0.028,0.00615,0.138,0.487,150.088,234147
+Taylor Swift,Lover,Paper Rings,4y5bvROuBDPr5fuwXbIBZR,0.811,0.719,-6.553,0.0129,1.36e-05,0.0742,0.865,103.979,222400
+Taylor Swift,Lover,Cornelia Street,12M5uqx0ZuwkpLp5rJim1a,0.824,0.624,-9.728,0.781,0.000189,0.1,0.248,102.012,287267
+Taylor Swift,Lover,Death By A Thousand Cuts,2dgFqt3w9xIQRjhPtwNk3D,0.712,0.732,-6.754,0.454,0.0,0.319,0.313,94.071,198533
+Taylor Swift,Lover,London Boy,1LLXZFeAHK9R4xUramtUKw,0.695,0.71,-6.639,0.0246,0.000104,0.133,0.557,157.925,190240
+Taylor Swift,Lover,Soon You’ll Get Better (feat. The Chicks),4AYtqFyFbX0Xkc2wtcygTr,0.433,0.182,-12.566,0.907,0.0,0.123,0.421,207.476,201587
+Taylor Swift,Lover,False God,5hQSXkFgbxjZo9uCwd11so,0.739,0.32,-10.862,0.736,0.000147,0.111,0.351,79.97,200307
+Taylor Swift,Lover,You Need To Calm Down,6RRNNciQGZEXnqk8SQ9yv5,0.771,0.671,-5.617,0.00929,0.0,0.0637,0.714,85.026,171360
+Taylor Swift,Lover,Afterglow,1SymEzIT3H8UZfibCs3TYi,0.756,0.449,-8.746,0.13,0.0,0.114,0.399,111.011,223293
+Taylor Swift,Lover,ME! (feat. Brendon Urie of Panic! At The Disco),2Rk4JlNc2TPmZe2af99d45,0.61,0.83,-4.105,0.033,0.0,0.118,0.728,182.162,193000
+Taylor Swift,Lover,It’s Nice To Have A Friend,1SmiQ65iSAbPto6gPFlBYm,0.737,0.175,-9.912,0.971,0.000337,0.171,0.545,70.008,150440
+Taylor Swift,Lover,Daylight,1fzAuUVbzlhZ1lJAx9PtY6,0.557,0.496,-9.602,0.808,0.000173,0.0772,0.265,149.983,293453
+Taylor Swift,reputation,...Ready For It?,2yLa0QULdQr0qAIvVwN6B5,0.613,0.764,-6.509,0.0527,0.0,0.197,0.417,160.015,208187
+Taylor Swift,reputation,End Game,2x0WlnmfG39ZuDmstl9xfX,0.649,0.589,-6.237,0.00845,0.0,0.108,0.151,159.073,244827
+Taylor Swift,reputation,I Did Something Bad,4svZDCRz4cJoneBpjpx8DJ,0.696,0.602,-6.156,0.0679,2.11e-05,0.0696,0.305,82.989,238253
+Taylor Swift,reputation,Don’t Blame Me,1R0a2iXumgCiFb7HEZ7gUE,0.615,0.534,-6.719,0.106,1.76e-05,0.0607,0.193,135.917,236413
+Taylor Swift,reputation,Delicate,6NFyWDv5CjfwuzoCkw47Xf,0.75,0.404,-10.178,0.216,0.000357,0.0911,0.0499,95.045,232253
+Taylor Swift,reputation,Look What You Made Me Do,1P17dC1amhFzptugyAO7Il,0.766,0.709,-6.471,0.204,1.41e-05,0.126,0.506,128.07,211853
+Taylor Swift,reputation,So It Goes...,5PxFv9yJEg9dxvbZggykro,0.574,0.61,-7.283,0.122,1.1e-06,0.13,0.374,74.957,227907
+Taylor Swift,reputation,Gorgeous,1ZY1PqizIl78geGM4xWlEA,0.8,0.535,-6.684,0.0713,9.48e-06,0.213,0.451,92.027,209680
+Taylor Swift,reputation,Getaway Car,0VE4kBnHJUgtMf0dy6DRmW,0.562,0.689,-6.745,0.00465,2.23e-06,0.0888,0.351,172.054,233627
+Taylor Swift,reputation,King Of My Heart,7HuBDWi18s4aJM8UFnNheH,0.675,0.703,-7.902,0.00882,2.21e-06,0.0391,0.314,110.01,214320
+Taylor Swift,reputation,Dancing With Our Hands Tied,7I7JbDv63ZJJsSi24DyJrz,0.624,0.691,-6.686,0.0604,1.1e-05,0.138,0.284,160.024,211507
+Taylor Swift,reputation,Dress,6oVxXO5oQ4pTpO8RSnkzvv,0.719,0.469,-8.792,0.0329,0.0,0.169,0.0851,120.085,230373
+Taylor Swift,reputation,This Is Why We Can't Have Nice Things,07NxDD1iKCHbAldceD7QLP,0.567,0.789,-5.986,0.0156,0.0,0.382,0.438,163.96,207133
+Taylor Swift,reputation,Call It What You Want,1GwMQaZz6Au3QLDbjbMdme,0.598,0.504,-9.874,0.186,0.000221,0.34,0.252,163.954,203507
+Taylor Swift,reputation,New Year’s Day,7F5oktn5YOsR9eR5YsFtqb,0.661,0.151,-12.864,0.921,0.0,0.13,0.23,94.922,235467
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,All Too Well,00vJzaoxM3Eja1doBUhX0P,0.463,0.605,-7.803,0.0448,0.000334,0.128,0.317,186.113,329160
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Wildest Dreams,22C0JIVhFaczZ4t9heqREN,0.55,0.688,-7.416,0.0703,0.00138,0.106,0.461,139.998,220440
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,The Best Day,7APTsjmZbj7TFXQJAiRti4,0.668,0.448,-8.567,0.638,4.1e-06,0.158,0.386,126.066,246307
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Red,4V9NuhKQcUFt4cgbynHV79,0.605,0.899,-4.273,0.0779,0.000124,0.0911,0.647,124.982,223093
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Holy Ground,4hCZk6WJBFQeG3P7WsyntI,0.627,0.816,-6.698,0.0159,0.0022,0.0965,0.648,157.043,202960
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Teardrops On My Guitar - Radio Single Remix,7eGeUVeCEvEQrivmjl9Qn3,0.626,0.427,-6.993,0.315,0.0,0.138,0.265,99.962,204707
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Our Song,7qGr3rjRhndRIpFUA5f2HJ,0.545,0.663,-5.05,0.114,0.0,0.321,0.565,178.016,203440
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,22,2P5gfMtCcKP0CkmgqFMyPg,0.66,0.732,-6.565,0.00254,0.00146,0.0473,0.677,104.009,232120
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,I Knew You Were Trouble.,2o2IVjuqRkR9hJxtPjtAP0,0.536,0.464,-6.761,0.00476,2.74e-06,0.0358,0.666,77.318,219720
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,I Don’t Wanna Live Forever (Fifty Shades Darker),55n9yjI6qqXh5F2mYvUc2y,0.73,0.444,-8.418,0.059,1.8e-05,0.14,0.106,117.979,247160
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Mean,5rcHBt2aNcGFWW0jaAUe1L,0.576,0.755,-3.982,0.449,0.0,0.223,0.791,163.884,238693
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,How You Get The Girl,3aSYZ4upQ6OSNos26YeVWL,0.764,0.657,-6.112,0.00363,0.00899,0.0918,0.546,119.995,247533
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,So It Goes...,41T04yafZVrjNq2FqvLtId,0.578,0.61,-7.283,0.122,1.1e-06,0.13,0.371,74.996,227907
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Fifteen,0H2UD0LfSCiRr59YMGlCuS,0.549,0.63,-4.436,0.07,0.0,0.138,0.217,95.124,295320
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Mine,6FmJKLpyCt42nP2IOVEVc2,0.622,0.781,-2.945,0.00311,3.1e-06,0.187,0.662,121.029,231867
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Sparks Fly,5h2sBwpUSAndjObfU3ti2r,0.61,0.782,-2.98,0.041,0.0,0.16,0.399,114.974,262920
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,State Of Grace,0YRGTdfmJPALpglAaraYUr,0.591,0.828,-5.895,0.000182,0.00115,0.0879,0.383,129.958,295720
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Haunted,6CB7DczrX9ZJB9Wkjegmaq,0.43,0.948,-2.622,0.0655,0.0,0.0612,0.371,162.026,245413
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Never Grow Up,1UPDfqsVIZLEiZeMuUsni2,0.714,0.309,-8.828,0.824,0.0,0.136,0.546,124.892,292920
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Treacherous,0r3U7SOcoj4DIEyN44Lt5z,0.704,0.621,-8.086,0.101,4.3e-06,0.14,0.395,109.996,242760
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Babe,40PXEOFLJc7UIpLMrhSfW1,0.577,0.785,-3.266,0.0221,0.0,0.125,0.647,171.78,215107
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Welcome To New York,3YLA3NgzFRRa7LiHMtFPby,0.789,0.634,-4.762,0.0348,1.69e-06,0.302,0.658,117.0,212600
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Fearless,43sE2O3skbGBpT2tO6fzv9,0.603,0.717,-4.401,0.0381,0.0,0.307,0.429,100.163,242973
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Enchanted,5lg33MHs1BoUtJVClw8ZpI,0.536,0.629,-3.907,0.0707,0.00117,0.158,0.222,81.963,353253
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Change,5PSOWHll3h3Vy226xSJk0M,0.543,0.764,-4.206,0.00418,0.0,0.111,0.233,95.999,281053
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Ours,0V3SNHDka1JSCP71HAzpxw,0.609,0.56,-7.392,0.469,0.0,0.087,0.228,159.838,239347
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Out Of The Woods,0GmfiNHSgkKamYgQEMYOH3,0.553,0.841,-6.937,0.000743,1.07e-05,0.341,0.339,91.999,235800
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Come Back...Be Here,5hiqtrACtMJkNpaNHj0n9Z,0.486,0.548,-6.291,0.00471,2.06e-06,0.0997,0.22,79.873,223920
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,A Place in this World,2RSYYe7LhKFxIi50T5XtUo,0.573,0.767,-2.929,0.0576,0.0,0.327,0.438,114.985,202080
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,This Love,64KRxmbqypPBlya4nxFmDn,0.48,0.435,-8.795,0.679,0.0,0.0928,0.108,143.942,250093
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,The Lucky One,24ksPWXKg1k7OOG57pufED,0.706,0.505,-7.639,0.0352,0.0,0.13,0.561,117.935,240267
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Invisible,0kqC185OTcnuhbz4T7g5RB,0.608,0.384,-5.732,0.56,0.0,0.165,0.217,95.963,205853
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Breathe,3oxgFdIlxFEDEJqn7k5TVN,0.442,0.48,-7.405,0.416,0.0,0.129,0.167,73.849,264947
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Better Man,3EXetjrGgwIjDRNn6YA8sa,0.503,0.844,-3.648,0.121,0.0,0.0974,0.508,143.941,263613
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Jump Then Fall,5zytSTR2g0I9psX2Z12ex6,0.617,0.699,-5.712,0.113,0.0,0.074,0.827,79.979,238093
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Begin Again,2G679wnKfyhUOeNx910OXg,0.516,0.526,-8.349,0.197,3.49e-06,0.14,0.312,78.985,239427
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Tied Together with a Smile,4qNEi8zGIYLiMtoW8OaJdx,0.478,0.547,-4.948,0.523,0.0,0.0728,0.238,146.134,251213
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,The Story Of Us,2fF3QzbGCrtrDXIdWcg1mv,0.547,0.807,-3.63,0.00556,0.000318,0.0588,0.645,139.911,267653
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Forever & Always,0QCS4NpURHvWdF1icdkfBw,0.607,0.829,-5.02,0.0805,0.0,0.207,0.521,128.055,226293
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Hey Stephen,0TYJbIHBtmWy9ugtU9BcbE,0.843,0.541,-7.361,0.191,1.93e-06,0.108,0.839,116.002,256040
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Speak Now,1XLc4irbX7oQSneh6gWv3O,0.712,0.603,-3.753,0.0991,0.0,0.102,0.714,118.979,243347
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Wonderland,0eTCaVOYLpJlSkbEi2jay4,0.422,0.692,-5.447,0.0493,2.57e-05,0.177,0.197,184.019,245560
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,White Horse,4RMfSYDFkcz0bKoK8fHDgR,0.578,0.348,-8.066,0.311,0.0,0.1,0.218,92.671,235400
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,I'm Only Me When I'm With You,6Py8IKZqDyU8aQVrjilbJw,0.556,0.933,-3.685,0.00454,0.000462,0.101,0.521,143.929,215600
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,Starlight,7txpzmA69zyk50K3ZyZSzC,0.649,0.779,-5.798,0.0186,0.000474,0.234,0.617,126.014,220600
+Taylor Swift,reputation Stadium Tour Surprise Song Playlist,I Know Places,3qGLcmO0XnnrcpAQGZwTvA,0.603,0.755,-4.991,0.243,0.0,0.178,0.496,159.971,195707
+Taylor Swift,1989 (Deluxe),Welcome To New York,3nRmDz7qGCvsMS30rGGY0x,0.789,0.634,-4.762,0.0348,1.64e-06,0.302,0.658,116.992,212600
+Taylor Swift,1989 (Deluxe),Blank Space,1u8c2t2Cy7UBoG4ArRcF5g,0.76,0.703,-5.412,0.103,0.0,0.0913,0.57,95.997,231827
+Taylor Swift,1989 (Deluxe),Style,0ug5NqcwcFR2xrfTkc7k8e,0.588,0.791,-5.595,0.00245,0.00258,0.118,0.487,94.933,231000
+Taylor Swift,1989 (Deluxe),Out Of The Woods,0qUnBLZ8bJqUNEeQgayL9t,0.553,0.841,-6.937,0.000743,1.19e-05,0.341,0.338,92.008,235800
+Taylor Swift,1989 (Deluxe),All You Had To Do Was Stay,6aLOekfwbytwWvQftxTEF0,0.605,0.725,-5.729,0.00201,2.02e-05,0.101,0.539,96.97,193293
+Taylor Swift,1989 (Deluxe),Shake It Off,0cqRj7pUJDkTCEsJkx8snD,0.647,0.8,-5.384,0.0647,0.0,0.334,0.942,160.078,219200
+Taylor Swift,1989 (Deluxe),I Wish You Would,5gRYrtvyVyaCRvLt56OfuV,0.653,0.893,-5.966,0.0158,4.95e-05,0.102,0.513,118.035,207440
+Taylor Swift,1989 (Deluxe),Bad Blood,2NlmmAjGYrrjAp0MED5rGx,0.646,0.794,-6.104,0.0885,6.16e-06,0.201,0.287,170.216,211933
+Taylor Swift,1989 (Deluxe),Wildest Dreams,4A4A6dwl5DqdqrZaEtKGPR,0.55,0.688,-7.416,0.0692,0.00144,0.106,0.465,139.997,220440
+Taylor Swift,1989 (Deluxe),How You Get The Girl,0fM9dEhUFV4MHDuJgrcfOv,0.765,0.656,-6.112,0.00364,0.00868,0.0918,0.545,119.997,247533
+Taylor Swift,1989 (Deluxe),This Love,4L560fic5PaTuCFm6CviKa,0.481,0.435,-8.795,0.678,0.0,0.0928,0.107,143.95,250093
+Taylor Swift,1989 (Deluxe),I Know Places,6EwNJz8CuVsrsLvXprJ20Q,0.602,0.755,-4.991,0.245,0.0,0.178,0.495,159.965,195707
+Taylor Swift,1989 (Deluxe),Clean,1NmVZsG18CzCAtw7rnV3yA,0.815,0.377,-7.754,0.232,0.0,0.1,0.211,103.97,271000
+Taylor Swift,1989 (Deluxe),Wonderland,6RvRzl1YJTDnUvdOtV21IK,0.422,0.692,-5.447,0.0493,2.57e-05,0.177,0.197,184.014,245560
+Taylor Swift,1989 (Deluxe),You Are In Love,2KrOAg6FftbjgSKdd2a4rS,0.474,0.48,-8.894,0.707,0.000108,0.0903,0.319,170.109,267107
+Taylor Swift,1989 (Deluxe),New Romantics,0qAIiGFKLdV1xpNlEhjpq8,0.633,0.889,-5.87,0.00463,0.000458,0.0658,0.584,121.956,230467
+Taylor Swift,1989 (Deluxe),I Know Places - Voice Memo,4FoV729rw7IhoKlMZW5K5V,0.592,0.128,-17.932,0.829,0.0,0.527,0.15,78.828,216333
+Taylor Swift,1989 (Deluxe),I Wish You Would - Voice Memo,4eTXfpHxhxVofrBUjAhPMg,0.781,0.357,-16.394,0.717,0.0,0.185,0.645,118.317,107133
+Taylor Swift,1989 (Deluxe),Blank Space - Voice Memo,4e6QU4gpfZj9xxcK856RgG,0.675,0.234,-15.064,0.801,0.0,0.657,0.578,127.296,131187
+Taylor Swift,1989,Welcome To New York,10nqz67NQWWa7XPq7ycihi,0.793,0.634,-4.807,0.038,1.76e-06,0.304,0.615,117.023,212600
+Taylor Swift,1989,Blank Space,2ls70nUDfjzm1lSRDuKxmw,0.752,0.678,-5.421,0.085,1.64e-06,0.13,0.583,96.009,231827
+Taylor Swift,1989,Style,71PmZqBXH0RUETqxpwlV0w,0.598,0.786,-5.572,0.00256,0.00143,0.117,0.456,95.021,231000
+Taylor Swift,1989,Out Of The Woods,7EpVQjqtKygiwJIASxMWNg,0.552,0.841,-6.938,0.00103,1.23e-05,0.337,0.342,91.993,235800
+Taylor Swift,1989,All You Had To Do Was Stay,4NNolUeL5m2ju7kf8pdg6H,0.602,0.735,-5.778,0.00196,4.77e-05,0.105,0.472,96.969,193293
+Taylor Swift,1989,Shake It Off,1kKlhuQE0HXp1IwBRpaH2P,0.648,0.785,-5.414,0.0561,0.0,0.148,0.943,160.02,219200
+Taylor Swift,1989,I Wish You Would,5RVJ6VKfwtosA5Q1qeHdjF,0.649,0.898,-5.963,0.016,9.9e-05,0.109,0.503,118.027,207440
+Taylor Swift,1989,Bad Blood,0TvQLMecTE8utzoNmvXRbK,0.652,0.802,-6.114,0.0871,6.45e-06,0.148,0.295,170.157,211933
+Taylor Swift,1989,Wildest Dreams,3fVnlF4pGqWI9flVENcT28,0.553,0.664,-7.417,0.0709,0.0056,0.106,0.467,140.06,220440
+Taylor Swift,1989,How You Get The Girl,5Z9ocF6ng0m2haHnKtHwTp,0.764,0.659,-6.136,0.00463,0.00458,0.0915,0.525,119.982,247533
+Taylor Swift,1989,This Love,7lTxQZVXlvIX7Z3szSy8Sh,0.485,0.459,-8.768,0.635,0.0,0.101,0.0858,71.981,250093
+Taylor Swift,1989,I Know Places,6Ck9WerfsyvC4v4AylUoDp,0.595,0.763,-4.991,0.231,0.0,0.2,0.507,159.959,195707
+Taylor Swift,1989,Clean,2k43eySbfpDVx0PrO99UI8,0.81,0.38,-7.755,0.242,0.0,0.113,0.211,103.981,271000
+Taylor Swift,Red (Deluxe Edition),State Of Grace,0b16LTzby1YRVd2nq2Z0fw,0.588,0.825,-5.882,0.000197,0.00138,0.0884,0.397,129.968,295720
+Taylor Swift,Red (Deluxe Edition),Red,7gJtmLyPTwKzhGzMBXtuXH,0.602,0.896,-4.267,0.0773,8.87e-05,0.0911,0.641,124.978,223093
+Taylor Swift,Red (Deluxe Edition),Treacherous,7nECwCDHS1JvQbrmuorZIH,0.704,0.621,-8.086,0.101,4.3e-06,0.14,0.395,109.995,242760
+Taylor Swift,Red (Deluxe Edition),I Knew You Were Trouble.,3lKZf71jeNi14udIFPJ29V,0.622,0.469,-6.798,0.00454,2.25e-06,0.0335,0.679,77.019,219720
+Taylor Swift,Red (Deluxe Edition),All Too Well,6GNRkaWUB0Lwc19SdkTgx8,0.602,0.609,-7.803,0.0382,0.0002,0.128,0.337,93.06,329160
+Taylor Swift,Red (Deluxe Edition),22,3WC5CVAahvn98hiseoIvbw,0.661,0.729,-6.561,0.00215,0.0013,0.0477,0.668,103.987,232120
+Taylor Swift,Red (Deluxe Edition),I Almost Do,1eyqSYBCTane4rl4vc6PWJ,0.567,0.481,-7.357,0.0173,4.13e-05,0.182,0.233,145.865,244560
+Taylor Swift,Red (Deluxe Edition),We Are Never Ever Getting Back Together,6kISMRfweKSvgHR0urMQFG,0.628,0.676,-5.911,0.00957,2.65e-05,0.121,0.75,85.984,193147
+Taylor Swift,Red (Deluxe Edition),Stay Stay Stay,0F2S1QlnMaOfmNHIgmES3k,0.729,0.748,-6.67,0.307,1.29e-06,0.0962,0.928,99.981,205853
+Taylor Swift,Red (Deluxe Edition),The Last Time,2Tz4JnXZOcjcp8fWfMjBBk,0.505,0.443,-7.039,0.035,3.15e-06,0.0906,0.123,94.069,299013
+Taylor Swift,Red (Deluxe Edition),Holy Ground,3KmYVOuK2eG7LGP7qQ8DLR,0.627,0.816,-6.698,0.0162,0.00208,0.0965,0.648,157.043,202960
+Taylor Swift,Red (Deluxe Edition),Sad Beautiful Tragic,70e9zuv2pJc7ON1OUAJ1zl,0.624,0.34,-12.411,0.632,0.0337,0.0805,0.261,129.987,284867
+Taylor Swift,Red (Deluxe Edition),The Lucky One,5VQLMrWhailAhErKNUSnv1,0.706,0.499,-7.675,0.0371,0.0,0.132,0.545,117.937,240267
+Taylor Swift,Red (Deluxe Edition),Everything Has Changed,5PjfMmF06QtxTPZBZHdhoZ,0.624,0.458,-6.755,0.36,3.89e-06,0.311,0.436,80.016,245413
+Taylor Swift,Red (Deluxe Edition),Starlight,1gL4vMhDV3RgJQmDuY5HK1,0.649,0.777,-5.804,0.0213,0.000335,0.21,0.587,126.018,220600
+Taylor Swift,Red (Deluxe Edition),Begin Again,1yG491M3fRfowMdGN5pey4,0.53,0.526,-8.349,0.199,3.52e-06,0.14,0.323,79.025,239427
+Taylor Swift,Red (Deluxe Edition),The Moment I Knew,4qTAwKJQ68gmnrnfPD3vlO,0.619,0.506,-7.327,0.187,1.47e-05,0.101,0.274,126.03,286613
+Taylor Swift,Red (Deluxe Edition),Come Back...Be Here,1n8rB9AhxiAvVP1E2c3yOd,0.483,0.548,-6.291,0.00471,2.01e-06,0.0997,0.217,79.926,223920
+Taylor Swift,Red (Deluxe Edition),Girl At Home,6VFpuI0DDmbC5UyWZQ4IRY,0.733,0.59,-5.86,0.272,0.0,0.134,0.633,125.048,220840
+Taylor Swift,Red (Deluxe Edition),Treacherous - Original Demo Recording,7skiELMb9SiQCcBpsExIJf,0.828,0.64,-8.248,0.175,6.14e-05,0.0991,0.519,109.993,240267
+Taylor Swift,Red (Deluxe Edition),Red - Original Demo Recording,2OghnlGqZZsFzHjG0CSE9l,0.678,0.902,-4.659,0.113,0.000235,0.0705,0.637,124.998,227080
+Taylor Swift,Red (Deluxe Edition),State Of Grace - Acoustic,5mfDBWY7ncZFm7ykmFTG4i,0.626,0.118,-15.91,0.664,0.000169,0.127,0.0682,105.597,323080
+Taylor Swift,Red,State Of Grace,786NsUYn4GGUf8AOt0SQhP,0.588,0.825,-5.882,0.000197,0.00138,0.0885,0.397,129.968,295187
+Taylor Swift,Red,Red,0cITLOYn1Sv4q27zZPqlNK,0.602,0.896,-4.267,0.0773,8.87e-05,0.091,0.641,124.978,220827
+Taylor Swift,Red,Treacherous,5kYFVSQoPu7yRpfiHBwMUk,0.705,0.621,-8.086,0.101,4.3e-06,0.147,0.395,109.993,240773
+Taylor Swift,Red,I Knew You Were Trouble.,72jCZdH0Lhg93z6Z4hBjgj,0.622,0.469,-6.798,0.00454,2.25e-06,0.0398,0.679,77.019,217973
+Taylor Swift,Red,All Too Well,4XMP3zVxrnr58T0tjIHvpR,0.602,0.609,-7.803,0.0382,0.0002,0.127,0.337,93.06,327893
+Taylor Swift,Red,22,2ULNeSomDxVNmdDy8VxEBU,0.658,0.729,-6.561,0.00215,0.0013,0.0752,0.668,104.007,230133
+Taylor Swift,Red,I Almost Do,5VwFkx7JOimOGTYfha5rs1,0.567,0.481,-7.357,0.0173,4.13e-05,0.182,0.233,145.865,242573
+Taylor Swift,Red,We Are Never Ever Getting Back Together,7AEAGTc8cReDqcbPoY9gwo,0.628,0.676,-5.911,0.00957,2.65e-05,0.102,0.75,85.984,191880
+Taylor Swift,Red,Stay Stay Stay,1qLeEu4iXEclkLwoBlMiou,0.729,0.748,-6.67,0.307,1.29e-06,0.09,0.928,99.981,204827
+Taylor Swift,Red,The Last Time,3n9mzjgAzjyKawvbHzciXF,0.505,0.443,-7.039,0.035,3.15e-06,0.0921,0.123,94.069,298293
+Taylor Swift,Red,Holy Ground,1fGsZsIkQkOspfsT24nQP6,0.627,0.816,-6.698,0.0162,0.00208,0.0966,0.648,157.043,201853
+Taylor Swift,Red,Sad Beautiful Tragic,6LKjHhOW1az75pCQ9XJJtF,0.624,0.34,-12.411,0.632,0.0337,0.121,0.261,129.987,283680
+Taylor Swift,Red,The Lucky One,2X2J0BhxaLTmnxO4pPUhSd,0.706,0.499,-7.675,0.0371,0.0,0.132,0.545,117.937,240133
+Taylor Swift,Red,Everything Has Changed,4NAmRvqSITAAzKWnC8yRq3,0.624,0.458,-6.755,0.36,3.89e-06,0.303,0.436,80.017,243933
+Taylor Swift,Red,Starlight,7MecVsMj22MneZt7kVFaCr,0.649,0.777,-5.804,0.0213,0.000335,0.221,0.587,126.018,217827
+Taylor Swift,Red,Begin Again,0L4YCNRfXAoTvdpWeH2RGj,0.53,0.526,-8.349,0.199,3.52e-06,0.232,0.323,79.025,237613
+Taylor Swift,Speak Now World Tour Live,Sparks Fly - Live/2011,1aBJNc2thaKyh5THWzIqHX,0.455,0.783,-5.184,0.00917,0.0,0.918,0.298,114.981,336827
+Taylor Swift,Speak Now World Tour Live,Mine - Live/2011,7yndkPYP6YQQLBpPsizDfh,0.496,0.852,-4.775,0.00233,0.0,0.554,0.442,120.969,259280
+Taylor Swift,Speak Now World Tour Live,The Story Of Us - Live,72GIZuUXo14oyrS0si3Rgc,0.419,0.908,-5.156,0.00048,0.0,0.815,0.472,139.813,290520
+Taylor Swift,Speak Now World Tour Live,Mean - Live/2011,7mFiEij8AXPUZB7aKLbUlQ,0.429,0.915,-4.373,0.154,0.0,0.693,0.432,163.752,246373
+Taylor Swift,Speak Now World Tour Live,Ours - Live/2011,68QyrSzpnoU04AAhE5z8lj,0.421,0.355,-10.21,0.715,0.0,0.867,0.267,77.769,245973
+Taylor Swift,Speak Now World Tour Live,Back To December/Apologize/You're Not Sorry - Live/2011/Medley,1IsquhJFJ0qcFZI7FeAEuN,0.374,0.516,-8.745,0.155,0.0,0.795,0.171,142.057,362827
+Taylor Swift,Speak Now World Tour Live,Better Than Revenge - Live/2011,6505MLhnqTDDg4tjoUz2Wp,0.445,0.887,-5.629,0.00306,2.67e-05,0.931,0.386,145.954,344573
+Taylor Swift,Speak Now World Tour Live,Speak Now - Live/2011,3QFB14MOUf3imlyISNmrbT,0.615,0.694,-5.251,0.0636,1.28e-06,0.83,0.373,118.876,248147
+Taylor Swift,Speak Now World Tour Live,Last Kiss - Live/2011,6hH37tyeRdyan1mAppmVor,0.427,0.395,-12.551,0.205,8.73e-06,0.701,0.188,79.517,369067
+Taylor Swift,Speak Now World Tour Live,Drops Of Jupiter - Live/2011,0BSmbCIY36iw04azzJ3S0S,0.374,0.504,-8.407,0.806,0.0,0.76,0.27,109.025,315173
+Taylor Swift,Speak Now World Tour Live,Bette Davis Eyes - Live/2011,6KF9xd2hBLuexrmBX4vUWD,0.327,0.488,-9.287,0.713,0.0,0.837,0.363,104.46,189147
+Taylor Swift,Speak Now World Tour Live,I Want You Back - Live/2011,4KB3zBArZ1rHRExilzycaV,0.536,0.512,-6.794,0.794,0.000122,0.497,0.249,97.397,83253
+Taylor Swift,Speak Now World Tour Live,Dear John - Live/2011,4DbI1rr4IQ2bc8nejy9ttd,0.521,0.386,-8.784,0.0157,0.0,0.884,0.138,119.518,404680
+Taylor Swift,Speak Now World Tour Live,Enchanted - Live/2011,3lm4L3pPL32PFy74dR17OR,0.34,0.663,-5.597,0.0747,2.34e-06,0.563,0.214,163.678,389213
+Taylor Swift,Speak Now World Tour Live,Haunted - Live/2011,6znB7YZhMJT2B83zfbiyLq,0.338,0.818,-7.495,0.0245,0.0,0.889,0.177,162.157,292427
+Taylor Swift,Speak Now World Tour Live,Long Live - Live/2011,5QkzyLUb4ggojNDp8G2OxX,0.544,0.728,-5.838,0.0053,0.0,0.865,0.204,101.939,376467
+Taylor Swift,Speak Now,Mine - POP Mix,0GxW5K0qzrq7L1jwSY5OmY,0.696,0.768,-3.863,0.00461,1.21e-06,0.101,0.692,121.05,230547
+Taylor Swift,Speak Now,Sparks Fly,46NGAvL695VnbcSeTmQWmM,0.608,0.785,-2.976,0.0387,0.0,0.158,0.376,114.985,260947
+Taylor Swift,Speak Now,Back To December,5l6GqSxplqnZbLg0LTPQeG,0.517,0.606,-5.797,0.0202,0.0,0.324,0.296,141.929,293040
+Taylor Swift,Speak Now,Speak Now,7dXKdjpOaH2iwfFKmUj7aq,0.708,0.601,-3.75,0.101,0.0,0.0979,0.742,118.962,240773
+Taylor Swift,Speak Now,Dear John,3K2es3gElMRJ3qvmPW442g,0.583,0.468,-5.378,0.183,1.65e-06,0.111,0.126,119.375,403933
+Taylor Swift,Speak Now,Mean,0KztjtD3ytzgYjUKIVfBnW,0.57,0.747,-3.978,0.445,0.0,0.219,0.808,164.004,237747
+Taylor Swift,Speak Now,The Story Of Us,3lXekiVK1ZPZbKconsys73,0.575,0.855,-4.827,0.000315,0.00161,0.0419,0.84,139.92,265680
+Taylor Swift,Speak Now,Never Grow Up,3JilapcaOXzjR9gtvCY8FO,0.715,0.308,-8.829,0.829,0.0,0.16,0.547,124.899,290480
+Taylor Swift,Speak Now,Enchanted,04S1pkp1VaIqjg8zZqknR5,0.535,0.618,-3.913,0.0716,0.000388,0.169,0.228,81.975,352200
+Taylor Swift,Speak Now,Better Than Revenge,0PWgAyoxsjwGRuFSO0fyya,0.519,0.917,-3.185,0.0167,2.06e-05,0.359,0.652,145.882,217173
+Taylor Swift,Speak Now,Innocent,0mTgFzkDgSAF3nJY25XCXG,0.553,0.604,-5.295,0.202,0.0,0.125,0.186,133.989,302267
+Taylor Swift,Speak Now,Haunted,2YjKcFQ1vYFhQPgsmCOjss,0.434,0.944,-2.641,0.0769,0.0,0.151,0.361,162.02,242093
+Taylor Swift,Speak Now,Last Kiss,4EUQXLipplO2v9mVaqQtjc,0.359,0.329,-9.531,0.581,3.75e-05,0.0979,0.208,84.358,367147
+Taylor Swift,Speak Now,Long Live,4ewAfHYpDTzpW1GKO44CVP,0.412,0.682,-4.319,0.0426,7.47e-05,0.106,0.146,203.959,317960
+Taylor Swift,Speak Now (Deluxe Package),Mine - POP Mix,0OAHsZ8vrS2NKom3cvfJQD,0.696,0.768,-3.863,0.00461,1.21e-06,0.101,0.692,121.05,230547
+Taylor Swift,Speak Now (Deluxe Package),Sparks Fly,09cM9BjyNFizKUOXh6j9rT,0.608,0.785,-2.976,0.0387,0.0,0.158,0.376,114.985,260947
+Taylor Swift,Speak Now (Deluxe Package),Back To December,0tr6XR58KBdDYd8qvHVTs8,0.517,0.606,-5.797,0.0202,0.0,0.324,0.296,141.929,293040
+Taylor Swift,Speak Now (Deluxe Package),Speak Now,2PBghI9zJkQEWBzMSMo2Ki,0.708,0.601,-3.75,0.101,0.0,0.0979,0.742,118.962,240773
+Taylor Swift,Speak Now (Deluxe Package),Dear John,1GeLxMgpeCnMJntwyW6rLw,0.583,0.468,-5.378,0.183,1.65e-06,0.111,0.126,119.375,403888
+Taylor Swift,Speak Now (Deluxe Package),Mean,6yM6QsnTCTVOkKEvg3hGlo,0.57,0.747,-3.978,0.445,0.0,0.219,0.808,164.004,237747
+Taylor Swift,Speak Now (Deluxe Package),The Story Of Us,7vBlnGdfOLzVEqiOQQxeU8,0.575,0.855,-4.827,0.000315,0.00161,0.0419,0.84,139.92,265636
+Taylor Swift,Speak Now (Deluxe Package),Never Grow Up,57w0Uyk2jJAkO2hMJ36xJZ,0.715,0.308,-8.829,0.829,0.0,0.16,0.547,124.899,290480
+Taylor Swift,Speak Now (Deluxe Package),Enchanted,3sqrvkNC6IPTIXvvbx9Arw,0.535,0.618,-3.913,0.0716,0.000388,0.169,0.228,81.975,352200
+Taylor Swift,Speak Now (Deluxe Package),Better Than Revenge,55mh9j2aB7xZ1Oh463gK8k,0.519,0.917,-3.185,0.0167,2.06e-05,0.359,0.652,145.882,217173
+Taylor Swift,Speak Now (Deluxe Package),Innocent,4LraIz87diVQdDK0rhi0S4,0.553,0.604,-5.295,0.202,0.0,0.125,0.186,133.989,302267
+Taylor Swift,Speak Now (Deluxe Package),Haunted,72idZxdEHLbi2YI486c3sE,0.434,0.944,-2.641,0.0769,0.0,0.151,0.361,162.02,242093
+Taylor Swift,Speak Now (Deluxe Package),Last Kiss,1VCJ7vk3Y2DoJIAEOXe3V8,0.359,0.329,-9.531,0.581,3.75e-05,0.0979,0.208,84.358,367147
+Taylor Swift,Speak Now (Deluxe Package),Long Live,7BFc7ffruhZ4Hecnqf5xju,0.412,0.682,-4.319,0.0426,7.47e-05,0.106,0.146,203.959,317960
+Taylor Swift,Speak Now (Deluxe Package),Ours,0hK93KD6Y0j9giUGh4Valj,0.61,0.556,-7.369,0.505,0.0,0.0851,0.192,159.838,238173
+Taylor Swift,Speak Now (Deluxe Package),If This Was A Movie,5tSmAABuoOfR59lrtXdDqm,0.515,0.724,-3.498,0.154,4.05e-06,0.269,0.257,147.788,234547
+Taylor Swift,Speak Now (Deluxe Package),Superman,6aJ0ipi4EPmu1aTbFeXZnw,0.582,0.817,-3.718,0.0187,1.94e-06,0.101,0.547,131.983,276267
+Taylor Swift,Speak Now (Deluxe Package),Back To December - Acoustic,7k7BOXE4u6luKTwcLEAyrd,0.541,0.451,-6.522,0.731,0.0,0.197,0.333,141.713,292533
+Taylor Swift,Speak Now (Deluxe Package),Haunted - Acoustic Version,6SdBf0ZsJZoKaH5zcDaz9X,0.574,0.462,-5.124,0.841,0.0,0.28,0.314,80.858,217627
+Taylor Swift,Speak Now (Deluxe Package),Mine,67Io3gxHwfbUreBf114c0u,0.621,0.78,-2.934,0.00327,4.55e-06,0.184,0.672,121.038,230773
+Taylor Swift,Speak Now (Deluxe Package),Back To December,5aNkiOMxQXkpoEY5bTYoCh,0.525,0.676,-4.684,0.113,0.0,0.294,0.281,141.95,293040
+Taylor Swift,Speak Now (Deluxe Package),The Story Of Us,2jt90bYlYDg1lXYWES34LJ,0.546,0.809,-3.621,0.00487,0.000372,0.0437,0.649,139.91,266480
+Taylor Swift,Fearless (Platinum Edition),Jump Then Fall,6WWvcA62QlnRguluWAk6bv,0.618,0.687,-5.737,0.111,0.0,0.0693,0.82,79.991,237067
+Taylor Swift,Fearless (Platinum Edition),Untouchable,6ovFJkdau79DuXEvQjPaNH,0.419,0.454,-6.809,0.0583,3.78e-06,0.0974,0.288,200.017,311040
+Taylor Swift,Fearless (Platinum Edition),Forever & Always - Piano Version,13MAWVUSkbGMUi6I7RowRK,0.592,0.16,-10.785,0.852,0.0,0.116,0.294,118.929,267507
+Taylor Swift,Fearless (Platinum Edition),Come In With The Rain,0cEG04R5cldkTLzK6phlcn,0.527,0.461,-6.172,0.0961,2.47e-06,0.24,0.23,143.94,238093
+Taylor Swift,Fearless (Platinum Edition),SuperStar,0XfTh16YcKPzdxMPTeKTAq,0.61,0.531,-6.123,0.367,0.0,0.351,0.228,85.979,261453
+Taylor Swift,Fearless (Platinum Edition),The Other Side Of The Door,1yDJcXc549N6AabNBzFAku,0.476,0.816,-4.279,0.169,0.0,0.238,0.469,163.847,237600
+Taylor Swift,Fearless (Platinum Edition),Fearless,2okho7vU7Nsq1UZD0kgIMi,0.598,0.714,-4.397,0.0364,1.04e-06,0.31,0.467,99.979,242000
+Taylor Swift,Fearless (Platinum Edition),Fifteen,5Ora3Ish2A1JN5veGYTxhw,0.559,0.636,-4.4,0.0728,0.0,0.144,0.214,95.485,294347
+Taylor Swift,Fearless (Platinum Edition),Love Story,5hnJCRSo4pxRsaEwT9YusG,0.618,0.736,-3.937,0.157,0.0,0.073,0.307,118.982,235280
+Taylor Swift,Fearless (Platinum Edition),Hey Stephen,3CI1f4yLwdHzcUnH7o0Xyh,0.843,0.553,-7.348,0.168,2.66e-06,0.107,0.825,115.997,254320
+Taylor Swift,Fearless (Platinum Edition),White Horse,5yKB8qcTSflDercM2PXwot,0.585,0.346,-8.014,0.302,0.0,0.102,0.195,92.564,234440
+Taylor Swift,Fearless (Platinum Edition),You Belong With Me,4kgTdThcDHfuDS2kKxB7Lc,0.687,0.771,-4.424,0.164,2.46e-05,0.112,0.445,129.964,231147
+Taylor Swift,Fearless (Platinum Edition),Breathe,23qIWGhpwvDgC23TyZOUck,0.498,0.486,-7.384,0.373,0.0,0.113,0.17,147.952,263987
+Taylor Swift,Fearless (Platinum Edition),Tell Me Why,4x7Gxk2GfwZJcqpoVT1PbR,0.601,0.852,-3.096,0.0606,3.41e-06,0.37,0.513,100.015,200560
+Taylor Swift,Fearless (Platinum Edition),You're Not Sorry,3JhvYnOfKLJuWC7jEU0GmJ,0.459,0.459,-4.126,0.13,2.3e-06,0.113,0.281,134.018,261800
+Taylor Swift,Fearless (Platinum Edition),The Way I Loved You,4pEZUytwBzha5Un6m3SCFf,0.436,0.712,-3.689,0.0322,0.0,0.111,0.379,160.886,244240
+Taylor Swift,Fearless (Platinum Edition),Forever & Always,3NKCWBT2uKp8rxSkcvIrdX,0.605,0.829,-4.993,0.0907,0.0,0.106,0.514,128.012,225333
+Taylor Swift,Fearless (Platinum Edition),The Best Day,7CjuAoOiSrwWv7wJonAUmw,0.664,0.447,-8.535,0.611,1e-06,0.139,0.364,126.079,245347
+Taylor Swift,Fearless (Platinum Edition),Change,3gFaNwyiafgUoQhR0pHYA9,0.548,0.756,-4.175,0.00471,0.0,0.117,0.224,96.038,281053
+Taylor Swift,Fearless,Fearless,4lIbdZwGa2hgkxigHJumaV,0.403,0.699,-4.412,0.0393,0.0,0.303,0.448,200.056,243400
+Taylor Swift,Fearless,Fifteen,2l9Pipz6AiVOabtKJVl3O9,0.558,0.634,-4.437,0.0665,0.0,0.145,0.208,95.349,295213
+Taylor Swift,Fearless,Love Story,0wi9VaczZO8tbBwltGiwO5,0.618,0.637,-5.412,0.0198,7.99e-05,0.169,0.269,119.056,234707
+Taylor Swift,Fearless,Hey Stephen,4vwfVWo6hSf0vJuBpNwMWJ,0.841,0.543,-7.338,0.181,2.24e-06,0.0903,0.827,115.994,256053
+Taylor Swift,Fearless,White Horse,04g3rUk3RzqaXi02FJT2Zl,0.582,0.334,-8.035,0.272,0.0,0.102,0.231,92.71,235427
+Taylor Swift,Fearless,You Belong With Me,3hD7Dd9WVVkT6HAtil3R2D,0.69,0.774,-4.467,0.17,1.64e-05,0.102,0.414,129.98,232120
+Taylor Swift,Fearless,Breathe,5XQJNlITnzHbLqpX60gUrj,0.487,0.476,-7.385,0.388,0.0,0.135,0.156,147.913,264973
+Taylor Swift,Fearless,Tell Me Why,3ZeJG2dbry1YgRbGn5IukZ,0.607,0.854,-3.079,0.0667,2.75e-06,0.356,0.492,99.989,201507
+Taylor Swift,Fearless,You're Not Sorry,5WbxKDVDEHtDWL9Mr6ZLoc,0.469,0.46,-4.098,0.141,1.39e-06,0.113,0.302,133.956,263240
+Taylor Swift,Fearless,The Way I Loved You,177nprYS2qLchToEJVzTec,0.434,0.719,-3.715,0.0393,0.0,0.113,0.419,160.92,245400
+Taylor Swift,Fearless,Forever & Always,0AXwcrtfYGYgQgmzyk8PA1,0.603,0.811,-4.98,0.0883,0.0,0.101,0.529,128.007,226333
+Taylor Swift,Fearless,The Best Day,361O1jOM9zsU5Wmo3hhsfH,0.668,0.448,-8.566,0.639,4.06e-06,0.14,0.383,126.074,246320
+Taylor Swift,Fearless,Change,5nUPw1RvAkqDIdebpDy3JI,0.547,0.763,-4.206,0.00418,0.0,0.107,0.231,96.018,280293
+Taylor Swift,Fearless,Our Song,3iaYan8tKzKGP0MNWbSgxM,0.522,0.691,-4.825,0.00609,0.0,0.249,0.651,177.865,201107
+Taylor Swift,Fearless,Teardrops On My Guitar,7gfzBsM4xaMb8c2WdpzEat,0.514,0.554,-6.338,0.0174,0.00572,0.118,0.171,99.947,194653
+Taylor Swift,Fearless,Should've Said No,5p0RhYSSIU86G63ugc7nAA,0.405,0.758,-4.385,0.00585,0.00029,0.246,0.444,168.077,245827
+Taylor Swift,Fearless,Love Story - J Stax Radio Mix,4i0M7glXqIIRKPwbLtpExi,0.696,0.827,-6.464,0.00664,0.0031,0.297,0.324,127.997,221800
+Taylor Swift,Live From Clear Channel Stripped 2008,Love Story - Live From Clear Channel Stripped 2008,4RBKAqJ3qyvvriDG0s9IJ3,0.741,0.444,-7.031,0.659,0.0,0.131,0.512,119.006,221028
+Taylor Swift,Live From Clear Channel Stripped 2008,Fearless - Live From Clear Channel Stripped 2008,5g7RMU3cV7zXWH244BLe7G,0.623,0.266,-5.894,0.814,0.0,0.145,0.467,96.601,198247
+Taylor Swift,Live From Clear Channel Stripped 2008,Beautiful Eyes - Live From Clear Channel Stripped 2008,4aBW31cmkA7BLColUsMEeZ,0.627,0.704,-3.739,0.596,0.0,0.0598,0.457,98.958,176316
+Taylor Swift,Live From Clear Channel Stripped 2008,Untouchable - Live From Clear Channel Stripped 2008,4MbHDiHQjhmoVAV75G04Ql,0.731,0.184,-9.235,0.856,0.0,0.0927,0.331,102.404,222959
+Taylor Swift,Live From Clear Channel Stripped 2008,Teardrops On My Guitar - Live From Clear Channel Stripped 2008,4DjevQhsPWULcondN4mRh5,0.344,0.801,-5.373,0.664,0.0,0.106,0.615,204.489,196347
+Taylor Swift,Live From Clear Channel Stripped 2008,Picture To Burn - Live From Clear Channel Stripped 2008,7EvU9pRoJ9Xs7anx0P7tEc,0.647,0.872,-1.953,0.266,0.0,0.419,0.684,105.798,173899
+Taylor Swift,Live From Clear Channel Stripped 2008,Should've Said No - Live From Clear Channel Stripped 2008,5a9hUL6ZuiagZhazwrtwHF,0.429,0.808,-3.004,0.399,0.0,0.0884,0.438,171.537,228474
+Taylor Swift,Live From Clear Channel Stripped 2008,Change - Live From Clear Channel Stripped 2008,69o9kr9UexjzeZDE8yD8dQ,0.243,0.712,-4.307,0.156,0.0,0.111,0.273,202.319,258487
+Taylor Swift,Taylor Swift (Deluxe Edition),Tim McGraw,2Fn01AIMyHbha2ceNQeOqw,0.58,0.491,-6.462,0.575,0.0,0.121,0.425,76.009,232107
+Taylor Swift,Taylor Swift (Deluxe Edition),Picture To Burn,4BYejINgfZF0qKDMEH2cim,0.658,0.877,-2.098,0.173,0.0,0.0962,0.821,105.586,173067
+Taylor Swift,Taylor Swift (Deluxe Edition),Teardrops On My Guitar - Radio Single Remix,2TF4UtYreqNbQ6Z9AccldU,0.621,0.417,-6.941,0.288,0.0,0.119,0.289,99.953,203040
+Taylor Swift,Taylor Swift (Deluxe Edition),A Place in this World,1oR4MUBpyNrAViC8wPNpfm,0.576,0.777,-2.881,0.051,0.0,0.32,0.428,115.028,199200
+Taylor Swift,Taylor Swift (Deluxe Edition),Cold As You,569sXXQ7t0jSdqHooi2yqs,0.418,0.482,-5.769,0.217,0.0,0.123,0.261,175.558,239013
+Taylor Swift,Taylor Swift (Deluxe Edition),The Outside,5Tj2MqcFMf60CaGsKbM1aq,0.589,0.805,-4.055,0.00491,0.0,0.24,0.591,112.982,207107
+Taylor Swift,Taylor Swift (Deluxe Edition),Tied Together with a Smile,2zzxwmoOBnXDT0KnJsoIWk,0.479,0.578,-4.963,0.525,0.0,0.0841,0.192,146.165,248107
+Taylor Swift,Taylor Swift (Deluxe Edition),Stay Beautiful,41sjzdjScVwnxnxADElts6,0.594,0.629,-4.919,0.0868,0.0,0.137,0.504,131.597,236053
+Taylor Swift,Taylor Swift (Deluxe Edition),Should've Said No,6CdaXOq1MWe2JHDalTG01d,0.476,0.777,-3.771,0.0103,0.0,0.196,0.472,167.964,242200
+Taylor Swift,Taylor Swift (Deluxe Edition),Mary's Song (Oh My My My),2O8sogKJCfVZ4rotBv1vVF,0.403,0.627,-5.28,0.0177,0.0,0.182,0.374,74.9,213080
+Taylor Swift,Taylor Swift (Deluxe Edition),Our Song,1j6gmK6u4WNI33lMZ8dC1s,0.668,0.672,-4.931,0.111,0.0,0.329,0.539,89.011,201107
+Taylor Swift,Taylor Swift (Deluxe Edition),I'm Only Me When I'm With You,7CzxXgQXurKZCyHz9ufbo1,0.563,0.934,-3.629,0.00452,0.000807,0.103,0.518,143.964,213053
+Taylor Swift,Taylor Swift (Deluxe Edition),Invisible,1k3PzDNjg38cWqOvL4M9vq,0.612,0.394,-5.723,0.637,0.0,0.147,0.233,96.001,203227
+Taylor Swift,Taylor Swift (Deluxe Edition),A Perfectly Good Heart,0YgHuReCSPwTXYny7isLja,0.483,0.751,-5.726,0.00349,0.0,0.128,0.268,156.092,220147
+Taylor Swift,Taylor Swift (Deluxe Edition),Teardrops on My Guitar - Pop Version,1hxLyjC9D9Jpw6EAPKqWv4,0.459,0.753,-3.827,0.0402,0.0,0.0863,0.483,199.997,179067
