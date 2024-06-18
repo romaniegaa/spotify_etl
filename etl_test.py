@@ -2,7 +2,7 @@ import os
 from etl import Spotify_ETL
 from login import *
 
-dir = r"C:\Users\Usuario\OneDrive\Escritorio\Projects\spotify_etl"
+dir = ""
 os.chdir(dir)
 
 # Test

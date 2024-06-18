@@ -1,7 +1,5 @@
-import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.client import Spotify
-from login import CLIENT_ID, CLIENT_SECRET
 
 import pandas as pd
 import time
@@ -13,7 +11,7 @@ class Spotify_ETL:
 
     def __credentials(self, CLIENT_ID, CLIENT_SECRET):
         # Credentials
-        self.__sp = spotipy.Spotify(auth_manager = SpotifyClientCredentials(client_id = CLIENT_ID,
+        self.__sp = Spotify(auth_manager = SpotifyClientCredentials(client_id = CLIENT_ID,
                                                                             client_secret = CLIENT_SECRET))
         
     def __search_artist(self):
@@ -41,6 +39,7 @@ class Spotify_ETL:
         
     def __get_album_tracks(self):
         # Get track names and IDs
+        self.__album = []
         self.__track_names = []
         self.__track_ids = []
 
@@ -50,6 +49,7 @@ class Spotify_ETL:
             for i_track in range(self.__album_n_tracks[i_album]):
                 self.__track_names.append(self.__album_tracks["items"][i_track]["name"])
                 self.__track_ids.append(self.__album_tracks["items"][i_track]["id"])
+                self.__album.append(self.__album_names[i_album])
 
     def __get_track_features(self):
         # Features
@@ -89,6 +89,7 @@ class Spotify_ETL:
         # Gather the data in a DataFrame
         self.__raw_data = pd.DataFrame(
             {"artist": self.__artist_name,
+             "album": self.__album,
              "track": self.__track_names,
              "id": self.__track_ids,
              "danceability": self.__track_danceability,
